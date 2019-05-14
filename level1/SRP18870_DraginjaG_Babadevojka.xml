@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Бабадевојка : ELTeC издање</title>
-                <author ref="viaf:17281658">Гавриловић, Драга (1854-1917)</author>
+                <author ref="viaf:17281658">Гавриловић, Драга (1854-1917)                <idno type="wiki">https://sr.wikipedia.org/sr-ec/Драга_Гавриловић</idno>
+</author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Цветана Крстев</name>
@@ -32,15 +33,16 @@
                     <pubPlace>Кикинда</pubPlace>
                     <publisher>Књижевна заједница Кикинде</publisher>
                     <date>1990</date>
-                    <bibl type="firstEdition">
+     		</bibl>
+		<bibl type="firstEdition">
                         <title level="a">Бабадевојка</title>
                         <author>Гавриловић, Драга</author>
                         У календару <title>Орао</title>
                         <publisher>Кикинда : Штампарија Јована Радака</publisher>
                         <date>1887</date>
                     </bibl>
-                    <idno type="wiki">https://sr.wikipedia.org/sr-ec/Драга_Гавриловић</idno>
-                 </bibl>
+                
+                
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
