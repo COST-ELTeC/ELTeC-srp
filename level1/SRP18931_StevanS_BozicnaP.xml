@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18931"  xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Божићна печеница : приповетка : ELTeC издање</title>
-                <author ref="viaf:66526515">Сремац, Стеван (1855-1906) <idno type="wiki">https://sr.wikipedia.org/sr-ec/Стеван_Сремац</idno></author>
+                <author ref="viaf:66526515">Сремац, Стеван (1855-1906) <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Стеван_Сремац</idno> --></author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Цветана Крстев</name>
@@ -83,7 +83,7 @@
 </front>
 <pb n="5"/>
 <body>
-<div type="novel">
+<!-- <div type="novel"> -->
 <div type="chapter" xml:id="SRP18931_C1">
 <head>ГЛАВА ПРВА</head>
 <head>У којој је описано све што је нужно да се претходно зна.</head>
@@ -388,7 +388,7 @@
 <p>А Јова Ватрица није био само човек шалџија. Што је он умео да ошури печеницу — мани се!</p>
 <p>— КРАЈ —</p>
 </div>
-</div>
+<!-- </div> -->
 </body>
 </text>
 </TEI>
