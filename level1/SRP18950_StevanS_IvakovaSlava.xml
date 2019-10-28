@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18950"  xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title ref="viaf:5912152502813910800006">Ивкова слава : ELTeC издање</title>
-                <author ref="viaf:66526515">Сремац, Стеван (1855-1906) <idno type="wiki">https://sr.wikipedia.org/sr-ec/Стеван_Сремац</idno></author>
+                <author ref="viaf:66526515">Сремац, Стеван (1855-1906) <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Стеван_Сремац</idno> --> </author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Цветана Крстев</name>
@@ -75,20 +75,23 @@
             <p>ШТАМПАНО У ДРЖАВНОЈ ШТАМПАРИЈИ КРАЉЕВИНЕ СРБОЈЕ</p>
             <p>1899</p>
         </div>
-        <div type="preface">
+        <pb n="I"/>
+        <gap unit="preface"/>
+        <gap unit="toc"/>
+ <!--       <div type="preface">
             <head>О ЈЕЗИКУ У ОВОЈ КЊИЗИ</head>
             <pb n="I"/>
             <gap unit="text"/> 
-        </div>
-        <div type="TOC">
+        </div> -->
+ <!--       <div type="TOC">
             <head>ПРЕГЛЕД</head>
             <pb n="I"/>
             <gap unit="text"/> 
-        </div>
+        </div> -->
     </front>
     
 <body>
-<div type="novel">
+<!-- <div type="novel"> -->
 <div type="chapter" xml:id="SRP18950_C1">
 
 <pb n="1"/>
@@ -1496,7 +1499,7 @@
 <p>И он се жртвовао за кућу и за децу (за ћерку Добрилу и сина Миленка), иако је тврдо убеђен био да је нешто друго, узвишеније нешто, прави позив његов. И наш несуђени Герик закопа таленат свој и малакса; и угушујући богодани му дар и полет, клонуше му и спадоше крила, као очупаном гушчету, и он се умири. Савлађује себе, али ипак, ипак; стара она глумачка крв не да се затајити. Не верујте му, и ако га видите како достојанствено, <pb n="185"/> бирократски, иде и прегледа и констатује чистоту по становима, или се крене с пандуром и кесама да купи порез — не верујте му, велим, оном мирном и равнодушном изгледу и изразу као резигнације неке. Вук длаку меша, а ћуд никада; притерала орла зла година — али стара она глумачка крв, као што рекох, не да се затајити; узбуни се понекад јаче. Окреће, истина, главу и бега од залепљених позоришних плаката, само да не види бруку ко игра његове улоге (у којима је он просто бог!), бега од њих као негда, у старо доба, стари и искусни морнар што је бегао од сиренских гласова и примамљивих песама; али види ли само какву пространију, ширу и вишу шупу, ипак уздахне кришом. А кад год види какво парче црвене или жуте коже, тужан је целога дана, јер се опет пробуди у њему она стара, узалуд успављивана гуја; одмах му дође на памет, какве би красне једне чизме могле одатле да се начине за Максима Црнојевића или Милорада Виловића!</p>
 <gap unit="graphic"/> 
 </div>
-</div>
+<!-- </div> -->
 </body>
 </text>
 </TEI>
