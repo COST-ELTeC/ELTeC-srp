@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ne_znam"  xml:lang="sr">
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19060"  xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -55,7 +55,7 @@
             <change when="20190820"/>
         </revisionDesc>
     </teiHeader>
-<text xml:id="SRP19060" xml:lang="sr">
+<text>
 <front>
 <pb n="1"/>
 <pb n="2" />
