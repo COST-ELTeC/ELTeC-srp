@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18870"  xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Бабадевојка : ELTeC издање</title>
-                <author ref="viaf:17281658">Гавриловић, Драга (1854-1917)                <idno type="wiki">https://sr.wikipedia.org/sr-ec/Драга_Гавриловић</idno>
-</author>
+                <author ref="viaf:17281658">Гавриловић, Драга (1854-1917)</author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Цветана Крстев</name>
@@ -33,16 +32,15 @@
                     <pubPlace>Кикинда</pubPlace>
                     <publisher>Књижевна заједница Кикинде</publisher>
                     <date>1990</date>
-     		</bibl>
-		<bibl type="firstEdition">
+                    <bibl type="firstEdition">
                         <title level="a">Бабадевојка</title>
                         <author>Гавриловић, Драга</author>
                         У календару <title>Орао</title>
                         <publisher>Кикинда : Штампарија Јована Радака</publisher>
                         <date>1887</date>
                     </bibl>
-                
-                
+                    <idno type="wiki">https://sr.wikipedia.org/sr-ec/Драга_Гавриловић</idno>
+                 </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
@@ -56,7 +54,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
                 <!-- izdanja: 1887, 1990 -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
             </textDesc>
@@ -77,7 +75,7 @@
 </div>
 </front>
 <body>
-<div type="novel">
+<!-- <div type="novel"> -->
 <head>БАБАДЕВОЈКА</head>
 <div type="chapter" xml:id="SRP18870_C0">
 <pb n="136"/>
@@ -657,7 +655,7 @@
 <p>„Милане, буди човек! Зар ти не знаш да си ожењен? рекла сам трудећи се, да га умирим.“</p>
 <p>„Знам. Али знам и то, да сам несретан; преварен и да љубим тек тебе.“</p>
 <p>„Ћути Милане, ћути! Већ таке речи су грех из уста ожењена човека.</p>
-<p>„Нећу, да ћутим. Доста сам патио! Грехом називаш ти моју љубав према теби. А зар није већи грех, да се растанемо сад, кад сам и по други пут увидео, да смо створени једно за друго?! Да си ме љубила нема сумње, а осећам, да ме ни сад презирати не можеш. Па зар неби било лудо, кад се неби машили среће, која нам је тако близу! .. 0, Стано, буди милостива, буди паметна, па ме не отискуј од себе. Ја те љубим неизмерно. Нема жртве, која би ми за тебе тешка била. Знања имам а и воље за рад, па хајде самном далеко у свет, где нас нико не зна и не познаје. Тамо ћу те на рукама носити и бићемо обоје сретни. Или ако нећеш тако, реци хоћеш ли, да се са женом раставим? Подићу и небо и земљу док до цељи не дођем.“ </p>
+<p>„Нећу, да ћутим. Доста сам патио! Грехом називаш ти моју љубав према теби. А зар није већи грех, да се растанемо сад, кад сам и по други пут увидео, да смо створени једно за друго?! Да си ме љубила нема сумње, а осећам, да ме ни сад презирати не можеш. Па зар неби било лудо, кад се неби машили среће, која нам је тако близу! .. О, Стано, буди милостива, буди паметна, па ме не отискуј од себе. Ја те љубим неизмерно. Нема жртве, која би ми за тебе тешка била. Знања имам а и воље за рад, па хајде самном далеко у свет, где нас нико не зна и не познаје. Тамо ћу те на рукама носити и бићемо обоје сретни. Или ако нећеш тако, реци хоћеш ли, да се са женом раставим? Подићу и небо и земљу док до цељи не дођем.“ </p>
 <pb n="165"/>
 <p>Упро је очајнички поглед у мене а ја сам дрхтала као у грозници.</p>
 <p>„Што ћутиш? Реци, да хоћеш. То није грех: жени ћу оставити сво добро моје. Она ће ме лако прегорети. Није ни пошла за мене из љубави. Новац и титула: „госпођа докторка“, њезин је идеал...“</p>
@@ -819,7 +817,7 @@
 <p>Сахранила је лепо, тамо у варошко гробље. Метнула јој и каменит крст, али без сваког знака и натписа. Кад сам је питала, зашто: каже: „тако ми је покојница наручила.“</p>
 <p>Кад смо је сахранили, седила је дубоко у ноћ и читала неку рукописну књижицу. Кад је прочитала, спалила је ту у камину. Каже, и то јој покојница наручила.</p>
 </div>
-</div>
+<!-- </div> -->
 </body>
 </text>
 </TEI>
