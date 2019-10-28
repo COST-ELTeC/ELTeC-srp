@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19022"  xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Покојникова жена : ELTeC издање</title>
-                <author ref="viaf:76323147">Станковић, Борисав (1876-1927) <idno type="wiki">https://sr.wikipedia.org/sr-ec/Борисав_Станковић</idno></author>
+                <author ref="viaf:76323147">Станковић, Борисав (1876-1927) <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Борисав_Станковић</idno> --> </author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Цветана Крстев</name>
@@ -90,7 +90,7 @@
 </div>
 </front>
 <body>
-<div type="novel">
+<!-- <div type="novel"> -->
 <pb n="13"/>
 <div type="chapter" xml:id="SRP19022_C1">
 <head>ПОКОЈНИКОВА ЖЕНА.</head>
@@ -264,7 +264,7 @@
 <p>— Како ништа? Не бој се. Ништа нема. Показују јој на мирну, тамну ноћ, кућу,<pb n="61"/> досећујући се за њене ноћне снове и привиђења.</p>
 <p>И после, мајка јој са женама из комшилука ма да Аница није допуштала, силом, догод се за Недељка није удала, венчала, отишла одатле, из покојникове куће, сваке ноћи су седеле око ње, чувале је и као браниле од некога.</p>
 </div>
-</div>
+<!-- </div> -->
 </body>
 </text>
 </TEI>
