@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19200"  xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Један од многих : роман из престоничког живота : ELTeC издање</title>
-                <author ref="viaf:64038897">Шишковић, Драгомир (????-????)</author>
+                <author>Шишковић, Драгомир (????-????)</author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Ранка Станковић</name>
@@ -86,7 +86,7 @@
 </front>
 <body>
 <pb n="7"/>
-<div type="novel">
+<!-- <div type="novel"> -->
 <head>ЈЕДАН ОД МНОГИХ</head>
 <pb n="8"/>
 <pb n="9"/>
@@ -839,7 +839,7 @@
 <p>— Натраг! врисну она, осећајући како јој пуцају кости под његовим рукама. Учини крајњи напор и гурну га што је могла јаче. Он се затетура, изгуби равнотежу. Паде крај велике зубарске столице, удари главом о тешко, гвоздено постоље и више се не маче. Крв из разбијеног потиљка поче да клизи по линолеуму.</p>
 <p>Јелена осети како јој недостаје ваздуха, како се гуши. Хтеде да виче, али јој глас застајаше у грлу. Притисну обема рукама горњи део прса и сруши се крај мртва мужа. </p>
 </div>
-</div>
+<!-- </div> -->
 </body>
 </text>
 </TEI>
