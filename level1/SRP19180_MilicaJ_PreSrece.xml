@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19180"  xml:lang="sr-Latn">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Пре среће : ELTeC/Аурора издање</title>
-                <author ref="viaf:41876311">Јанковић, Милица 1881-1939</author>
+                <author ref="viaf:41876311">Јанковић, Милица (1881-1939)</author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Цветана Крстев</name>
@@ -47,7 +47,7 @@
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
                 <!-- too short -->
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
                 <!-- izdanja: 1918, 2018 -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
             </textDesc>
@@ -67,7 +67,8 @@
 <div type="titlePage">
 <p>TISAK NADBISKUPSKE TISKARE.</p>
 </div>
-<div type="preface">
+<gap unit="preface"/>
+<!-- <div type="preface">
 <pb n="5"/>
 <p>Knjiga, koju napiše ženska ruka, nesumnjivo je za nas — knjiga iz drugog sveta. U njih značenje reči ima drugi smisao, drugi poredak; frazeologija im je mekša, jednostavnija, savitljivija; rečenice su im običnije, kratke ali ne zbijene, i tako nalik jedne na druge; pa čak i u interpunkciji otkriva se njihova ženskost. Čuvena pisma Mme de Sévigné za nas su samo zato od tolikog zanimanja, što ona ni u jednom redku ne odstupa od tih svojih ženskih osobina. Sve su to reči, reči, reči; ali satkane na tako jedan nama drag način, da ih mi isto tako sa strašću i bez predrasuda čitamo kao što slušamo njihov razgovor. Još kad im uspe da tim svojim zamamljivim obiljem reči izazovu u nama iluzije izvesnih osećanja, koja ćemo mi uzalud tražiti u našem muškom srcu, onda je to najviše što mi očekujemo od jedne žene.</p>
 <p>S druge strane opet: neizrecivo su nam hladne, poistovetujemo ih sebi, i ljutimo se pomalo na sve one spisateljice koje se upinju da pišu kao muški. Svojom veštinom, obrazovanjem ili ukusom, one mogu da steknu mnogo priznanja i poštovanja među nama, ali da im se obradujemo, da se zanesemo njihovim delima, i zavolimo ih — to ne možemo <pb n="6"/> nikako. I zbog toga jedna od najzanimljivijih literatkinja, George Sand, kraj sveg svog duha, pismenosti i nastojanja ne samo da zadobije muškarački stil i ton, nego i muško posmatranje i naziranje na svet, osvaja nas ipak samo onim svojim delima (<title>Lelia</title>, <title>Indiana</title>, itd.) u kojima nema toliko one zazorne naučenosti i izvitoperenosti, već gde je sve devojački čisto, prirodno, toplo, neposredno. Ili kad u svojim pismima od srca ženski piše: „Mozak je mehanizam koji treba uvek držati u zaposlenosti. Kad ja svršim jednu knjigu, kažem zbogom mojim junacima i zbog njihova odlaska utešim se tako, da stvaram nove prijatelje“, onda se i nehotice oseća ona ženska lakoća, prostosrdačna plitkost i nameštena važnost, kojom žene vole da govore o ozbiljnim stvarima.</p>
@@ -94,11 +95,11 @@
 <p>Za ovu knjigu možemo ne samo ponoviti Skerlićeve reči nakon izlaska <title>Ispovesti</title>: „Pročitavši je, razneženi čitalac oseti se boljim no što je bio kad ju je uzeo u ruke“, nego možemo još dodati: da pored te topline i dobrote ona ipak uspeva da, usprkos stalnoj našoj neraspoloženosti i rđavim iskustvima, probudi u nama nešto od one velike i svetle nade: da ipak iznad svih tih prekomernih ženskih osećanja i zlih živaca lebdi tračak sunca: — našeg ljudskog razuma; i sva ona provikana inferiornost ženskog spola počinje da se razilazi ispred nas kao magla. Dirljivo posmrtno pismo Jelinog strica to potvrđuje. Inače, kad ga je već ženska ruka napisala, šteta da nije dato u usta ženskoj ličnosti. Ali i pored toga prve stranice tog testamenta podsećaju nas na potresno pismo Pulherine Raskoljnikove „svom milom Rodi.“ A već ono krepko crtanje i dublje obrazlaganje Jelinog položaja i ljubavi nakon udaje, sa setnom nekom primesom samoodricanja i žalbe nad životom, čija polumračna senka prekrasno pada i na čestita joj muža i siroče pastorče — svakako su najlepše stranice ovog romana. A lepe su zato, što se u njima ogledava pritajana radost krvi i asketski zanos svesti— pre sreće.</p>
 <p>Zagreb, avgusta 1918.</p>
 <p>B. Mašić</p>
-</div>
+</div> -->
 </front>
 <body>
 <pb n="13"/>
-<div type="novel">
+<!-- <div type="novel"> -->
 <head>PRE SREĆE</head>
 <pb n="14"/>
 <pb n="15"/>
@@ -848,7 +849,7 @@
 <p>Kraj</p>
 </div>
 </div>
-</div>
+<!-- </div> -->
 </body>
 <back>
 <div type="endPage">
