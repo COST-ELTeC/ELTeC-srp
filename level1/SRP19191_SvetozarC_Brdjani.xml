@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19191" xml:lang="sr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Брђани : ELTeC издање</title>
-        <author ref="viaf:1875-1919">Ћоровић, Светозар (1875-1919)</author>
+        <author ref="viaf:136335">Ћоровић, Светозар (1875-1919)</author>
         <respStmt>
           <resp>OCR и корекција текста</resp>
           <name>Сергеј Адамов</name>
@@ -28,7 +28,7 @@
         <bibl type="firstEdition">
           <author>Ћоровић, Светозар</author>
           <title>Брђани</title>
-          <pubPlace>Београд - Царајево</pubPlace>
+          <pubPlace>Београд - Сарајево</pubPlace>
           <publisher>И. Ђ. Ђурђевић</publisher>
           <date>1919</date>
           <idno type="COBISS-SR.ID">30462727</idno>
@@ -52,7 +52,7 @@
       </textDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="20190718"/>
+      <change when="20190726"></change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -74,7 +74,7 @@
       <pb n="6"/>
     </front>
     <body>
-      <div type="novel">
+ <!--     <div type="novel"> -->
         <pb n="7"/>
         <div type="chapter" xml:id="SRP19191_C1">
 		<head>I.</head>
@@ -879,7 +879,7 @@
           <p>Зарони лице у прегачу, сакри га. Први пут у четири године облише је обилате сузе <pb n="122"/> као пролетња дажда.... И она је јецала као дете, не бринући се више: хоће ли ко чути или видети?</p>
           <p>На болесничкој постељи.</p>
         </div>
-      </div>
+<!--      </div> -->
     </body>
     <back>
       <div type="liminal">
