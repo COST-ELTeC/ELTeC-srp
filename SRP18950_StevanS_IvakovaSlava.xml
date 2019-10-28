@@ -75,16 +75,19 @@
             <p>ШТАМПАНО У ДРЖАВНОЈ ШТАМПАРИЈИ КРАЉЕВИНЕ СРБОЈЕ</p>
             <p>1899</p>
         </div>
-        <div type="preface">
+        <pb n="I"/>
+        <gap unit="preface"/>
+        <gap unit="toc"/>
+ <!--       <div type="preface">
             <head>О ЈЕЗИКУ У ОВОЈ КЊИЗИ</head>
             <pb n="I"/>
             <gap unit="text"/> 
-        </div>
-        <div type="TOC">
+        </div> -->
+ <!--       <div type="TOC">
             <head>ПРЕГЛЕД</head>
             <pb n="I"/>
             <gap unit="text"/> 
-        </div>
+        </div> -->
     </front>
     
 <body>
