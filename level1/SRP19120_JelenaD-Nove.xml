@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19120"  xml:lang="sr">
  	<teiHeader>
 		<fileDesc>
@@ -9,6 +9,10 @@
 				<title xml:lang="en">Nove : ELTeC edition</title>
 				<author ref="viaf:70015495">Димитријевић, Јелена (1862–1945)</author>
 				<author xml:lang="en" ref="viaf:70015495">Dimitrijević, Jelena (1862-1945)</author>
+				<respStmt>
+					<resp>Сканирање</resp>
+					<name>Универзитетска библиотека "Светозар Марковић"</name>
+				</respStmt>
 				<respStmt>
 					<resp>OCR и корекција текста</resp>
 					<name>Цветана Крстев</name>
@@ -26,7 +30,7 @@
 				<p>Укључено у ELTeC корпус <date>2018-12-10</date></p>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="copyText">
+				<bibl type="firstEdition">
 					<author>Димитријевић, Јелена</author>
 					<title>Нове : роман</title>
 					<pubPlace>Београд</pubPlace>
@@ -52,7 +56,7 @@
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
 				<size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-				<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+				<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
 				<!-- izdanja: 1912, 2012 -->
 				<!-- Јелена А.: 2 издања према ВБС -->
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
@@ -345,7 +349,7 @@
 <p>— Белу, ону што је као паучина. Врућина, кјучук-ханум, да се умре.</p>
 <p>— Па кад је толика врућина, колико је сунце? Мора да је грдно велико.</p>
 <p>— Сунца, кјучук-ханум, и нема, није ни изгрејавало, само онако гори, не гори него гуши — омар. Биће неко чудо. Сви смо у бело, говори робиња и полази да отвори врата, јер неко зачагрља резом.</p>
-<p>У собу уђе Мерсијина робиња Ђулзаде<ref target="#SRP19120_N48"/>, обучена у бели чаршаф а црна као гар, и искезивши беле широке зубе закикота се и похита да пољуби Фатми скут, ноћну хаљину сву у везу. Она јој скута не даде и рече: <pb n="45"/></p>
+<p>У собу уђе Мерсијина робиња Ђулзаде <ref target="#SRP19120_N48"/>, обучена у бели чаршаф а црна као гар, и искезивши беле широке зубе закикота се и похита да пољуби Фатми скут, ноћну хаљину сву у везу. Она јој скута не даде и рече: <pb n="45"/></p>
 <p>— О, добро дошла, Јасмин-ханум ! Али како се то смејеш : „Ка! Ка! Ка!“, као кад какоће кокош!</p>
 <p>— Или кад гаче гуска, или кад виче патка на кишу. Она је као патка, и иде као патка, говори Ђулренги и приноси хануми хаљину.</p>
 <p>А Мерсијина црнкиња се зацени од смеха, после рече:</p>
@@ -2152,6 +2156,7 @@
 		<note xml:id="SRP19120_N45"><foreign xml:lang="FR">Mon agneau</foreign>: јагње моје.</note>
 		<note xml:id="SRP19120_N46">Стара госпођа.</note>
 		<note xml:id="SRP19120_N47">Јагње моје, јагњешце моје.</note>
+    	<note xml:id="SRP19120_N48">Кћи ружина.</note>
 		<note xml:id="SRP19120_N49">Разумна и узвишена, велика.</note>
 		<note xml:id="SRP19120_N50">О, да, госпођица Блак ће доћи теби.</note>
 		<note xml:id="SRP19120_N51">Ја сам љубоморна.</note>		
