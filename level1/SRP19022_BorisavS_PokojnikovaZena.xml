@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19022"  xml:lang="sr">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19022" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,26 +23,21 @@
                 <measure unit="words">10109</measure>
                 <measure unit="pages">52</measure>
             </extent>
-            <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2019-05-15</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-05-15--></publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Станковић, Борислав</author>
                     <title>Покојникова жена</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Књижарница Боже О. Дачића</publisher>
                     <date>1907</date>
                     <idno type="COBISS-SR.ID">32370695</idno>
-                </bibl>
-                <bibl type="firstEdition">
+                </bibl><bibl type="firstEdition">
                     <title>Покојникова жена (у оквиру збирке „Стари дани“)</title>
                     <author>Станковић, Борисав</author>
                     <publisher>Београд : Српска књижевна задруга</publisher>
                     <date>1902</date>
                     <idno type="COBISS-SR.ID">13336327</idno>
-                </bibl>  
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -51,21 +48,21 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <!-- izdanja: 1902, 1907, 1928, 1945, 1952, 1973, 1959, 1980, 1996, ... -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190515"/>
         </revisionDesc> 
     </teiHeader>
 <text>
 <front>
 <pb n="5"/>
-<div type="titlePage">
+<div type="titlepage">
 <p>ЈУГОСЛОВЕНСКА БИБЛИОТЕКА</p>
 <p>I КОЛО IV КЊИГА</p>
 <p>БОРИСЛАВ СТАНКОВИЋ</p>
@@ -76,7 +73,7 @@
 <p>1907.</p>
 </div>
 <pb n="7"/>
-<div type="titlePage">
+<div type="titlepage">
 <p>БОРИСЛАВ СТАНКОВИЋ</p>
 <p>ПОКОЈНИКОВА ЖЕНА</p>
 <p>ПРИПОВЕТКА</p>

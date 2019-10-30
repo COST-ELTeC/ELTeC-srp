@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18880"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18880" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Сањало : ELTeC издање</title>
-                <author ref="viaf:79455054">Поповић-Шапчанин, Милорад (1847-1895) <idno type="wiki">https://sr.wikipedia.org/sr-ec/Милорад_Поповић_Шапчанин</idno></author>
+                <author ref="viaf:79455054">Поповић-Шапчанин, Милорад (1847-1895) </author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Цветана Крстев</name>
@@ -21,26 +23,21 @@
                 <measure unit="words">44760</measure>
                 <measure unit="pages">125</measure>
             </extent>
-            <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2019-09-13</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-09-13--></publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Поповић-Шапчанин, Милорад</author>
                     <title>Сањало</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Српска књижевна заграда ; 142 (Штампарија "Доситије Обрадовић")</publisher>
                     <date>1912</date>
                     <idno type="COBISS-SR.ID">7258631</idno>
-                </bibl>
-                <bibl type="firstEdition">
+                </bibl><bibl type="firstEdition">
                     <author>Поповић-Шапчанин, Милорад</author>
                     <title>Сањало</title>
                     <pubPlace>Нови Сад</pubPlace>
                     <publisher>Српска књижара и штампарија браће М. Поповића</publisher>
                     <date>1888</date>
-                  </bibl>  
-            </sourceDesc>
+                  </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -51,20 +48,20 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
                 <!-- izdanja: 1888, 1912, 2018 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190913"/>
         </revisionDesc> 
     </teiHeader>  
 <text>
 <front>
-<div type="titlePage">
+<div type="titlepage">
 <p>142 СРПСКА КЊИЖЕВНА ЗАДРУГА 142.</p>
 <p>САЊАЛО.</p>
 <p>РОМАН.</p>

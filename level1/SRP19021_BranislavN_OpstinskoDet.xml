@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19021"  xml:lang="sr">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19021" xml:lang="sr">
 
     <teiHeader>
         <fileDesc>
@@ -22,11 +24,8 @@
                 <measure unit="words">63780</measure>
                 <measure unit="pages">322</measure>
             </extent>
-            <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2019-04-05</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-04-05--></publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Нушић, Бранислав</author>
                     <title>Општинско дете</title>
                     <pubPlace>Београд</pubPlace>
@@ -41,8 +40,7 @@
                     </bibl>
                     <idno type="wiki">https://sr.wikipedia.org/sr-ec/Бранислав_Нушић#романи</idno>
                     <idno type="COBISS-SR.ID">48683015</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -53,29 +51,29 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <!-- izdanja: 1902, 1924, 1932, 1947, 1953, 1958, 1960, 1963, 1964, 1965, 1966, 1968, 1978, 1982, 1989, 2006, 2010, 2012, 2014, 2015, 2016, 2017 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190405"/>
         </revisionDesc> 
     </teiHeader>
 
 <text>
     <front>
-        <div type="titlePage">
+        <div type="titlepage">
             <p>ШТАМПАРИЈА</p>
             <p>ДРАГ. ГРЕГОРИЋА</p>
             <p>БЕОГРАД.</p>
         </div>
-        <div type="titlePage">
+        <div type="titlepage">
             <p>САБРАНА ДЕЛА БРАНИСЛАВА НУШИЋА</p>
         </div>     
-        <div type="titlePage">
+        <div type="titlepage">
             <p>Сабрана дела</p>
             <p>Бранислава Нушића</p>
             <p>XVI</p>
@@ -83,7 +81,7 @@
             <p>ИЗДАВАЧКО И КЊИЖАРСКО ПРЕДУЗЕЋЕ</p>
             <p>ГЕЦА КОН А.Д.</p>
         </div>
-        <div type="titlePage">
+        <div type="titlepage">
             <p>БРАНИСЛАВ НУШИЋ</p>
             <p>ОПШТИНСКО ДЕТЕ</p>
             <p>БЕОГРАД</p>
@@ -1071,7 +1069,7 @@
 <p>Читаоци, који познају све Фићине особине и послове, неће извесно помислити да је он дошао госпођи Милеви да купује коже, или да продаје старе амове, па чак и да понуди млађе. Не, он је дошао врло важним и чисто адвокатским послом, који ћемо сазнати из ниже изложеног разговора Фићиног и госпођа Милевиног:</p>
     <p><hi>Фића</hi>: Ја вам нисам познат, али то не мења ствар. Ја сам адвокат, познати адвокат Фића.</p>
     <p><hi> Госпођа Милева</hi>: Мило ми је, а шта желите?</p>
-<pb  n="123"/>
+<pb n="123"/>
     <p><hi>Фића</hi>: Видите, госпођо, мени је позната ваша ствар која са формалне стране није тако проста и она се односи на многе односеће се параграфе који, с обзиром на све европске законе, противурече једни другом.</p>
     <p><hi>Госпођа Милева</hi>: Ја вас не разумем, господине.</p>
     <p><hi>Фића</hi>: Тешко је и разумети, брате мој, јер, као што поменух, ствар није проста.</p>

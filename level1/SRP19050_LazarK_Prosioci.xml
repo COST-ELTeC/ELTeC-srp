@@ -1,6 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19050" xml:lang="sr">
 
     <teiHeader>
@@ -22,11 +24,8 @@
                 <measure unit="words">22848</measure>
                 <measure unit="pages">145</measure>
             </extent>
-            <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2019-02-19</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-02-19--></publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Комарчић, Лазар</author>
                     <title>Просиоци</title>
                     <pubPlace>Београд</pubPlace>
@@ -34,8 +33,7 @@
                     <date>1905</date>
                     <idno type="wiki">https://sr.wikipedia.org/wiki/Лазар_Комарчић</idno>
                     <idno type="COBISS-SR.ID">130736903</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -46,14 +44,14 @@
                 <language ident="sr" usage="100">српски</language>
                </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1905 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190127"/>
         </revisionDesc>
     </teiHeader>
@@ -62,7 +60,7 @@
 <text>
 <front>
 <pb n="I"/>
-<div type="titlePage">
+<div type="titlepage">
 <p>108 ИЗДАЊЕ ЗАДУЖБИНЕ ИЛИЈЕ М. КОЛАРЦА 108</p>
 <p>ПРОСИОЦИ</p>
 <p>РОМАН.</p>
@@ -796,7 +794,7 @@
 <p>И оно се кљусе чисто трже. Климну главом, па је опет окембеси — као да је хтео рећи:</p>
 <p>„Какав ждрал?!... Он је био и прошао. Ја сам само његова сенка." И онда опет оде куњати, — ама као и сваки човек, кад му се дрема.. Кроз какве ли је мене живота свога прошао овај негда поносни Ћуков ждрал, — док је, од свога негдашњег отмена положаја, дочекао, да окреће у Обреновцу сувачу Лазе Галовића?! С тим сам се мислима вратио кући.</p>
 </div>
+    <trailer>КРАЈ</trailer>
 </body>
-    <back><p><hi>КРАЈ</hi></p></back>
 </text>
 </TEI>

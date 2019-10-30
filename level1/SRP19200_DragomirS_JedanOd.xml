@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19200"  xml:lang="sr">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19200" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,19 +23,15 @@
                 <measure unit="words">17942</measure>
                 <measure unit="pages">120</measure>
             </extent>
-            <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2019-05-14</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="firstEdition">
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-05-14--></publicationStmt>
+            <sourceDesc><bibl type="firstEdition">
                     <author>Шишковић, Драгомир</author>
                     <title>Један од многих : роман из престоничког живота</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Свесловенске књижарнице</publisher>
                     <date>1920</date>
                     <idno type="COBISS-SR.ID">49692423</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -44,14 +42,14 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1920 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190514"/>
         </revisionDesc>
     </teiHeader>
@@ -59,7 +57,7 @@
 <pb n="1"/>
 <pb n="2"/>
 <front>
-<div type="titlePage">
+<div type="titlepage">
 <pb n="3"/>
 <p>ДРАГОМИР ШИШКОВИЋ</p>
 <p>ЈЕДАН ОД МНОГИХ</p>
@@ -68,11 +66,11 @@
 <p>ИЗДАЊЕ СВЕСЛОВЕНСКЕ КЊИЖАРНИЦЕ</p>
 <p>1920.</p>
 </div>
-<div type="titlePage">
+<div type="titlepage">
 <pb n="4"/>
 <p>ШТАМПАРИЈА „ТИПОГРАФИЈА“ Д. Д., ГРАЧАНИЧКА 12</p>
 </div>
-<div type="titlePage">
+<div type="titlepage">
 <pb n="5"/>
 <p>ДРАГОМИР ШИШКОВИЋ</p>
 <p>ЈЕДАН ОД МНОГИХ</p>

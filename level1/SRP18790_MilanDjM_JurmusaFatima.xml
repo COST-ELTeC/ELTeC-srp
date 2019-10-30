@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18790"  xml:lang="sr">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18790" xml:lang="sr">
  	
     <teiHeader>
         <fileDesc>
@@ -26,11 +28,8 @@
                 <measure unit="words">18012</measure>
                 <measure unit="pages">110</measure>
             </extent>
-            <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2019-05-06</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="firstEdition">
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-05-06--></publicationStmt>
+            <sourceDesc><bibl type="firstEdition">
                     <author>Милићевић, Милан Ђ.</author>
                     <title>Јурмуса и Фатима или Турска сила сама себе једе: прича о ослобођењу шест округа 1832-1834</title>
                     <pubPlace>Београд</pubPlace>
@@ -38,8 +37,7 @@
                     <date>1879</date>
                     <idno type="wiki">https://sr.wikipedia.org/wiki/Милан_Ђ._Милићевић</idno>
                     <idno type="COBISS-SR.ID">47317255</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -50,20 +48,20 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1879 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190506"/>
         </revisionDesc>
     </teiHeader>
 <text>
 <front>
-<div type="titlePage">
+<div type="titlepage">
 <p>ЈУРМУСА И ФАТИМА</p>
 <p>ИЛИ</p>
 <p>ТУРСКА СИЛА САМА СЕБЕ ЈЕДЕ</p>
@@ -480,7 +478,7 @@
 <p>— Мудро седите, ви људи! Народ је једак и онако; њему сад мало треба: ако какво зло учините, не ће вам бити наштину!...</p>
 <p>Осман, киван Попу још од оне приче из Ибишеве каване, викне на своје момке. Момци шчепају Попа, оборе га, обрну му табане у вис, и јаднику ударе равно сто штапâ!,..</p>
 <p>Чанколиз, гледајући како Попа Марка туку, вели сам себи, али да Френчевић чује: — Шта је заслужио ? мало му је! Хоће он да прети Турчину-Господару ! Луд човек!...</p>
-    <milestone  unit="line"/>
+    <milestone unit="line"/>
 <p>Тек што су копачи у винограду истерали по два реда, и стали да чисте земљу с мотика, кад њих у један мах окружише оружани Турци. И Осман, с голом сабљом у руци, објави да ће исећи на режњеве ко би поумио да се одупре турској сили. За тим намигну на момке, а они ухватише <hi>Марију</hi> и <hi>Милану</hi>, попеше их на коње, везаше им ноге испод коња, огртоше их ћурковима, окружише их собом, и сав се тај скуп крете ка Морави пут Крушевца. Марија и Милава плакаху, викаху, мољаху — све узалуд. По некад би само Френчевић рекао:</p>
 <pb n="45"/>
 <p>— Шутите! не ће вама бити ружно!.. .</p>
@@ -506,7 +504,7 @@
 <p>Устаници чекаху као озебао сунце, да чују шта ће рећи Милошеви људи:</p>
 <p>— Поздравље вам је, браћо, рекне Милета: — од Кнеза Милоша и од све Шумадије! Молите се Богу; туците Турке, и оружја не полажите докле год не добијете све што тражите! С оне стране Мораве Милош стоји с готовом војском; чим затреба, ето и њега!... Може бити да ћемо вам некад и ми, пред Турцима, говорити да се смирите, и да положите оружје ! Не слушајте ни нас ни по што докле год вам се не да све што тражите, а дати вам се мора! То вам је поздравље од Кнеза Милоша!</p>
 <p>— Бог га живео! заори се из хиљаду грда, и народ се крете на Крушевац !...</p>
-    <milestone  unit="line"/>
+    <milestone unit="line"/>
 <p>Буна се ширила све више и више, па је и дипломатија радила све брже и брже.</p>
 </div>
 <div type="chapter" xml:id="SRP18790_C5">
@@ -540,7 +538,7 @@
 <p>После тога:</p>
 <p>„Часни Крсте, часни посте, благи Ристе, Исусе Христе, сине Божји, помилуј мене грешнога. Милостиван јеси Господе: укроти и ублажи царево срце , милостиво на мене грешнога! Молитава (тако) и светих отаца. Простите оци свети и благословите! Бог да прости учитеља (и) родитеља !</p>
 <p>„'Валим те и благодарим, Боже ! (три пут) који си ме извео из тамне поћи мудра, бодра, ведра, чиста и разумна! Боже ми се дај радовати и веселити ; Боже ми услиши молитву и прости сагрешенија; прими молитву моју!“ (Ово последње само у јутру).</p>
-    <milestone  unit="line"/>
+    <milestone unit="line"/>
 <p>После молитве, Кнез доручкује. За тим прима секретаре с писмима , велике чиновнике, и све који долазе да приме заповести. Кад њих поотпушта, или и док су они ту, Кнез често изађе на трем, и почиње свој суд. Доле у доњем трему, и пред конаком, пуно је света: неки су звани, неки догнани, а неке је довела невоља или потреба.</p>
     <p>Тако једнога јутра , изишавши на трем, Кнез види доле на бињекташу  <ref target="#SRP18790_N15"/> Кнеза <hi>Демира</hi> <pb n="54"/>  из наије ужичке. То беше људина крупна, носата, усната, а огрнута црвеним јапунџетом, па стоји на камену, као каква статуја:</p>
 <p>— Шта је то, болан, Демире? упита Милош.</p>
@@ -571,7 +569,7 @@
 <p>— Хоћу ! али да ми даш власт да малко учовечам и старешине и њихове момке!</p>
 <p>— Иди ! па што год учиниш — учињено је!</p>
 <p>Вучић оде ; и на Опленцу разби Ђака и утиша буну.</p>
-    <milestone  unit="line"/>
+    <milestone unit="line"/>
 
 <pb n="57"/>
 <p>Једном Кнез прими на трему посланика од великога једнога владаоца. Посланик, после обичних поздрава и разговора, почне нешто опоро у име цара свога приговарати Кнезу, Милош порумени у лицу, погледа мало на страну, и рекне :</p>

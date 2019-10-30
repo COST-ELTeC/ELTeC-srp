@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19130"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19130" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,19 +23,15 @@
                 <measure unit="words">60464</measure>
                 <measure unit="pages">296</measure>
             </extent>
-            <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2019-07-26</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="firstEdition">
+            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-07-26--></publicationStmt>
+            <sourceDesc><bibl type="firstEdition">
                     <author>Новаковић, Стојан</author>
                     <title>Калуђер и хајдук : приповетка о последњим данима Србије у XV веку</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Задужбина И. М. Коларца</publisher>
                     <date>1919</date>
                     <idno type="COBISS-SR.ID">132257543</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -44,26 +42,26 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <!-- izdanja: 1913; 1926; 1983; 2014 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190726"/>
         </revisionDesc>
     </teiHeader>
 <text>
 <front>
 <pb n="1"/>
-<div type="titlePage">
+<div type="titlepage">
 <p>КАЛУЂЕР И ХАЈДУК</p>
 </div>
-<pb n="2" />
+<pb n="2"/>
 <pb n="3"/>
-<div type="titlePage">
+<div type="titlepage">
 <p>ИЗДАЊЕ ЗАДУЖБИНЕ И. М. КОЛАРЦА 149.</p>
 <p>СТОЈАН НОВАКОВИЋ</p>
 <p>КАЛУЂЕР И ХАЈДУК</p>
@@ -73,7 +71,7 @@
 </div>
 <pb n="4"/>
 <pb n="5"/>
-<div type="foreword">
+<div type="liminal">
 <p>1865-1913</p>
 <p>Читаоцима се на овим листовима пружа приповетка коју није писао приповедач од посла. Писцу је жеља била да читаоцима пружи опис живота српског народа у средњем веку у што свестранијем облику. И облик приповетке учинио му се за тај посао најподеснији. Тим путем се овде у облику приповетке износи дело студије, јер и за неке обичне сцене, које се показују једнаке с данашњим народним животом, писац има разлога да мисли да су такве исте могле бити и у средњем веку. У истини има пуно ствари које су се и онда чиниле као што се чине данас, или које су и онда изгледале као што изгледају данас. Прекида међу вековима нема; они се преливају лаганим, поступним променама један у други као и све остало у органичком свету. Писац се нада да неће бити тешко разумети зашто је нашао за потребно да се маши форме белетристичке. Он је уверен да је та форма најподеснија за показани задатак. Ако њему није пошло за руком да истом рукује као што би требало, крив је он сам, а није форма. Писац ће бити задовољан, ако само буде показао пут и отворио вољу другима, да живот <pb n="6"/> прошлости, увек занимљив, представљају сувременицима у облику приповетке, којим се и модерни живот представља. Писац, наравно, не мисли да су добри романи и приповетке измишљене ствари, него да су дело студије, цртали они садашњост или прошлост.</p>
 <p>Година 1865 метнута је поред 1913 зато што је 1865 иста мисао тешње и сасвим почетнички обрађена у приповедци „Калуђер“, која је 1865 штампана у „Вили“ у Београду.</p>
