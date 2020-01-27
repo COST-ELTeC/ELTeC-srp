@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
 <?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19132" xml:lang="sr-Cyrl">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18750" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,13 +29,22 @@
                 <p>Укључено у ELTeC корпус <date>2019-11-27</date></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="firstEdition">
+                <bibl type="printSource">
                     <author>Игњатовић, Јаков</author>
                     <title>Васа Решпект : роман</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Српска књижевна задруга</publisher>
                     <date>1913</date>
                     <idno type="COBISS-SR.ID">9882631</idno>
+                </bibl>
+                 <bibl type="firstEdition">
+                    <author>Игњатовић, Јаков</author>
+                    <title>Васа Решпект</title>
+                    <pubPlace>Београд</pubPlace>
+                    <publisher>Отаџбина: књижевност, наука, друштвени живот,  год. 1(1875), књ. 1, стр. 509, књ. 2, стр. 1, 185, 354, 481, књ. 3, стр. 16, 177, 356. ISSN 1450-6580
+                    </publisher>
+                    <date>1875</date>
+                  <!--  <idno type="COBISS-SR.ID">???</idno> -->
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -52,10 +61,11 @@
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
                 <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
                 <!-- izdanja: 1913, 1932, 1946, 1947, 1948, 1950, 1954, 1956, 1959,... -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="20200127">Change file identification, first edition is from 1875</change>
             <change when="20191127"/>
         </revisionDesc>
     </teiHeader>
