@@ -81,7 +81,7 @@
 </div>
 <pb n="2"/>
 <pb n="3"/>
-<div type="part" xml:id="SRP18630_P1">
+<div type="group" xml:id="SRP18630_P1">
 <head>ПРВИ ДЕО</head>
 <head>ТРИДЕСЕТ ГОДИНА ИЗ ЖИВОТА МИЛАНА НАРАНЏИЋА</head>
 <pb n="4"/>
@@ -946,7 +946,7 @@
 <pb n="111"/>
 <pb n="112"/>
 </div>
-<div type="part" xml:id="SRP18630_P2">
+<div type="group" xml:id="SRP18630_P2">
 <head>ДРУГИ ДЕО</head>
 <pb n="113"/>
 <div type="chapter" xml:id="SRP18630_C2.1">

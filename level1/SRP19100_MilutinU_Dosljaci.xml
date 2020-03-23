@@ -72,7 +72,7 @@
 </div>
 </front>
 <body>
-<div type="part" xml:id="SRP19100_P1">
+<div type="group" xml:id="SRP19100_P1">
 <pb n="3"/>
     <head>ДЕО ПРВИ</head>
 <pb n="2"/>
@@ -576,7 +576,7 @@
 </div>
 </div>
 <pb n="63"/>
-<div type="part" xml:id="SRP19100_P2">
+<div type="group" xml:id="SRP19100_P2">
 <head>ДЕО ДРУГИ</head>
 <quote>
     <l>Љубав има златна пера.</l>
@@ -991,7 +991,7 @@
 </div>
 </div>
 <pb n="105"/>
-<div type="part" xml:id="SRP19100_P3">
+<div type="group" xml:id="SRP19100_P3">
 <head>ДЕО ТРЕЋИ.</head>
 <quote>
     <l>Прави љубавни пару, на земљу залутали,</l>
@@ -1666,7 +1666,7 @@
 </div>
 </div>
 <pb n="179"/>
-<div type="part" xml:id="SRP19100_P4">
+<div type="group" xml:id="SRP19100_P4">
 <head>ДЕО ЧЕТВРТИ.</head>
 <quote>
     <l>Хоћу у твом срцу, после тамних јада,</l>

@@ -94,7 +94,7 @@
 
 <body>
 <pb n="1"/>
-<div type="part" xml:id="SRP18920_P1">
+<div type="group" xml:id="SRP18920_P1">
 <head>ПРВИ ДЕО</head>
 <head>У КРУШЕВЦУ</head>
 <pb n="2"/>
@@ -355,7 +355,7 @@
 </div>
 <pb n="61"/>
 </div>
-<div type="part" xml:id="SRP18920_P2">
+<div type="group" xml:id="SRP18920_P2">
 <head>ДРУГИ ДЕО</head>
 <head>У ШУМАДИЈИ</head>
 <pb n="62"/>
@@ -847,7 +847,7 @@
 <pb n="178"/>
 </div>
 
- <div type="part" xml:id="SRP18920_P3">
+ <div type="group" xml:id="SRP18920_P3">
 <head>ТРЕЋИ ДЕО</head>
 <head>У МАЏАРСКОЈ</head>
 <pb n="179"/> 
