@@ -22,8 +22,8 @@
                 </respStmt>
             </titleStmt>
             <extent>
-                <measure unit="words">48661</measure>
-                <measure unit="pages">156</measure>
+                <measure unit="words">88117</measure>
+                <measure unit="pages">256</measure>
             </extent>
             <publicationStmt>
                 <p>Укључено у ELTeC корпус <date>2020-02-15</date></p>
@@ -31,20 +31,21 @@
             <sourceDesc>
                 <bibl type="printSource">
                     <author>Игњатовић, Јаков</author>
-                    <title>Васа Решпект : роман</title>
-                    <pubPlace>Београд</pubPlace>
-                    <publisher>Српска књижевна задруга</publisher>
-                    <date>1913</date>
-                    <idno type="COBISS-SR.ID">9882631</idno>
+                    <title>Милан Наранџић : роман</title>
+                    <pubPlace>Нови Сад</pubPlace>
+                    <publisher>Матица Српска</publisher>
+                    <date>1949</date>
+                    <idno type="COBISS-SR.ID">36024327</idno>
                 </bibl>
                 <bibl type="firstEdition">
                     <author>Игњатовић, Јаков</author>
-                    <title>Васа Решпект</title>
-                    <pubPlace>Београд</pubPlace>
-                    <publisher>Отаџбина: књижевност, наука, друштвени живот,  год. 1(1875), књ. 1, стр. 509, књ. 2, стр. 1, 185, 354, 481, књ. 3, стр. 16, 177, 356. ISSN 1450-6580
-                    </publisher>
-                    <date>1875</date>
-                    <!--  <idno type="COBISS-SR.ID">???</idno> -->
+                    <title>Тридесет година из живота Милана Наранџића. [1]</title>
+                    <pubPlace>Нови Сад</pubPlace>
+                    <date>1860</date>
+                    <idno type="COBISS-SR.ID">51099399</idno>
+                    <title>Милан Наранџић : роман. [Књ. 2] </title>
+                    <date>1863</date>
+                    <idno type="COBISS-SR.ID">127306759</idno>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -58,15 +59,14 @@
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
                 <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-                <!-- izdanja: 1913, 1932, 1946, 1947, 1948, 1950, 1954, 1956, 1959,... -->
+                <!-- izdanja: 1942, 1949, 1900, 2017, 1987, 1969, 1955, 1860/63 -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
             </textDesc>
         </profileDesc>
         <revisionDesc>
-            <change when="20200127">Change file identification, first edition is from 1875</change>
-            <change when="20191127"/>
+            <change when="20200215"/>
         </revisionDesc>
     </teiHeader>
     
