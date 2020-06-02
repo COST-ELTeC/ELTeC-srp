@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Чича Тима : ELTeC издање</title>
+                <title>Чича Тима : приповетка из учитељског живота : ELTeC издање</title>
                 <author ref="viaf:47570198">Јакшић, Ђура (1832-1878)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
@@ -64,6 +64,7 @@
         </profileDesc>
         <revisionDesc>
             <change when="20200321"/>
+            <change when="2020602">e-title changed to confirm to the first edition</change>
         </revisionDesc> 
     </teiHeader>  
     
