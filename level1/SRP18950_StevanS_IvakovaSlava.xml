@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="viaf:5912152502813910800006">Ивкова слава : ELTeC издање</title>
+                <title ref="viaf:5912152502813910800006">Ивкова слава : приповетка : ELTeC издање</title>
                 <author ref="viaf:66526515">Сремац, Стеван (1855-1906) <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Стеван_Сремац</idno> --> </author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
@@ -26,14 +26,14 @@
             <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-06-22--></publicationStmt>
             <sourceDesc><bibl type="printSource">
                     <author>Сремац, Стеван</author>
-                    <title>Ивкова слава</title>
+                    <title>Ивкова слава : приповетка</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Српска књижевна заграда ; 55 (Београд: Државна штампарија краљевине Србије)</publisher>
                     <date>1899</date>
                     <idno type="COBISS-SR.ID">11202311</idno>
                 </bibl><bibl type="firstEdition">
                     <author>Сремац, Стеван</author>
-                    <title>Ивкова слава</title>
+                    <title>Ивкова слава : приповетка</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Српски преглед (Београд: Парна штампарија Д. Димитријевића</publisher>
                     <date>1895</date>
