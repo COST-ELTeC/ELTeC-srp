@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Радетића Мара: приповетка из сеоског живота : ELTeC издање</title>
+                <title>Радетића Мара: приповетка из сеоскога живота : ELTeC издање</title>
                 <author ref="viaf:305714513">Сретеновић, Михаило (1866-1934)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
@@ -30,7 +30,7 @@
             <sourceDesc>
                 <bibl type="printSource">
                     <author>Сретеновић, Михаило</author>
-                    <title>Радетића Мара: приповетка из сеоског живота</title>
+                    <title>Радетића Мара: приповетка из сеоскога живота</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Књижарница Владимира Валожића</publisher>
                     <date>1895</date>
@@ -38,7 +38,7 @@
                 </bibl>
                 <bibl type="firstEdition">
                     <author>Сретеновић, Михаило</author>
-                    <title>Радетића Мара: приповетка из сеоског живота</title>
+                    <title>Радетића Мара: приповетка из сеоскога живота</title>
                     <pubPlace>Велики Бечкерек</pubPlace>
                     <publisher>С. Керешевић</publisher>
                     <date>1894</date>
