@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Прво весеље : ELTeC издање</title>
+                <title>Прво весеље : приповетка : ELTeC издање</title>
                 <author ref="viaf:35277007">Костић, Тадија П. (1863-1927)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
@@ -57,6 +57,7 @@
         </profileDesc>
         <revisionDesc>
             <change when="20200127"></change>
+            <change when="20200604">e-title changed to confirm to the first edition</change>
         </revisionDesc>
     </teiHeader>
 <text>
