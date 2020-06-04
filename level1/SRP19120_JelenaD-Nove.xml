@@ -7,10 +7,8 @@
  	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Нове : ELTeC издање</title>
-				<title xml:lang="en">Nove : ELTeC edition</title>
+				<title>Нове : роман : ELTeC издање</title>
 				<author ref="viaf:70015495">Димитријевић, Јелена (1862–1945)</author>
-				<author xml:lang="en" ref="viaf:70015495">Dimitrijević, Jelena (1862-1945)</author>
 				<respStmt>
 					<resp>Сканирање</resp>
 					<name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -62,6 +60,7 @@
 		</profileDesc>
 		<revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
 			<change when="20190109">Нормализован хедер : Цветана Крстев</change>
+			<change when="20200604">e-title changed to confirm to the first edition</change>
 		</revisionDesc>
 	</teiHeader>
 <text xml:id="SRP19120_C1" xml:lang="sr">
