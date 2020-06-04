@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="viaf:5950153063248319320004">Поп Ћира и поп Спира : ELTeC издање</title>
+                <title ref="viaf:5950153063248319320004">Поп Ћира и поп Спира : приповетка : ELTeC издање</title>
                 <author ref="viaf:66526515">Сремац, Стеван (1855-1906) <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Стеван_Сремац</idno> --> </author>
                 <respStmt>
                     <resp>Сканирање</resp>
@@ -31,7 +31,7 @@
             <sourceDesc>
                 <bibl type="printSource">
                     <author>Сремац, Стеван</author>
-                    <title>Поп Ћира и поп Спира</title>
+                    <title>Поп Ћира и поп Спира : приповетка</title>
                     <pubPlace>Ср. Карловци</pubPlace>
                     <publisher>Бранково коло</publisher>
                     <date>1898</date>
@@ -65,6 +65,7 @@
         </profileDesc>
         <revisionDesc>
             <change when="20200503"/>
+            <change when="20200604">e-title changed to confirm to the first edition</change>
         </revisionDesc> 
     </teiHeader>  
     
