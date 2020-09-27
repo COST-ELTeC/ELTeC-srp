@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
 <?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18590"  xml:lang="sr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18590"  xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,7 +40,6 @@
                 <bibl type="firstEdition">
                     <author>Игњатовић, Јаков</author>
                     <title>Ђурађъ Бранковићъ : (историчный романъ)</title>
-                    <pubPlace>Београд</pubPlace>
                     <publisher>Сербскій лѣтописъ : за год.. - Год. 29, част 2 (1855), стр. 130-171; - Год. 30, част 1 (1856), стр. 67-156; - Год. 30, част 2 (1856), стр. 29-55
                     </publisher>
                     <date>1855-1859</date>
