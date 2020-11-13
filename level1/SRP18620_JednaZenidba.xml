@@ -2242,7 +2242,7 @@
         </body>
         <back>
             <pb n="97"/>
-            <gap unit="glossar"/>
+           <div type="liminal"> <gap unit="glossar"/></div>
         </back>
     </text>
 </TEI>
