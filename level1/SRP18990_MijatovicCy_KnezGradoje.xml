@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18990"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18990" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,18 +27,22 @@
                 <measure unit="pages">208</measure>
             </extent>
             <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2020-02-26</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+<!--Укључено у ELTeC корпус 2020-02-26--></publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Мијатовић, Чедомиљ</author>
                     <title>Кнез Градоје од Орлова Града : приповетка из времена боја на Косову</title>
                     <publisher>Сремски Карловци : Српска манастирска штампарија</publisher>
                     <date>1899</date> 
       <!--              <idno type="wiki">https://sr.wikipedia.org/sr-ec/Чедомиљ_Мијатовић</idno> -->
                     <idno type="COBISS-SR.ID">129552</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -47,14 +53,15 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1899, 1929 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200226"/>
         </revisionDesc>
     </teiHeader>
@@ -1091,7 +1098,7 @@
 <p>„Три, дедо!“ рече Боривој.</p>
 <p>„Зар само три?“ запита кнез Градоје, очевидно незадовољен у својим очекивањима.</p>
 <p>„Зар је мало три ране за једнога дечка, у првоме боју његову?!“ прихвати Санџак-Бег некако свечаним гласом, у коме је дрхтао тих прекор староме, са три ране незадовољноме кнезу. „Не би ни тога било, јер ниједноме се од мојих јунака није прохтевало да се на једно дете сабљом залеће. Али не могоше му мача из руку избити, док га мало по мишици, и по рамену и по глави не окрзнуше!“</p>
-<p>„А мој слуга Ристивор>“ питаше кнез па брижним погледом прелеташе све кутове од шатора.</p>
+<p>„А мој слуга Ристивор&gt;“ питаше кнез па брижним погледом прелеташе све кутове од шатора.</p>
 <p>„Твој слуга није постидео свога господара!“ рече Санџак-Бег. „жив се предавао није, пао је покривен грдним ранама!“</p>
 <p>„Колико је рана стекао?!“ питаше кнез као да је реч о тековини некаквога великога блага.</p>
 <p>Санџак-Бег се окрете својим људима па с њима нешто разговараше турским језиком.</p>

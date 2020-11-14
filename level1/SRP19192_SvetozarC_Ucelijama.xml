@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19192"  xml:lang="sr-Latn">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19192" xml:lang="sr-Latn">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,17 +28,21 @@
                 <measure unit="pages">128</measure>
             </extent>
             <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2020-04-09</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+<!--Укључено у ELTeC корпус 2020-04-09--></publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Svetozar Ćorović</author>
                     <title>U ćelijama</title>
                     <publisher>Zagreb : Matica hrvatska</publisher>
                     <date>1919</date> 
                     <idno type="COBISS-SR.ID">54447111</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -47,14 +53,15 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1919, 1949 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200409"/>
         </revisionDesc>
     </teiHeader>
@@ -867,13 +874,13 @@
 <p>— Ako ste vi bola doktor, — mucao je uvrijeđeni liječnik, smišljajući unaprijed svaku riječ i prežvakujući je nekako, — tak vi i lečite... Tu mene ne potrebno...</p>
 <p>— Znam i ja da tu tebe nepotrebno, — odgovara Janjićije oštro, podražavajući njegovu govoru i, zar da ga bolje razumije, miješajući poneku tursku i njemačku riječ, koju je odnekle naučio. — Ama te zovem zbog adet... Frštec?</p>
 <p>— Ho ho... Tak tak... Ja idem...</p>
-<p>— Jok!... Sabur malo, efendum  <ref target="#SRP19192_N1"/>, — zadržava ga Janjićije i otima mu štap. — Sabur, stari!... Ja znam... tak znam... da je njemu lijek samo motika... Niks?... Samo motika!... Tak... Pa zašto da čojek ode gladan na oni svijet?... Niks?... Frštec?...</p>
+<p>— Jok!... Sabur malo, efendum  <ref target="#SRP19192_N1"/><ref target="#SRP19192_N1"/>, — zadržava ga Janjićije i otima mu štap. — Sabur, stari!... Ja znam... tak znam... da je njemu lijek samo motika... Niks?... Samo motika!... Tak... Pa zašto da čojek ode gladan na oni svijet?... Niks?... Frštec?...</p>
 <p>— Jo... jo... jo... Ale tak ne ide... To ne dobro...</p>
-<p>— To musi!... Može... Ne ću ja da on sažali na me e ga nijesam nudio najljepšim jelima... Tak... Soganjdolma, japrak, červiš<ref target="#SRP19192_N2"/>?... Šta veliš, stari?... <foreign xml:lang="DE">Vas sogst du?</foreign>...</p>
+<p>— To musi!... Može... Ne ću ja da on sažali na me e ga nijesam nudio najljepšim jelima... Tak... Soganjdolma, japrak, červiš<ref target="#SRP19192_N2"/><ref target="#SRP19192_N2"/>?... Šta veliš, stari?... <foreign xml:lang="DE">Vas sogst du?</foreign>...</p>
 <p>— Ne... ne... ne... Kako vi...</p>
 <p>Ne znajući kako bi rastumačio, doktor je crveneći razmahivao rukama i davao čudnovate znakove.</p>
 <p>— Tak prsa... Tu slabo... Tu...</p>
-<p>— Sakramentski stari!... Ne rozumiš ti ništa ko goveče, — zagrmi Janjićije, razdražen upornošću doktorovom...— Niks frštec... Varmi iladž za ovaki hastaluk<ref target="#SRP19192_N3"/>? Jok!... Pa što mučiš bolesnika, ubio te Bog!</p>
+<p>— Sakramentski stari!... Ne rozumiš ti ništa ko goveče, — zagrmi Janjićije, razdražen upornošću doktorovom...— Niks frštec... Varmi iladž za ovaki hastaluk<ref target="#SRP19192_N3"/><ref target="#SRP19192_N3"/>? Jok!... Pa što mučiš bolesnika, ubio te Bog!</p>
 <p>Jedanput se toliko zaboravio, da je čak izgurao doktora. Ali se odmah i pokajao. Sustigao ga na avliji i najljubeznije pozvao natrag, časteći najljepšim duvanom. </p>
 <pb n="63"/>
 <p>Kad se potpuno zamorio, pozva Jevrema da ga zamijeni. Prokopiju nije vjerovao. Znao je da bi on, kroz nekoliko minuta, zaspao na stolici i da ga ni oba zvona a kamo li iznemogli glas jednog bolesnika ne bi mogli razbuditi... Preporučivši Jevremu da se strogo drži i liječničkih i njegovih, Janjićijevih, odredaba, — koje se nisu mnogo slagale s doktorskima, — prekrsti se. Prekrsti i Melentija i ode u svoju ćeliju.</p>

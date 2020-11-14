@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19030"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19030" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,18 +28,22 @@
                 <measure unit="pages">181</measure>
             </extent>
             <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2020-01-27</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+<!--Укључено у ELTeC корпус 2020-01-27--></publicationStmt>
+            <sourceDesc><bibl type="firstEdition">
                     <author>Костић, Тадија П.</author>
                     <title>Прво весеље : приповетка</title>
                     <pubPlace>Ср. Карловци</pubPlace>
                     <publisher> Српска манастирска штампарија</publisher>
                     <date>1903</date>
                     <idno type="COBISS-SR.ID">38858503</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -48,15 +54,16 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1903 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
-            <change when="20200127"></change>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
+            <change when="20200127"/>
             <change when="20200604">e-title changed to confirm to the first edition</change>
         </revisionDesc>
     </teiHeader>
@@ -1843,7 +1850,7 @@
 <p>— Не знам, бабо.</p>
 <p>— Ја, да речем да жалим, не жалим; нек пије колико може. Него велим не ваља за њега... и за његову будућност, дете...</p>
 <p>Она занеме.</p>
-<pb  n="151"/>
+<pb n="151"/>
 <p>Не зна бабо како је њој; њу тешка брига мори за Видосавом. Што је било сукоба у кући, што су пуцали гласови по селу, те је свака рђа испирала уста са њима, то је било и стишало се. Све то јесте и штета и брука, али све то није ништа као ова невоља што је он пошао низбрдицом. То нико не види као што она види.</p>
 <p>Опија се сваки дан, и од мало се опије. Она не може да му забрани да понеку попије. Ако би му и забранила, он би нашао ракије у селу и опет би пио. То је већ било: одлазио је рано од куће, тог дана није ту попио ни једне чаше, а кад се у вече врати, он пијан. Од ове несреће неће се одвићи и тешко да се може одвићи. Па и кад је трезан, он није онаки каки је био. Све ћути, све замишљен, избегава разговор и најволи да је сам. Још мало па неће бити ни за какав рад, и неће да чује ни за какав ред и договор. Кад види да се нешто ради, он приђе па ради као од беде, па мало, мало, а њега нестане... И нема га цео дан... Не зна му се реда ни у јелу; мало шта и једе. Кад је гладан, узме комад хлеба у руку и још штогод што му се нађе пред очима, па једе сам. Ретко кад да седе као човек, са женом и децом за трпезу, да обедује.</p>
 <p>Бог зна шта ће бити с њим! Да је вајда, она би говорила сваки дан, молила би га, преклињала, тешила, да се прибере и поврати. Али он неће да чује ни за какав разговор, или ако је саслуша, не признаје ништа.</p>

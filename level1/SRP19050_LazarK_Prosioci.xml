@@ -24,7 +24,15 @@
                 <measure unit="words">22848</measure>
                 <measure unit="pages">145</measure>
             </extent>
-            <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-02-19--></publicationStmt>
+            <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+</publicationStmt>
             <sourceDesc><bibl type="printSource">
                     <author>Комарчић, Лазар</author>
                     <title>Просиоци : роман</title>
@@ -46,12 +54,13 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1905 -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
-        <revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
+        <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190127"/>
             <change when="20200604">e-title changed to confirm to the first edition</change>
         </revisionDesc>

@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18934"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18934" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,18 +28,22 @@
                 <measure unit="pages">251</measure>
             </extent>
             <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2019-08-02</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+<!--Укључено у ELTeC корпус 2019-08-02--></publicationStmt>
+            <sourceDesc><bibl type="firstEdition">
                     <author>Комарчић, Лазар</author>
                     <title>Један разорен ум</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Парна штампарија Д. Димитријевића</publisher>
                     <date>1893</date>
                     <idno type="COBISS-SR.ID">38540039</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -48,14 +54,15 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <!-- izdanja: 1893, 1908, 1970, 1981, 2015, 2016 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200802"/>
         </revisionDesc>
     </teiHeader>
@@ -730,7 +737,7 @@
 <p>— Баш ти хвала, синовче! Већ те од синоћ погледамо. Он само за те пита. Кад сам му казао да ћеш доћи, он се чисто разведри, и тек ме од једном упита: „А вози ли га Совра?...“</p>
 <p>— Нека Бог сваког обрадује, па и нас, рече газда Степан и окрете главу у страну. </p>
 <pb n="152"/>
-<p>— Овде је, рано моја, и госпођа Јелица. Нека јој Бог да здравља! — Да ње није, не знам шта би било и од наше веселе Кадивке. <ref target="#SRP18934_N1"/> Хоће жена, просто, да пресвисне. Ово је трећа ноћ, како око на око није свела, те је јутрос госпођа Јелица на зор одведе — да мало прилегну, те да се, јадница, мало мало, одмори....</p>
+<p>— Овде је, рано моја, и госпођа Јелица. Нека јој Бог да здравља! — Да ње није, не знам шта би било и од наше веселе Кадивке. <ref target="#SRP18934_N1"/><ref target="#SRP18934_N1"/> Хоће жена, просто, да пресвисне. Ово је трећа ноћ, како око на око није свела, те је јутрос госпођа Јелица на зор одведе — да мало прилегну, те да се, јадница, мало мало, одмори....</p>
 <p>— А кад си, синко, из Београда? приђе ми опет чича Дака. Сад се мало као прибрао.</p>
 <p>Кажем му.</p>
 <p>— Богме, добро сте стигли! Далеко се измак‘о Београд, клети!... Де, децо, шта сте стали?!.. Дете, горе под велики орах! Изнесите простирку и који јастук. Да се човек мало одмори....</p>

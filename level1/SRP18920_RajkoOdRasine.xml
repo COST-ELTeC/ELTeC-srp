@@ -24,7 +24,15 @@
     <measure unit="words">41500</measure>
     <measure unit="pages">239</measure>
    </extent>
-   <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Укључено у ELTeC корпус 2019-02-26--></publicationStmt>
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+</publicationStmt>
    <sourceDesc><bibl type="printSource">
      <author>Мијатовић, Чедомиљ</author>
      <title>Рајко од Расине: приповетка с краја XVII века</title>
@@ -45,12 +53,13 @@
    <textDesc>
     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
     <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-    <canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
     <!-- izdanja: 1892, 19??, 1923, 1929, 2018 -->
     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
    </textDesc>
   </profileDesc>
-  <revisionDesc><change when="2019-10-30">Checked by releaseChecker script</change>
+  <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2019-10-30">Checked by releaseChecker script</change>
    <change when="20190226"/>
   </revisionDesc>
  </teiHeader>
@@ -555,7 +564,7 @@
 <p>„Чекај, молим те,“ упаде јој опет у реч Рајко; „је ли та жена, што ти је на сну долазила, говорила српски и носила круну на глави?!“</p>
 <pb n="101"/>
 <p>— „Говорила је српски, али није имала круну; него је била обучена у црно као калуђерица, а тако је била и она друга жена за коју сам ја мислила да је света Марија Магдалена, док не чух да је она зове Ефимијом!“</p>
-<p>„Е, онда неће бити што сам ја домишљао!“ рече Рајко невесело; „ја помислих да ти се то јављала наша српска царица Милица, која је била тако доброга срца, па би се над твојом судбом заплакати могла. Али видим није! “ <ref target="#SRP18920_N1"/> </p>
+<p>„Е, онда неће бити што сам ја домишљао!“ рече Рајко невесело; „ја помислих да ти се то јављала наша српска царица Милица, која је била тако доброга срца, па би се над твојом судбом заплакати могла. Али видим није! “ <ref target="#SRP18920_N1"/><ref target="#SRP18920_N1"/> </p>
 </div>
 <div type="chapter" xml:id="SRP18920_C2.7">
 <head>7</head>

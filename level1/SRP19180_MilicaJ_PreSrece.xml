@@ -23,18 +23,15 @@
                 <measure unit="pages">144</measure>
             </extent>
             <publicationStmt>
-                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
-                    European Literary History" (CA16204)</publisher>
-                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-                <date when="2019-10-30"/>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                </availability>
-                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-                <!--Укључено у корпус Аурора 2019-09-16-->
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+</publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Janković, Milica</author>
                     <title>Pre sreće</title>
                     <publisher>Književni jug</publisher>
@@ -42,8 +39,7 @@
                     <pubPlace>Zagreb</pubPlace>
                     <idno type="wiki">https://sr.wikipedia.org/sr-ec/Милица_Јанковић</idno>
                     <idno type="COBISS-SR.ID">1954054</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -57,12 +53,13 @@
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
                 <!-- too short -->
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1918, 2018 -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190916"/>
         </revisionDesc>
@@ -456,8 +453,7 @@
                         sam lepa. Eto, baš ću da ga pitam.</p>
                     <milestone unit="subSection"/>
                     <p>Ovaj Nikola je vrlo prirodan i simpatičan čovek. Meni se čini da se svi koji
-                        dođu sa strane ponašaju prema nama sa visine, sa po malo prezrenja <pb
-                            n="35"/> i sažalenja, a on je onaj isti Nikola koga sam od svih
+                        dođu sa strane ponašaju prema nama sa visine, sa po malo prezrenja <pb n="35"/> i sažalenja, a on je onaj isti Nikola koga sam od svih
                         mangupčića najviše volela. Jutros ja šetam po bašti i gledam kako su se
                         dragoljubi lepo rascvetali i uživam u svima nijansama njihove boje, koju od
                         svih boja najviše volim — kad on stade pred kapiju.</p>
@@ -726,8 +722,7 @@
                         ključ.</p>
                     <milestone unit="subSection"/>
                     <p>Došla sam iz Beograda. Za četiri dana toliko utisaka da mi se čini bar je
-                        nedelja dana bila. Kod kuće ti prođu meseci jednoliko, pa, kad se <pb n="48"
-                        /> obazreš, i ako te je jela dosada svakog dana, čini ti se da je brzo
+                        nedelja dana bila. Kod kuće ti prođu meseci jednoliko, pa, kad se <pb n="48"/> obazreš, i ako te je jela dosada svakog dana, čini ti se da je brzo
                         prošlo, jer nemaš čega da se sećaš. Kad je pošao voz, meni je bilo tako kao
                         da putujem u slobodu, u daleki svet, kao što sam uvek želela. Nikola je bio
                         pažljiv. To tako treba i to nije ništa neobično, ali to je tako prijatno.
@@ -938,8 +933,7 @@
                         se čini da zato imam dnevniku da zahvalim. Otkad njega pišem, mnogo se bolje
                         izražavam pismeno. Bože, koliko je lakše govoriti! Kažeš reč, dve, pogledaš
                         u oči, osmehneš se i pogledom pitaš: razumeš li ? — i sve je gotovo: on
-                        razume. Dobila sam depešu od Nikole i Nate, od Anke, i snaje i dece — <pb
-                            n="59"/> čestitaju. Tata se već odmah pohvalio Anki. Naša devojka kaže:
+                        razume. Dobila sam depešu od Nikole i Nate, od Anke, i snaje i dece — <pb n="59"/> čestitaju. Tata se već odmah pohvalio Anki. Naša devojka kaže:
                         Bože, gospođice, kao da ste se isprosili. A ja njoj kažem da je ovo bolje od
                         toga. Priznajem meni je vrlo milo što sam svršila školu. Dosad sam učila što
                         sam morala, a sad ću ono što volim.</p>
@@ -998,8 +992,7 @@
                         smeten: kao i raduje se što me vidi, a ovamo opet govori, da je došao na po
                         sata, jer žuri na posao. Došao na po sata, a ostao dva i po. Zagovorili se o
                         školi, o profesorima, o knjigama. Bože, o tako mnogo stvari ima čovek da
-                        govori s nekim, koji mu je mio, a s kojim se davno nije video. Nikola se <pb
-                            n="62"/> posle raskravio i postao onaj stari, veseli Nikola. Bojim se da
+                        govori s nekim, koji mu je mio, a s kojim se davno nije video. Nikola se <pb n="62"/> posle raskravio i postao onaj stari, veseli Nikola. Bojim se da
                         ta duga porodična žalost njegove tazbine ne utiče rđavo na njegovo
                         raspoloženje. Ustao je i još je pričao, zagledao saksije sa cvećem i
                         kazao:</p>
@@ -1019,8 +1012,7 @@
                         venac od prirodnog cveća. Videla sam ga samo pred crkvom. Učini mi se mnogo
                         bled. Svakako od hladnoće; mislim da je prema pokojniku prilično ravnodušan.
                         Na tako velikim pratnjama koje liče na litije čovek gleda vence, mrtvačka
-                        kola kao plast cveća, posmatra svet, a gotovo i zaboravi na onoga koji <pb
-                            n="63"/> leži ispod toga cveća i zbog koga se skupio toliki svet. Dugo
+                        kola kao plast cveća, posmatra svet, a gotovo i zaboravi na onoga koji <pb n="63"/> leži ispod toga cveća i zbog koga se skupio toliki svet. Dugo
                         smo stajali pred crkvom. Pade mi u oči da su sve to ugledni ljudi što nose
                         vence, jastuče s ordenima, krst i ostalo. Ne znam ko je našao Nikolu i njemu
                         nametnuo taj posao, samo ja mu nisam nimalo bila zahvalna. Mislim da se i on
@@ -1075,8 +1067,7 @@
                     <p>— Ima ljudi za koje nikad nisam umorna i koji mi nikad ne smetaju.</p>
                     <p>— A ima li ih mnogo takvih?</p>
                     <p>Ja sam ga gledala, a ne odgovorih. I on je mene gledao i u sutonu te studene
-                        večeri njegove su oči bile tako sjajne, tako tople za mene, tako <pb n="66"
-                        /> pune ljubavi za mene, da sam htela da jaučem od bola. „Treba se boriti i
+                        večeri njegove su oči bile tako sjajne, tako tople za mene, tako <pb n="66"/> pune ljubavi za mene, da sam htela da jaučem od bola. „Treba se boriti i
                         pobediti“ odjednom mi dođoše na um čikine reči i ja uzdrhtah od jedne
                         iznenadne misli. U tom trenutku učini mi se kao da Nikola načini pokret kao
                         da hoće da me zagrli. Ne, on samo reče tužno, strahovito tužno:</p>
@@ -1388,8 +1379,7 @@
                         Čitala sam <title>Sliku Dorijana Greja</title>. Izgleda da zlo nema dna.
                         Mislim da sve znam, a ono iskrsne još nešto. Možda je to način da se čovek
                         očisti od zla, ne od zla koje je došlo, već koje bi moglo doći. Eto ja u
-                        Beogradu često čujem kako ljudi sa zadovoljstvom pričaju tuđe prljave <pb
-                            n="84"/> istorije. Ne znam da li zadovoljstvo dolazi od same prljavštine
+                        Beogradu često čujem kako ljudi sa zadovoljstvom pričaju tuđe prljave <pb n="84"/> istorije. Ne znam da li zadovoljstvo dolazi od same prljavštine
                         ili od toga što su tuđe te prljavštine. Sećam se da mi je, kad sam došla,
                         bilo vrlo neprijatno to da slušam. Ja ne znam u kakvim je ko prilikama bio i
                         postupio ovako ili onako; meni se pruža samo kako je on postupio, samo neki
@@ -1446,8 +1436,7 @@
                         se, kao glasovi u horu, a ja sam, kao pašinica, ležala na divanu i predavala
                         se uživanju. Prevarim se i zaspim i — razbudim se bolesna. Ah, ruže, ne mogu
                         više da ih vidim, ni da ih osetim. Napolje sve ruže, otvaraj prozore,
-                        napolje i trag od ruža. I čitav mesec dana nisam mogla da ili trpim. <pb
-                            n="87"/> A ,sad ih opet volim. Tako i ljubav: učinila mi zlo, htela sam
+                        napolje i trag od ruža. I čitav mesec dana nisam mogla da ili trpim. <pb n="87"/> A ,sad ih opet volim. Tako i ljubav: učinila mi zlo, htela sam
                         da umrem, pa zatim da je se odreknem za svagda, a sad je opet volim.</p>
                     <p>Ali, zašto ne dođe čovek koji će da me voli silno, svim svojim bićem, svom
                         svojom mišlju, svim svojim srcem, kao što vera kaže da treba ljubiti gospoda
@@ -1465,8 +1454,7 @@
                         veliku. Pa ipak žena je ružna u tome položaju. Buduća njena sreća staje je
                         lepote. Ona je ružna svetu koji je ravnodušan; ne bi trebalo da je ružna i
                         svome mužu. Kad bih ja bila takva, ja bih udesila da sam što je mogućno
-                        manje ružna i ne bih nikad išla u društvo. Šetala bih po polju sa <pb n="88"
-                        /> svojim mužem i sa svojom budućom srećom. Čak bih ako je mogućno promenila
+                        manje ružna i ne bih nikad išla u društvo. Šetala bih po polju sa <pb n="88"/> svojim mužem i sa svojom budućom srećom. Čak bih ako je mogućno promenila
                         i zemlju, starala bi se da gledam samo lepe stvari i vratila bih se tek
                         pošto sam stvorila jedno malo remek delo. Šta bi mi trebao taj svet kome sam
                         ružna ? Ja sam hrabra, ničega se ne bih bojala i u mojim očima i na mome
@@ -1646,8 +1634,7 @@
                         prevarim one koji su hteli da prevare mene. To ne znači da ja lažem. Ta
                         misao mi je davala iskreno veselo raspoloženje. Igramo se, gospodine. Ljudi
                         uvek preteruju: ako vole, preteruju u hvali; ako mrze, u kuđenju. A ja sam
-                        ovoga gospodina videla onakvog kakav je. <title><foreign xml:lang="FR"
-                                >Illustration</foreign></title> je ovoga puta bio vrlo bogat.
+                        ovoga gospodina videla onakvog kakav je. <title><foreign xml:lang="FR">Illustration</foreign></title> je ovoga puta bio vrlo bogat.
                         Gledali smo sliko iz francuskog salona, Odjednom on se diže i sede daleko od
                         mene.</p>
                     <p>— Ja radije gledam slike u boji — reče. — Eto, mala, da li vi znato kako vam
@@ -1915,8 +1902,7 @@
                         njemu, i kako to ne može da se nađe u školi, ja se bacam u drugo more, u
                         kome se nikad ne zamorim, plivajući. Čitam mnogo literaturu svih naroda, sve
                         što mogu da dobijem. I osećam da je tako istinita stara fraza da je knjiga
-                        najbolji prijatelj. Imaš drugarica, imaš i prijateljskih poznanstava, <pb
-                            n="111"/> a nemaš jednu dušu sasvim blisku kojoj je moja duša sasvim
+                        najbolji prijatelj. Imaš drugarica, imaš i prijateljskih poznanstava, <pb n="111"/> a nemaš jednu dušu sasvim blisku kojoj je moja duša sasvim
                         odana. Mislim da sam se nesvesno čuvala od toga, da bih što više sebe mogla
                         pokloniti čoveku koga budem volela. Sad sam se navikla da budem sama i
                         prijatno mi je. Najviše volim knjige i decu. Mi odrasli ljudi tako smo puni
@@ -1972,8 +1958,7 @@
                         Nikolu i patiš, a ja ti ne mogu pomoći i pišem ti možda samo da olakšam
                         sebi, i pismo ti možda neću poslati ako me razum ubedi da to ništa ne može
                         učiniti: da ti želiš Nikolinu ljubav, a čika ti može dati samo svoju. Tako
-                        sam i onda hteo da razgovaram s tobom o onoj knjizi i o životu, ali sam <pb
-                            n="114"/> se bojao da ne otuđim tvoju nežnu, stidljivu i ogorčenu dušu
+                        sam i onda hteo da razgovaram s tobom o onoj knjizi i o životu, ali sam <pb n="114"/> se bojao da ne otuđim tvoju nežnu, stidljivu i ogorčenu dušu
                         sasvim od sebe.</p>
                     <p>Čim je Nikola došao, ja sam se uplašio, jer se i meni mnogo dopao. Predvideo
                         sam šta će biti posle druge vaše šetnje u polju. Pa, ipak, Jelo, to će
@@ -2068,8 +2053,7 @@
                         ljubav ih je usrećila i malo utešila za čikom. Nagonila sam zeta da se
                         presoli kod njih. Sirota mama i tata: ja sam se umiljavala, mazila, milovala
                         njihove duše i tako raznežene ostavila ih i pobegla da ovde u svojoj sobi i
-                        u samoći žalim čiku. Ili bolje: da poslušam njegov savet: da radim i da <pb
-                            n="119"/> se mirim sa onim što se ne može popraviti. Ah, zašto se ne
+                        u samoći žalim čiku. Ili bolje: da poslušam njegov savet: da radim i da <pb n="119"/> se mirim sa onim što se ne može popraviti. Ah, zašto se ne
                         može popraviti !</p>
                     <milestone unit="subSection"/>
                     <p>Radim i čitam čikine knjige. Za ispite sam sigurna. Sad ne čitam samo romane:
@@ -2181,8 +2165,7 @@
                         ipak milo i voli da mu se mama uplaši.</p>
                     <milestone unit="subSection"/>
                     <p>Došla sam kući. Dosta je bilo dvadeset dana da sve ispričamo i da se siti
-                        nagledamo. I sad mi je dosadno. Zaželela sam se nečega što je bilo <pb
-                            n="125"/> lepo kad sam ga ostavila, ali ja sam se promenila i to mi sad
+                        nagledamo. I sad mi je dosadno. Zaželela sam se nečega što je bilo <pb n="125"/> lepo kad sam ga ostavila, ali ja sam se promenila i to mi sad
                         više nije lepo. Možda je dosada u mojoj duši, pa je nosim svuda. Ni knjige
                         me više ne zanimaju kao pre. Kao i u običnom govoru počinjem i u njima da
                         nalazim jedno isto kazano više puta.</p>
@@ -2218,8 +2201,7 @@
                         ali biti od njih veći to nije nikakva veličina.</p>
                     <milestone unit="subSection"/>
                     <p>Pola godine nisam ništa pisala. Jedem, spavam, šetam po mojoj velikoj bašti.
-                        I tako vreme prolazi bez utisaka. Da ti je toplo, da ti je čisto. <pb
-                            n="127"/> da pojedeš štogod slatko i da pročitaš kakvu novu francusku
+                        I tako vreme prolazi bez utisaka. Da ti je toplo, da ti je čisto. <pb n="127"/> da pojedeš štogod slatko i da pročitaš kakvu novu francusku
                         knjigu. Sestrina deca i ja, ozbiljno se interesujemo šta će biti za
                         ručak.</p>
                     <milestone unit="subSection"/>
@@ -2354,8 +2336,7 @@
                         sunca: Da raskravljujem ljudska srca; naprotiv i meni treba vremena dok se
                         oslobodim snebivanja. Koliko mi zasad treba ja sam je upoznao. Ostalo donosi
                         život. Tebe molim da mi odgovoriš da li je gospođica slobodna i kako ti
-                        misliš o toj mojoj nameri. Znam da nije mnogo što joj ja mogu ponuditi. <pb
-                            n="137"/> Ona ima da se reši da sutra primi na sebe dužnosti matere
+                        misliš o toj mojoj nameri. Znam da nije mnogo što joj ja mogu ponuditi. <pb n="137"/> Ona ima da se reši da sutra primi na sebe dužnosti matere
                         detetu koje joj je danas sasvim tuđe. Ne mislim da ga voli kao svoje, to je
                         nemogućno; ali da bude pažljiva i nežna to sam video da može; opazio sam
                         kako su je sva deca radosno slušala. Ja sam ti, dragi Miko, malo zbunjen tom
@@ -2662,8 +2643,7 @@
                         svoje slobode, od svoga temperamenta. Svojevoljno ja bih mnogo više
                         žrtvovala za njega, ali moja duša pati, moj život mi se čini gotovo
                         neprirodan, ja se ponekad osećam kao da se bojim toga čoveka koga toliko
-                        volim. Zašto? Celoga svog veka sam prizivala ljubav i pevala joj <pb n="153"
-                        /> himnu, a kad je ona najzad došla, i to ljubav, ne njena senka, ni slika,
+                        volim. Zašto? Celoga svog veka sam prizivala ljubav i pevala joj <pb n="153"/> himnu, a kad je ona najzad došla, i to ljubav, ne njena senka, ni slika,
                         ja sam onemela, ja sam se okamenila i izgubila ono što mi je najlepše bilo:
                         ličnost svoju.</p>
                     <p>Ponekad me spopadne sumnja i mislim da me on suviše poznaje i ne može me

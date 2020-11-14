@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19132"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19132" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,26 +28,29 @@
                 <measure unit="pages">199</measure>
             </extent>
             <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2020-05-11</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+<!--Укључено у ELTeC корпус 2020-05-11--></publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Ћоровић, Светозар</author>
                     <title>Дјела. Књ. 2</title>
                     <publisher>Свјетлост</publisher>
                     <pubPlace>Сарајево</pubPlace>
                     <date>1953</date> 
                     <idno type="COBISS-SR.ID">54425863</idno>
-                </bibl>
-                <bibl type="firstEdition">
+                </bibl><bibl type="firstEdition">
                     <author>Ћоровић, Светозар</author>
                     <title>Јарани : приповетка</title>
                     <pubPlace>Нови Сад</pubPlace>
                     <publisher>Матица српска</publisher>
                     <date>1913</date>
                     <idno type="COBISS-SR.ID">16904711</idno>
-                </bibl>  
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -56,14 +61,15 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1913, 1953 -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200511"/>
         </revisionDesc>
     </teiHeader>

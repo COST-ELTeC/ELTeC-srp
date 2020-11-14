@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18941"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18941" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,26 +28,29 @@
                 <measure unit="pages">420</measure>
             </extent>
             <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2020-05-03</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+<!--Укључено у ELTeC корпус 2020-05-03--></publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Сремац, Стеван</author>
                     <title>Поп Ћира и поп Спира : приповетка</title>
                     <pubPlace>Ср. Карловци</pubPlace>
                     <publisher>Бранково коло</publisher>
                     <date>1898</date>
                     <idno type="COBISS-SR.ID">28538887</idno>
-                </bibl>
-                <bibl type="firstEdition">
+                </bibl><bibl type="firstEdition">
                     <author>Сремац, Стеван</author>
                     <title>Поп Ћира и поп Спира</title>
                     <pubPlace>Београд ; Сарајево</pubPlace>
                     <publisher>И. Ђ. Ђурђевић</publisher>
                     <date>1894</date>
                     <idno type="COBISS-SR.ID">28934663</idno>
-                </bibl>  
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -56,14 +61,15 @@
                 <language ident="sr" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <!-- izdanja: 165 u Cobiss -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200503"/>
             <change when="20200604">e-title changed to confirm to the first edition</change>
         </revisionDesc> 
@@ -1065,7 +1071,7 @@
 <p>— Па шта каже онај <hi>паор?</hi> — запита већ мало љутито поп Ћира.</p>
 <p>— Па то и јесте што ме једи! Потпустио ону бештију, а он се извук’о отиш’о некуд на пут, а њу оставио да газдује.</p>
 <p>— Ал’ ти ми још не рече: шта је то све радила?</p>
-<p>— Од кад си се ти кренуо на тај проклети пут, — отпоче гђа Перса пошто се намести у стару фотељу, — нисам ти ја, Ћиро, ни ја ни Меланија, имали ни мирна дана, ни мирна сана. Кажем ти; ни дањом ни ноћом нисмо били мирни од њихових безобразлука. Таман једно престане, кад ал’ ето ти друго се почне... па тако фурт. Дањом метнули неко решето пред кућу, па се сетили <hi>ту</hi> да <pb n="181"/> решетају жито; па нека плева, нека прашина, к’о да је и онако мало на сокаку; а ноћом неки гајдаши, тамбураши, трумбеташи, Ћиро, неки курмахери и неке нахт-музике, к’о да смо на „Тиса-парту“<ref target="#SRP18941_N1"/>тако ми је изгледало.</p>
+<p>— Од кад си се ти кренуо на тај проклети пут, — отпоче гђа Перса пошто се намести у стару фотељу, — нисам ти ја, Ћиро, ни ја ни Меланија, имали ни мирна дана, ни мирна сана. Кажем ти; ни дањом ни ноћом нисмо били мирни од њихових безобразлука. Таман једно престане, кад ал’ ето ти друго се почне... па тако фурт. Дањом метнули неко решето пред кућу, па се сетили <hi>ту</hi> да <pb n="181"/> решетају жито; па нека плева, нека прашина, к’о да је и онако мало на сокаку; а ноћом неки гајдаши, тамбураши, трумбеташи, Ћиро, неки курмахери и неке нахт-музике, к’о да смо на „Тиса-парту“<ref target="#SRP18941_N1"/><ref target="#SRP18941_N1"/>тако ми је изгледало.</p>
 <p>— Охо! Но, то је, к’о што видим, све лепше и лепше.</p>
 <p>— Да шта ти мислиш!? Целог боговетног дана лупа оно проклето решето и тера плеву све на нашу страну; не можеш к’о човек изићи на сокак од прашине. А ноћом се опет вуче читава компанија; ту су ти са неким трумбетама, неким вергловима, да цео шор не може ока да склопи.</p>
 <p>— Па што су ти се завезала уста, кад их имаш, фала Богу, па да им кажеш, да ваљда још неко седи у овом сокаку?</p>

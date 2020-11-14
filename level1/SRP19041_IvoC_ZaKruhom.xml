@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19041"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19041" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -20,25 +22,28 @@
                 <measure unit="words">53434</measure>
             </extent>
             <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2020-10-05</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271662">ELTeC-srp release 0.7.0</ref>
+<!--Укључено у ELTeC корпус 2020-10-05--></publicationStmt>
+            <sourceDesc><bibl type="digitalSource">
                     <author>Ћипико, Иво</author>
                     <title>За крухом</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Антологија српске књижевности, Учитељски факултет, Универзитет у Београду</publisher>
                     <idno type="URL">http://www.antologijasrpskeknjizevnosti.rs/</idno>
-                </bibl>
-                <bibl type="firstEdition">
+                </bibl><bibl type="firstEdition">
                     <author>Ћипико, Иво</author>
                     <title>За крухом</title>
                     <pubPlace>Нови Сад</pubPlace>
                     <publisher>Матица српска</publisher>
                     <date>1904</date>
                     <idno type="COBISS-SR.ID">16781575</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -49,14 +54,15 @@
                 <language ident="sr-Cyrl" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <!-- izdanja: 1904, 1951, 1982, 2017, 2020  -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20201005"/>
         </revisionDesc>
     </teiHeader>
@@ -704,7 +710,7 @@
 <p>Још истога дана потужи се мајстор да су стан и храна рђави, вода нечиста и млака, и да је он научио на боља јела. Стога је свако јутро ваљало слати човјека по месо и рибу. Још рибе било би се нашло и у телу, но Мрсе је није хтио продавати ни за какав новац. „Да је дам оном гладном Талијану, ча је доша’ из врага да се наји наши труди?!“ гунђаше он и носијаше рибу у град.</p>
 <p>Увече момчад долажаше у крчму да види шјор Антонија.</p>
 <p>Цирило се први брзо ослободи и поче с њиме збијати шале. Живо се препираше с дружином, говорећи о њем, а затим би прснуо у обијестан смијех. Мајстор, забезекнут, једнако их гледаше, па напокон, увидјевши да је то ипак добар свијет, удобровољи се и смијаше с њима.</p>
-<p>— Гледај, како јй! — ругаше се једне вечери Цирило. Све ка по сировој кожи... Овдје се мрска, а код њега дома, да је било и капуле!<ref target="#SRP19041_N1"/> Они, болан, и не јиду него кануле и зелени; исто ка и живина! </p>
+<p>— Гледај, како јй! — ругаше се једне вечери Цирило. Све ка по сировој кожи... Овдје се мрска, а код њега дома, да је било и капуле!<ref target="#SRP19041_N1"/><ref target="#SRP19041_N1"/> Они, болан, и не јиду него кануле и зелени; исто ка и живина! </p>
 <p>Мајстор међутим не слушаше веселога младића, већ се слатко залагао и силно се знојио... </p>
 <p>— Вражји плише! — наново јави се Цирило и погледа по дружини. — Неће да воду пије, а свеједно како је блид и узет, ка да је из мриже испа... Ах, да је мени онако јист, па... комад дивојке... Ух!</p>
 <p>— Пусти, — прекидоше га момци, — ситиће се! </p>
@@ -1245,7 +1251,7 @@
 <p>Иво, сазнавши за сеоску невољу, веома се узнемири и растужи. За вечером, да одахне од очева гњева и тежачкога туговања, изиђе напоље. Ходаше испред цркве на отворену комаду земљишта засађену дрвећем. </p>
 <p>На зиду уоколо сједио је млађи свијет. Разговараху о рубачу и порезу и о којечем другом, док најпосле надвлада младићко весеље и неколико их у по грла запјева... </p>
 <p>Доље, у доњој страни села, чула се вика и оштрији гласови жалба, који се примицаху горњој страни. Док наједном неки угледаше свјетло фењера и за њим поворку људи. </p>
-<p>— Гоне живину у јапнени двор<ref target="#SRP19041_N2"/>! —  рече један од људи, као да не вјерује својим очима. </p>
+<p>— Гоне живину у јапнени двор<ref target="#SRP19041_N2"/><ref target="#SRP19041_N2"/>! —  рече један од људи, као да не вјерује својим очима. </p>
 <p>— Тако ти је, — потврди други. —  Гледај како при свићи сива бајунета! </p>
 <p>Људи се дигоше да се боље увјере. Поворка се приближаваше к њима и лијепо се разабирао клопот и бахат велике и мале живине.</p>
 <p>Опћински чауш и два опћинска рондара гоњаху благо пред собом, да га затворе до сутра. Пред њима с фењером у руци ходао је рубач и жандар, а за њима нешто друге чељади. </p>
