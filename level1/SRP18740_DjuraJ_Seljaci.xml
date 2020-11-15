@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18740" xml:lang="sr">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18740" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -146,7 +143,7 @@
 <p>Кад је учитељ ступио у механу, сви су се сељаци дигли и поздравили с њиме, јер га сви поштоваху; а чича-Маринко, иако је мрзео на каву, одмах изиђе напоље, да господину учитељу једну спреми.</p>
 <p>— Штета само што се не жени — рече Маринко, — а ваљан је момак. Свака би пошла за њега, па баш и попина Недица...</p>
 <p>Кмет-Јова се такођер диже, рукова се и поздрави с њиме:</p>
-<p>— А откуд ти да се наканиш у механу? Хе, хе, учо, то ретко бива!... Ал’ кад си ту, сад се нема куд... Чича-Маринко, деде, здравља ти, напуни ону завијачу!...<ref target="#SRP18740_N1"/><ref target="#SRP18740_N1"/></p>
+<p>— А откуд ти да се наканиш у механу? Хе, хе, учо, то ретко бива!... Ал’ кад си ту, сад се нема куд... Чича-Маринко, деде, здравља ти, напуни ону завијачу!...<ref target="#SRP18740_N1"/></p>
 <p>— Хоћеш ли слатке или грке?...</p>
 <p>— Баш ја не марим ни за једну; ал’ да те не одбијем, могу баш једну шљивову.</p>
 <p>— Е, па добро! Дај шљивовице, Маринко!... Па шта је ново у Зајечару?... Синоћ си одонуда...</p>

@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18920" xml:lang="sr">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18920" xml:lang="sr">
 
  <teiHeader>
   <fileDesc>
@@ -564,7 +561,7 @@
 <p>„Чекај, молим те,“ упаде јој опет у реч Рајко; „је ли та жена, што ти је на сну долазила, говорила српски и носила круну на глави?!“</p>
 <pb n="101"/>
 <p>— „Говорила је српски, али није имала круну; него је била обучена у црно као калуђерица, а тако је била и она друга жена за коју сам ја мислила да је света Марија Магдалена, док не чух да је она зове Ефимијом!“</p>
-<p>„Е, онда неће бити што сам ја домишљао!“ рече Рајко невесело; „ја помислих да ти се то јављала наша српска царица Милица, која је била тако доброга срца, па би се над твојом судбом заплакати могла. Али видим није! “ <ref target="#SRP18920_N1"/><ref target="#SRP18920_N1"/> </p>
+<p>„Е, онда неће бити што сам ја домишљао!“ рече Рајко невесело; „ја помислих да ти се то јављала наша српска царица Милица, која је била тако доброга срца, па би се над твојом судбом заплакати могла. Али видим није! “ <ref target="#SRP18920_N1"/> </p>
 </div>
 <div type="chapter" xml:id="SRP18920_C2.7">
 <head>7</head>

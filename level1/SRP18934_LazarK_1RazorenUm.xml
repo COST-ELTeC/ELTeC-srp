@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18934" xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18934" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -737,7 +734,7 @@
 <p>— Баш ти хвала, синовче! Већ те од синоћ погледамо. Он само за те пита. Кад сам му казао да ћеш доћи, он се чисто разведри, и тек ме од једном упита: „А вози ли га Совра?...“</p>
 <p>— Нека Бог сваког обрадује, па и нас, рече газда Степан и окрете главу у страну. </p>
 <pb n="152"/>
-<p>— Овде је, рано моја, и госпођа Јелица. Нека јој Бог да здравља! — Да ње није, не знам шта би било и од наше веселе Кадивке. <ref target="#SRP18934_N1"/><ref target="#SRP18934_N1"/> Хоће жена, просто, да пресвисне. Ово је трећа ноћ, како око на око није свела, те је јутрос госпођа Јелица на зор одведе — да мало прилегну, те да се, јадница, мало мало, одмори....</p>
+<p>— Овде је, рано моја, и госпођа Јелица. Нека јој Бог да здравља! — Да ње није, не знам шта би било и од наше веселе Кадивке. <ref target="#SRP18934_N1"/> Хоће жена, просто, да пресвисне. Ово је трећа ноћ, како око на око није свела, те је јутрос госпођа Јелица на зор одведе — да мало прилегну, те да се, јадница, мало мало, одмори....</p>
 <p>— А кад си, синко, из Београда? приђе ми опет чича Дака. Сад се мало као прибрао.</p>
 <p>Кажем му.</p>
 <p>— Богме, добро сте стигли! Далеко се измак‘о Београд, клети!... Де, децо, шта сте стали?!.. Дете, горе под велики орах! Изнесите простирку и који јастук. Да се човек мало одмори....</p>

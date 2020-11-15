@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18932" xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18932" xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -2281,7 +2278,7 @@
 <p>А и време је једаред!.... Лазар је већ примио имање у своје руке, а војска га је обишла за то, што је једин.</p>
 <p>Елем, једног јутра зовне Анђелија зета Милана, па с њим седе на кола и оде у Клење Срећковићима да види девојку.</p>
 <p>Кад су тамо дошли укућани их лепо дочекају. Разговарали су о разним стварима из најпре, док најпосле Милан не помену:</p>
-<p>— Ама, Јово, брате, ја дођох са мојом пуницом <ref target="#SRP18932_N1"/><ref target="#SRP18932_N1"/> да видимо твоју сестру.</p>
+<p>— Ама, Јово, брате, ја дођох са мојом пуницом <ref target="#SRP18932_N1"/> да видимо твоју сестру.</p>
 <p>— Добро, брате — рече Јова.</p>
 <p>— Па већ видели смо, него шта велиш: кад ћеш доћи да видиш кућу?</p>
 <pb n="158"/>
