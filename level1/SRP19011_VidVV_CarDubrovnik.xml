@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19011"  xml:lang="sr-Cyrl">
     <teiHeader>
         <fileDesc>
@@ -68,7 +68,7 @@
     </teiHeader>
 <text>
 <front>
-<div type="titlePage">
+<div type="titlepage">
 <p>МАЛА БИБЛИОТЕКА</p>
 <p>МАТИЦЕ СРПСКУ У ДУБРОВНИКУ</p>
 <p>књига 4.</p>
@@ -77,7 +77,7 @@
 <p>У ДУБРОВНИКУ</p>
 <p>1912. Штампа Српске Дубровачке Штампарије. 1912.</p>
 </div>
-<div type="titlePage">
+<div type="titlepage">
 <p>Издање Матице Српске у Дубровнику</p>
 </div>
 </front>
