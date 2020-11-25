@@ -25,22 +25,15 @@
                 <p>Укључено у ELTeC корпус <date>2019-06-30</date></p>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="firstEdition">
+                 <bibl type="firstEdition">
                     <author>Мамузић, Стеван</author>
                     <title>Неједнака браћа : приповетка за народ 1</title>
+                    <title>Неједнака браћа : приповетка за народ 2</title>
                     <pubPlace>Нови Сад</pubPlace>
                     <publisher>Српска књижара и штампарија Браће М. Поповића</publisher>
-                    <note>Књиге за народ/Матица српска из Задужбине Петра Коњевића ; св. 61</note>
+                    <note>Књиге за народ/Матица српска из Задужбине Петра Коњевића ; св. 61/62</note>
                     <date>1896</date>
                     <idno type="COBISS-SR.ID">95064327</idno>
-                </bibl>
-                <bibl type="firstEdition">
-                    <author>Мамузић, Стеван</author>
-                    <title>Неједнака браћа : приповетка за народ ]</title>
-                    <pubPlace>Нови Сад</pubPlace>
-                    <publisher>Српска књижара и штампарија Браће М. Поповића</publisher>
-                    <note>Књиге за народ/Матица српска из Задужбине Петра Коњевића ; св. 62</note>
-                    <date>1896</date>
                     <idno type="COBISS-SR.ID">11434503</idno>
                 </bibl>
             </sourceDesc>
