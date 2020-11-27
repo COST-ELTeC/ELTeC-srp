@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Страдија. 1 : ELTeC издање</title>
+                <title ref="viaf:308068426">Страдија. 1 : ELTeC издање</title>
                 <author ref="viaf:7623303">Домановић, Радоје М. (1873-1908)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
@@ -31,7 +31,7 @@
             <sourceDesc>
                 <bibl type="firstEdition">
                     <author>Домановић, Радоје М.</author>
-                    <title ref="viaf:308068426">Страдија. 1</title>
+                    <title>Страдија. 1</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Нова електрична штампарија П. Јоцковића</publisher>
                     <date>1902</date>
