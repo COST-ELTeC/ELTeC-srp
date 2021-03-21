@@ -22,9 +22,9 @@
                 </respStmt>
             </titleStmt>
             <extent>
-                <measure unit="words">47930</measure>
+                <measure unit="words">55063</measure>
                 <measure unit="pages">206</measure>
-                <!-- <note>У сканирнаом примерку је недостајао крај, од стр. 178 до краја; то је допунјено из ииздања 2004</note> -->
+                <!-- <note>У сканирнаом примерку је недостајао крај, од стр. 178 до краја; то је допуњено из ииздања 2004</note> -->
             </extent>
             <publicationStmt>
                 <p>Укључено у ELTeC корпус <date>2021-03-10</date></p>
@@ -50,13 +50,14 @@
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
                 <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
                 <!-- izdanja: 1896, 2004 [1 у периоду 1970-2010]  -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="20210321">Крај који је недостајао у сканираном примерку допуњен из издања из 2004. године</change>
             <change when="20210310"/>
         </revisionDesc>
     </teiHeader>
