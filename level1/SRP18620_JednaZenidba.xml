@@ -60,12 +60,13 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-                <!-- izdanja: 1862, 1878, 1889, 1953, 1959, 2011, 2013, 2016  -->
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <!-- izdanja: 1862, 1878, 1889, 1953, 1959, 2011, 2013, 2016 [0 у периоду 1970-2010] -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-02-23">changed reprintCount from "high" to "low"</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20191231"/>
             <change when="20205030">e-title changed to confirm to the first edition</change>
