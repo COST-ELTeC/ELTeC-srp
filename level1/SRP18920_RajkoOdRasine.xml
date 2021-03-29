@@ -50,8 +50,8 @@
    <textDesc>
     <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
     <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
-    <!-- izdanja: 1892, 19??, 1923, 1929, 2018 -->
+    <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+    <!-- izdanja: 1892, 19??, 1923, 1929, 2018, 2021 [0 у периоду 1970-2010] -->
     <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
    </textDesc>
   </profileDesc>
