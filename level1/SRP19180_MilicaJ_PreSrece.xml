@@ -108,11 +108,11 @@
             <head>PRE SREĆE</head>
             <pb n="14"/>
             <pb n="15"/>
-            <div type="group">
+            <div type="group" xml:id="SRP19180_P1">
                 <head>PRVI DEO</head>
                 <pb n="16"/>
                 <pb n="17"/>
-                <div type="chapter" xml:id="C1.1">
+                <div type="chapter" >
                     <head>BUĐENJE</head>
                     <p>Rešila sam da od danas pišem dnevnik, ne dnevnik svakidašnjeg rada i dangube
                         i sitnih misli, već dnevnik onih dana u koje mi se desilo nešto važno,
@@ -1130,12 +1130,12 @@
                         Kako ću ja da podnosim život?</p>
                 </div>
             </div>
-            <div type="group" xml:id="P2">
+            <div type="group" xml:id="SRP19180_P2">
                 <pb n="69"/>
                 <head>DRUGI DEO.</head>
                 <pb n="70"/>
                 <pb n="71"/>
-                <div type="chapter" xml:id="C2.1">
+                <div type="chapter" xml:id="SRP19180_C2.1">
                     <head>BORBA: POBEDA ILI PAD?</head>
                     <p>Ljudi tako neprirodno govore, čitaju, smeju se, tako neprirodno se ponašaju,
                         igraju u pozorištu, recituju stihove i svađaju se, da ja počinjem da sumnjam
@@ -2259,12 +2259,12 @@
                 </div>
             </div>
             <pb n="130"/>
-            <div type="group" xml:id="P3">
+            <div type="group" xml:id="SRP19180_P3">
                 <pb n="131"/>
                 <head>TREĆI DEO.</head>
                 <pb n="132"/>
                 <pb n="133"/>
-                <div type="chapter" xml:id="C3.1">
+                <div type="chapter" xml:id="SRP19180_C3.1">
                     <head>CILJ.</head>
                     <p>Udajem se. Nisam ushićena, ali sam ozbiljno uzbuđena i shvatam važnost svoga
                         koraka. I ne pada mi na um pitanje da li ne grešim i da li se neću pokajati.
@@ -2532,7 +2532,7 @@
                         zadovoljan i srećan kao tvoja Jela ... Takvog si čoveka ti meni želeo, je
                         li?</p>
                 </div>
-                <div type="chapter" xml:id="C3.2">
+                <div type="chapter" xml:id="SRP19180_C3.2">
                     <head>Opet borba i sumnja.</head>
                     <p>Pisci kad hoće da ostave čitaocu iluziju sreće završavaju svadbom roman onih
                         koji se vole. Imaju pravo. Jer kad bi pošli samo jedan korak dalje, iluzije
@@ -2724,7 +2724,7 @@
                     <pb n="157"/>
                     <p>samo imam tako malo vremena, da sam ih uvek željan.</p>
                 </div>
-                <div type="chapter" xml:id="C3.3">
+                <div type="chapter" xml:id="SRP19180_C3.3">
                     <head>Svetlost.</head>
                     <p>Mala se oporavlja i u kući se oseća neko tiho blaženstvo, neki nebeski
                         blagoslov. Zapaljenje nije bilo opasno. Lela je vesela. Ali danas joj se
