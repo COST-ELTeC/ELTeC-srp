@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18760" xml:lang="sr-Cyrl">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18760" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -54,7 +54,7 @@
         
         <profileDesc>
             <langUsage>
-                <language ident="sr" usage="100">српски</language>
+                <language ident="sr-Cyrl" usage="100">српски</language>
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
@@ -850,7 +850,7 @@
 <p>И он га хтеде ухватити за брадавицу, која је кицошу на левом образу израсла, али се он, као опарен, трже, одступи два корака даље, па га зачуђено посматраше.</p>
 <pb n="394"/>
 <p>— Баш вам ружно стоји!... — рече чича-Тима. — Шта би рекао господин секретар, да види толику крмачу на моме пропису?... Одмах доле с њоме! Ви сте, господине, писани за испит|...</p>
-<p>— <foreign xml:lang="DR">Das ist ein impertinenter Kerl!...</foreign><ref target="#SRP18760_N3"/> викну кицош на њега, а после се окрете келнерима... — Келнер! Ову пијану луду да избаците из гостионице!</p>
+<p>— <foreign xml:lang="de">Das ist ein impertinenter Kerl!...</foreign><ref target="#SRP18760_N3"/> викну кицош на њега, а после се окрете келнерима... — Келнер! Ову пијану луду да избаците из гостионице!</p>
 <p>Њих пет-шест келнера долетеше, ухватише чича-Тиму и стадоше га гурати на врата. Старац се испрва отимао, али напослетку морао је већој сили попустити. Утоме му и шешир паде с главе, они га бацише за њим у блато; а старац, кад га није могао наћи, оде даље, гологлав... Ноћ беше тамна, улице узане, мрачне, а калдрма испроваљивана; на сваком скоро кораку падао би сиромах учитељ у блато, застењао би, па би корачао даље у црну, пусту, ноћ. Наједанпут се нађе на некој висини, он није могао да разазна, где се налази, корачи један корак даље и у исти мах паде, онесвешћен, на тврду калдрму.</p>
 <p>Та висина, са које је пао, беше некакав лагум. Жандари, који нису далеко оданде били, чуше његово стењане, а после загушљиво крчање.</p>
 <p>— То је човек... — рећи ће један од њих. — Пао је, несрећник, па се, можда, и угрувао?... Хајде да видимо! </p>

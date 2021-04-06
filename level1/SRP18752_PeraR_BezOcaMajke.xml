@@ -1,7 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18752" xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18752" xml:lang="sr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,14 +49,14 @@
     
     <profileDesc>
       <langUsage>
-        <language ident="sr" usage="100">српски</language>
+        <language ident="sr-Cyrl" usage="100">српски</language>
       </langUsage>
       <textDesc>
-        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-        <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+        <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+        <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
         <!-- izdanja: 1875, 1881 -->
-        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+        <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
@@ -598,7 +595,7 @@
           <p>Но од како сам Љубицу упознао од онда су наступили нови дани у животу моме. <pb n="130"/> Лепоту света и сладост живота тек сам онда први пут јасно осећао, кад ми њене лепе црне они испунише сетно срце моје. Моје груди нису више пусте, моје срце није више празно, ах! ја нисам несрећан, нисам, јер не стојим више сам самцит на свету!... -</p>
           <milestone unit="subSection"/>
           <p>9/7</p>
-          <p>Многи се моји другови већ о том разговарају, кад и како ће који кући ићи. Ја немам куће па за то о тој ствари у сваком друштву и ћутим, јер код мене је „<foreign xml:lang="LA">omnia mea mecum porto</foreign>“ Ах! Једино место, куда бих отићи желео, то је манастир; али не могу ни тамо јер немам шта да једем, а камо ли да путујем?!..,</p>
+          <p>Многи се моји другови већ о том разговарају, кад и како ће који кући ићи. Ја немам куће па за то о тој ствари у сваком друштву и ћутим, јер код мене је „<foreign xml:lang="la">omnia mea mecum porto</foreign>“ Ах! Једино место, куда бих отићи желео, то је манастир; али не могу ни тамо јер немам шта да једем, а камо ли да путујем?!..,</p>
           <milestone unit="subSection"/>
           <p>12/7</p>
           <p>Лане сам био у ово доба брижан и тужан и много сам суза пролио, па ево и ове године при свем том, што ми наде моје говораху да ће бити боље и лепше.. Наде, лепе наде и бедна, горка садањост, увиђам, да није ништа! На што наде, те лепе слатке наде, кад срце у садањости вене и вене? И кад једном увене, на што онда наде, те лепе и слатко наде?!</p>

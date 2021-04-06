@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19025"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19025" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -45,14 +42,14 @@
         
         <profileDesc>
             <langUsage>
-                <language ident="sr" usage="100">српски</language>
+                <language ident="sr-Cyrl" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <!-- izdanja: 1902 i još 50 u COBISS -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
@@ -713,7 +710,7 @@
 <!-- ovde -->
 <p>И тако даље. Ко би још могао све то и попамтити! то јест, ако је и ово добро запамћено.</p>
 <p>Сад долази стручно разрађивање сваког дела сваке тачке по овом утврђеном реду, и после много, врло много написаних табака, долази се на реч <hi>дозволити</hi>. Даље гласи:</p>
-<p>„Дозволити, им, гл. санскр. <foreign xml:lang="SA-Latn">dharh duhorh</foreign>, скакати, скакуцкати, трчкарати (В. књ. III. с. 15, 114, 118 b. Н. С.** m.)=pl. donti. r. duti, gr. <foreign xml:lang="EL">εμαυριςω</foreign>, l. <foreign xml:lang="LA">canto, cantare, provoco, provocere (sic)</foreign> k. 3xb, звати, звонити, звук, звер (В. Расрди се тигар звери љута. Ђ. Л. П. 18.) = Скочи срна иза грма = зволити са „до“: дозволити (Н. 16. В. 3. С.Н.О.4. Ђ. Д. 18, 5, књ. III. Види пример: „На јунаку рана седамнаест“).</p>
+<p>„Дозволити, им, гл. санскр. <foreign xml:lang="sa-Latn">dharh duhorh</foreign>, скакати, скакуцкати, трчкарати (В. књ. III. с. 15, 114, 118 b. Н. С.** m.)=pl. donti. r. duti, gr. <foreign xml:lang="el">εμαυριςω</foreign>, l. <foreign xml:lang="la">canto, cantare, provoco, provocere (sic)</foreign> k. 3xb, звати, звонити, звук, звер (В. Расрди се тигар звери љута. Ђ. Л. П. 18.) = Скочи срна иза грма = зволити са „до“: дозволити (Н. 16. В. 3. С.Н.О.4. Ђ. Д. 18, 5, књ. III. Види пример: „На јунаку рана седамнаест“).</p>
 <p>„Према овоме налазимо да реч „дозволити“ није наша и да је треба као штетну по нашу нацију избацити“.</p>
 <p>Истим начином долази, објашњење и речи „нужно“, и долазе до истог закључка.</p>
 <p>Затим су прешли на ред речи у опште, па посебно, па ред речи у акту директорову и ту учинили стручне замерке. </p>

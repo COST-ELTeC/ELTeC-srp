@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19031" xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19031" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,11 +45,11 @@
                 <language ident="sr-Cyrl" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1903 [0 у периоду 1970-2010]  -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
@@ -1722,7 +1719,7 @@
 </div>
 <div type="chapter" xml:id="SRP19031_C69">
 <head>LXIX</head>
-<p>Демони победише! Разорише једно огњиште, где се развијаху чедна створења, <pb n="237"/> од којих би временом биле честите мајке, које би, својим подмлатком, више користиле овој земљи, него стотинама Душанових потомака <foreign xml:lang="FR">à la</foreign> Мића и Лака.</p>
+<p>Демони победише! Разорише једно огњиште, где се развијаху чедна створења, <pb n="237"/> од којих би временом биле честите мајке, које би, својим подмлатком, више користиле овој земљи, него стотинама Душанових потомака <foreign xml:lang="fr">à la</foreign> Мића и Лака.</p>
 <p>Боже мој, како је неприродно, неправедно и скроз труло данашње друштвено уређење! Бива често, да најнеморалнији људи долазе на положаје, одакле треба да се брину о моралу. Непоштени људи, да се брину о имовној безбедности, а прљави од главе до пете, да чувају туђу част. Данас је сила јача од права, насиље се врши отворено, не црвени се ни пред каквим неморалним делом, не дркће пред злочином. Што је ко неморалнији, то боље пролази, а остали му ниткови у свему помажу.</p>
 <p>Маса, пак, само јури, не обзирући се, шта раде поједини несавесни људи, па, ако се кад год и сети какве неправде према невиним жртвама, то очас заборавља, и опет даље јури.</p>
 <p>Најгоре пролазе невине девојке, које брутални људи немилице газе и приносе на жртву својим похотљивим прохтевима. Исто тако рђаво пролазе и часни борци <pb n="238"/> који се жртвују за своје ближње, који их, обично, у отсудном тренутку, остављају, да их упропасте и сможде народни непријатељи и противници истине.</p>

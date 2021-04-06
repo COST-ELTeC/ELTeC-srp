@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18921"  xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18921" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -48,11 +45,11 @@
                 <language ident="sr-Cyrl" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1892  -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
@@ -188,11 +185,11 @@
 <quote>
 <l>„Живила Хрватска и њезина права, </l>
 <l>Чувала се изрода, славосрпских глава! </l>
-<l>Удри, удри, <foreign xml:lang="DE-Cyrl">ин дер штат</foreign>,</l>
+<l>Удри, удри, <foreign xml:lang="de-Cyrl">ин дер штат</foreign>,</l>
 <l>Славосрбом <hi>штрик</hi> о врат!...“</l>
 </quote>
 <p>— То је „мото“ нашег програма! — кликну Зорко, кад свршише песму.</p>
-<p>— То је „<foreign xml:lang="LA">succus</foreign>” наше идеје! —- дода Иван.</p>
+<p>— То је „<foreign xml:lang="la">succus</foreign>” наше идеје! —- дода Иван.</p>
 <p>— Живели! — кликнуше Злата и Минка, <pb n="17"/> које су међу тим устале биле, те међу собом нешто поверљиво говориле.</p>
 <p>— Живели Хрвати! — узвикну Иван.</p>
 <p>— Живела велика Хрватска! — надовеза Зорко.</p>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19090" xml:lang="sr-Cyrl">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19090" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -47,7 +47,7 @@
         
         <profileDesc>
             <langUsage>
-                <language ident="sr" usage="100">српски</language>
+                <language ident="sr-Cyrl" usage="100">српски</language>
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
@@ -1346,7 +1346,7 @@
 <p>— Нико не смије оставити своје браће.</p>
 <pb n="110"/>
 <p>Тако дебели фратар задовољи се, да се гега по одгојку, мислећи непрестано на пробаву. Али кад га друштво изгуби с вида, леже испод дрвета у хлад, да бар опочине, док бар пробава траје.</p>
-<p>Доктор црковног права извади из рукава смотру „<foreign xml:lang="IT">La civita cattolica</foreign>”, - (Он је и онако, дошао да се провоза и разоноди у простој природи.) - па нашавши хлада, сједе, да чита.</p>
+<p>Доктор црковног права извади из рукава смотру „<foreign xml:lang="it">La civita cattolica</foreign>”, - (Он је и онако, дошао да се провоза и разоноди у простој природи.) - па нашавши хлада, сједе, да чита.</p>
 <p>Остали фратри подвезаше конопцем од три узла фраторску црну хаљину, да им не смета, и засукаше рукаве од кошуље, те се стадоше уметати каменом.</p>
 <p>Сељацима тек сада срце заигра и очи дођоше живље:</p>
 <p>— Боже, ко ће одбацити?</p>

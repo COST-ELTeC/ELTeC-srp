@@ -44,7 +44,7 @@
 
         <profileDesc>
             <langUsage>
-                <language ident="sr" usage="100">српски</language>
+                <language ident="sr-Latn" usage="100">српски</language>
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
@@ -112,7 +112,7 @@
                 <head>PRVI DEO</head>
                 <pb n="16"/>
                 <pb n="17"/>
-                <div type="chapter" >
+                <div type="chapter">
                     <head>BUĐENJE</head>
                     <p>Rešila sam da od danas pišem dnevnik, ne dnevnik svakidašnjeg rada i dangube
                         i sitnih misli, već dnevnik onih dana u koje mi se desilo nešto važno,
@@ -828,7 +828,7 @@
                     <p>— Je li to tvoja verenica?</p>
                     <p>— Nije — odgovori Nikola srpski.</p>
                     <p>— Pa ko je onda? — nastavi on kako je počeo.</p>
-                    <p>— Moja zemljakinja — reče i Nikola sad francuski. „<foreign xml:lang="FR">Une
+                    <p>— Moja zemljakinja — reče i Nikola sad francuski. „<foreign xml:lang="fr">Une
                             jeune fille do mon pay</foreign>“ — tako <pb n="54"/> je on kazao sa
                         nekim ponosom, nalik na patriotizam.</p>
                     <p>— Dakle, sestra? — pitaše dalje onaj.</p>
@@ -1631,7 +1631,7 @@
                         prevarim one koji su hteli da prevare mene. To ne znači da ja lažem. Ta
                         misao mi je davala iskreno veselo raspoloženje. Igramo se, gospodine. Ljudi
                         uvek preteruju: ako vole, preteruju u hvali; ako mrze, u kuđenju. A ja sam
-                        ovoga gospodina videla onakvog kakav je. <title><foreign xml:lang="FR">Illustration</foreign></title> je ovoga puta bio vrlo bogat.
+                        ovoga gospodina videla onakvog kakav je. <title><foreign xml:lang="fr">Illustration</foreign></title> je ovoga puta bio vrlo bogat.
                         Gledali smo sliko iz francuskog salona, Odjednom on se diže i sede daleko od
                         mene.</p>
                     <p>— Ja radije gledam slike u boji — reče. — Eto, mala, da li vi znato kako vam

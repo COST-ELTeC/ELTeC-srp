@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18911" xml:lang="sr-Cyrl">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18911" xml:lang="sr">
 
     <teiHeader>
         <fileDesc>
@@ -53,11 +47,11 @@
                 <language ident="sr-Cyrl" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1891 [0 у периоду 1970-2010]  -->
-                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
@@ -336,7 +330,7 @@
 <p>— „Много их је, почне се он извињавати у себи, па ме могу још ови напити младићи издеветати!..“</p>
 <p>Због тога окрену он сад у другу крајност.</p>
 <p>— „Шампањера овамо!“ продера се он, и лупну неколико пута својим штапићем о сто.</p>
-<p>Келнери дотрчаше. Заповест би за тили час извршена. За мало па отпоче право бомбардање са одскачућим запушачима. Један од ових, враћајући се од зида, зврцну Богатића сасвим безобразно по носу, а то је био свакојако <foreign xml:lang="LA"> malum omen </foreign> за Богатићеву част.</p>
+<p>Келнери дотрчаше. Заповест би за тили час извршена. За мало па отпоче право бомбардање са одскачућим запушачима. Један од ових, враћајући се од зида, зврцну Богатића сасвим безобразно по носу, а то је био свакојако <foreign xml:lang="la"> malum omen </foreign> за Богатићеву част.</p>
 <p>А ево зашто.</p>
 <p>Кад се шамањер расточио у чаше, нико од ових младих људи не хтеде то пиће да пије.</p>
 <pb n="35"/>
@@ -573,7 +567,7 @@
 <p>— „Хвала ти на тој пажњи. У злу не требало. Бог ће дати, па ће се ваљда све то још на добро окренути!“ рече на то тронуто Перса.</p>
 <p>Што су оне још даље разговарали, од мање је важности. То се дотицало девојачке и сватовске спреме, јер су обе ове жене, укрепљене оваким разговором, потпуно веровале у срећни свршетак ове ствари, која се тек сад почела да замршује.</p>
 <p>После поноћи наступио је одмор, који је свирачима таман добро дошао, јер сад је било време да и они вечерају.</p>
-<p>Они пак младићи са здравим стомацима, кад су приметили како свирачи конабе прасећину и остало што је пред њих изнесено, пронађу одмах и сами, да је латинска изрека: „<foreign xml:lang="LA"> Repetitio est mater studiorum </foreign>“ и овде са свим на своме месту, те одмах по једној другој изреци, која гласи: <foreign xml:lang="LA"> materia incepta porro tractatur et caet. </foreign> седну за сто, те пик Јово на ново.</p>
+<p>Они пак младићи са здравим стомацима, кад су приметили како свирачи конабе прасећину и остало што је пред њих изнесено, пронађу одмах и сами, да је латинска изрека: „<foreign xml:lang="la"> Repetitio est mater studiorum </foreign>“ и овде са свим на своме месту, те одмах по једној другој изреци, која гласи: <foreign xml:lang="la"> materia incepta porro tractatur et caet. </foreign> седну за сто, те пик Јово на ново.</p>
 <p>Сад се више није седало за сто по неком реду и пропису, него где је ко пре стигао.</p>
 <pb n="71"/>
 <p>Да би ови млади људи били још комотнији, устали су од стола домаћин и домаћица, госпођа Перса, муж јој Коста, и стари начелник.</p>
@@ -1062,7 +1056,7 @@
 <p>Мржња је ударила на обест!...</p>
 <p>Прва је српска, а друга је бугарска!...</p>
 <p>Између обе стоји по даље један страни посланик, задовољно смешећи се и одбацујући димове своје фине цигаре, то на једну, то на другу страну.</p>
-<p>То је он тако чинио, због познате латинске пословице: „<foreign xml:lang="LA"> Duobus litigantibus, tertius gaude </foreign>.“ Извесно му је годило, што је баш он тај „<foreign xml:lang="LA"> tertius </foreign>.“</p>
+<p>То је он тако чинио, због познате латинске пословице: „<foreign xml:lang="la"> Duobus litigantibus, tertius gaude </foreign>.“ Извесно му је годило, што је баш он тај „<foreign xml:lang="la"> tertius </foreign>.“</p>
 <p>Од шест сахата из јутра, па до два по подне, непрекидно засипа ватра с обе стране. Пушчане цеви толико се већ загрејале, да су војницима нагорели дланови.</p>
 <p>Бугари се најжешће окомили на центрум.</p>
 <p>На овоме средњем вису, одакле је српска артиљерија просипала смртоносну ватру на непријатеља, стајаше Миливоје са муницијом.</p>
