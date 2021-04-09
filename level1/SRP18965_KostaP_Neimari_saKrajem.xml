@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> --><?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18965" xml:lang="sr">
+<?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18965" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,18 +29,22 @@
                 <!-- <note>У сканирнаом примерку је недостајао крај, од стр. 178 до краја; то је допуњено из ииздања 2004</note> -->
             </extent>
             <publicationStmt>
-                <p>Укључено у ELTeC корпус <date>2021-03-10</date></p>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662604">ELTeC-srp release 0.9.0</ref>
+<!--Укључено у ELTeC корпус 2021-03-10--></publicationStmt>
+            <sourceDesc><bibl type="firstEdition">
                     <author>Коста Петровић</author>
                     <title>Неимари : роман из новије српске историје</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Парна радикална штампарија</publisher>
                     <date>1896</date>
                     <idno type="COBISS-SR.ID">155704327</idno>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -48,12 +57,13 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
                 <!-- izdanja: 1896, 2004 [1 у периоду 1970-2010]  -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20210321">Крај који је недостајао у сканираном примерку допуњен из издања из 2004. године</change>
             <change when="20210310"/>
         </revisionDesc>
