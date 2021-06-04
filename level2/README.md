@@ -12,3 +12,8 @@
 * Named entity tagging with SrpNER, which is simplefied and mapped to ELTEC NER tagset describled in Annotation guidelines for ELTEC NER (NER-Guidelines - Google документи)  using 
 * NER & Beyond (jerteh.rs).
 
+## Citation suggestions
+
+If you use this corpus in your research or teaching, please follow good scholarly practice and use the following citation suggestion to acknowledge your source:
+* Ranka Stanković, Branislava Šandrih, Cvetana Krstev, Miloš Utvić and Mihailo Škorić “Machine Learning and Deep Neural Network-Based Lemmatization and Morphosyntactic Tagging for Serbian”, Proceedings of the 12th International Conference on Language Resources and Evaluation, LREC 2020, pp. 3947-3955, 2020, eds. Nicoletta Calzolari et al., ISBN 979-10-95546-34-4.
+* Branislava Šandrih, Cvetana Krstev, Ranka Stanković, “Development and Evaluation of Three Named Entity Recognition Systems for Serbian - the Case of Personal Names”, in Proceedings of the International Conference Recent Advances in Natural Language Processing - RANLP 2019, 2-4 September 2019, Varna, Bulgaria, eds. G. Angelova et als., pp. 1061-1068, 2019. DOI: 10.26615/978-954-452-056-4_122
