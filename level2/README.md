@@ -6,11 +6,11 @@
 * Branislava Šandrih Todorović, PhD, University of Belgrade, Faculty of Philology
 
 ## Tools
-* Sentence segmentation was performed with Unitex-Serbian local grammar (ili graph), 
+* Tokanization and sentence segmentation was performed with Unitex corpus porcessing suite (https://unitexgramlab.org/);
 * UD morphosyntactic tagging and lemmatisation with Treetagger model trained for Serbian (http://obrada.jerteh.rs/) and integrated into 
-* TXM tool (http://textometrie.ens-lyon.fr/), and 
-* Named entity tagging with SrpNER, which is simplefied and mapped to ELTEC NER tagset describled in Annotation guidelines for ELTEC NER (NER-Guidelines - Google документи)  using 
-* NER & Beyond (jerteh.rs).
+* TXM tool (http://textometrie.ens-lyon.fr/), 
+* Named entity tagging with SrpNER, 
+* The output of SrpNER was simplified and mapped to ELTEC NER tagset describled in Annotation guidelines for ELTEC NER using NER & Beyond (jerteh.rs).
 
 ## Citation suggestions
 
