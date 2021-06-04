@@ -15,7 +15,8 @@ General information about ELTeC releases is available at https://github.com/COS
 
 * Collection editor(s): Cvetana Krstev
 * Contributors: Ranka Stanković, Aleksandra Trtovac, Vasilije Milnović, volunteers of Jerteh (Society for Language Resources and Technologies);
-* Sources: University Library “Svetozar Marković”, Library of SASA, Library of Serbian Literature Department at Faculty of Philology UB, private library Cvetana Krstev & Duško Vitas
+* Sources: 
+** University Library “Svetozar Marković”, Library of SASA, Library of Serbian Literature Department at Faculty of Philology UB, private library Cvetana Krstev & Duško Vitas
 
 ## Licence
 
