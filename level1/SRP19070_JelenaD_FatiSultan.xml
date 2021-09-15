@@ -61,6 +61,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2021-09-15">IDs added in front metter and end metter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200122"/>
@@ -70,12 +71,12 @@
 <text>
 <front>
 <pb n="1"/> 
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19070_F1">
 <p>ФАТИ-СУЛТАН</p>
 </div>
 <pb n="2"/> 
 <pb n="3"/> 
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19070_F2">
 <p>ЈЕЛЕНА ЈОВ. ДИМИТРИЈЕВИЋА</p>
 <p>ФАТИ-СУЛТАН</p>
 <p>САФИ-ХАНУМ</p>
@@ -87,7 +88,7 @@
 </div>
 <pb n="4"/> 
 <pb n="5"/> 
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19070_F3">
 <p>ФАТИ-СУЛТАН</p>
 <p>Госпођи Јоки Петровић-Његош</p>
 </div>
@@ -699,7 +700,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+<div type="notes"  xml:id="SRP19070_B1">
 <note xml:id="SRP19070_N1"><foreign xml:lang="tr-Cyrl">Саба олду, ђунеш догду, ујанмаз!</foreign></note>
 <note xml:id="SRP19070_N2">Соко.</note>
 </div>
