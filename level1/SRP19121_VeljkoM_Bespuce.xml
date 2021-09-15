@@ -62,6 +62,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2021-09-15">IDs added to divs in front metter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20210130"/>
         </revisionDesc>
@@ -69,7 +70,7 @@
 <text>
 <front>
 <pb n="3"/>
-<div type="titlepage">
+<div type="titlepage"  xml:id="SRP19121_F1">
 <p>ВЕЉКО МИЛИЋЕВИЋ</p>
 <p>БЕСПУЋЕ</p>
 <p>1912.</p>
@@ -77,12 +78,12 @@
 </div>
 <pb n="4"/>
 <pb n="5"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19121_F3">
 <p>Госпођици О. С.</p>
 </div>
 <pb n="6"/>
 <pb n="7"/>
-<div type="titlepage">
+<div type="titlepage"  xml:id="SRP19121_F3">
 <p>БЕСПУЋЕ</p>
 </div>
 <pb n="8"/>
