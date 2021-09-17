@@ -62,6 +62,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-17">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20210313"/>
         </revisionDesc>
@@ -69,7 +70,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18821_F1">
 <p>Каваљер Лаза</p>
 <p>карактерна црта из друштвеног живота.</p>
 <p>Написао</p>
