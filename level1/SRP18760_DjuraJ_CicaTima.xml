@@ -68,6 +68,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2021-09-17">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200321"/>
@@ -900,7 +901,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+<div type="notes" xml:id="SRP18760_B1">
 <note xml:id="SRP18760_N1">Љубим руку!</note>
 <note xml:id="SRP18760_N2">Ћошка се зове пред кућом од дрвета начињен као балкон.</note>
 <note xml:id="SRP18760_N3">Безобразник.</note>
