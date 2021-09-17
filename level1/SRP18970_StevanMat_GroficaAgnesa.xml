@@ -61,6 +61,7 @@
                 </textDesc>
             </profileDesc>
             <revisionDesc>
+                <change when="2021-09-17">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
                 <change when="20100615"/>
@@ -70,7 +71,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18970_F1">
 <p>СТЕВАН М. МАТИЈАШИЋ</p>
 <p>ГРОФИЦА АГНЕША ЈАНКОВИЋ</p>
 <p>РОМАН</p>
@@ -79,11 +80,11 @@
 <p>1897</p>
 </div>
 <pb n="2"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18970_F2">
 <p>Прештампано из Бранкова Кола за 1897.</p>
 </div>
 <pb n="3"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18970_F3">
 <quote><p>Ко на људском срцу зида, мора се дубоко укопати, да му се кућа не слегне и да се не сруши, не имајући темеља.</p>
 <p>Крашевски</p>
 </quote>
@@ -3128,7 +3129,7 @@ I
 </div>
 </body>
 <back>
-<div type="notes">
+<div type="notes" xml:id="SRP18970_B1">
 <note xml:id="SRP18970_N1">Слично томе било је неколико десетина доцније у Београду, када се открио некакав водоскок од прста дебео који је после неколико дана усахнуо.</note>
 </div>
 </back>	
