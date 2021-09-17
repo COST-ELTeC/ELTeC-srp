@@ -58,6 +58,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+      <change when="2021-09-17">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change><change when="2019-10-30">Checked by releaseChecker script</change>
    <change when="20190210"/>
@@ -66,7 +67,7 @@
 
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18910_F1">
 <pb n="а"/>
 <head>ИКОНИЈА</head>
 <head>ВЕЗИРОВА МАЈКА</head>
@@ -80,7 +81,7 @@
 <milestone unit="-"/>
 <p>ЦЕНА: К. 1.50</p>
 </div>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18910_F2">
 <pb n="b"/>
 <p>Мита Павков</p>
 <p>у Великом Бечкереку.</p>
@@ -118,7 +119,7 @@
 <p>Радетића Мара ... 1.50 </p>
 <p>Доле оружје I. II. ... 2.- </p>
 </div>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18910_F3">
 <pb n="1"/>
 <head>ИКОНИЈА</head>
 <head>ВЕЗИРОВА МАЈКА</head>
@@ -701,8 +702,8 @@
 </div>
 </body>
 <back>
- <div type="notes">
-<note xml:id="SRP18910_N1">Тако се звало ***седмогодишше +++прибирање+++ и одвођење мушке +++деце+++ рајине, којим се војска турска и +++државна+++ ***служба ***снабдевала ***најбољом крвљу ***хришћанском.</note>
+ <div type="notes" xml:id="SRP18910_B1">
+<note xml:id="SRP18910_N1">Тако се звало седмогодишње прибирање и одвођење мушке деце рајине, којим се војска турска и државна служба снабдевала најбољом крвљу хришћанском.</note>
 </div>
 </back>
 </text>
