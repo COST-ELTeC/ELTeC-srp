@@ -67,6 +67,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2021-09-17">div/chapter added;IDs added to front and end matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200909"/>
@@ -75,6 +76,7 @@
     
 <text>
 <body>
+<div type="chapter" xml:id="SRP18740_C1">
 <pb n="115"/>
 <head>СЕЉАЦИ.</head> 
 <head>ПРИПОВЕТКА ИЗ СЕОСКОГ ЖИВОТА, из године 1857.</head>
@@ -618,9 +620,10 @@
 <p>— Тако је, чича-Маринко! — рече, мало као и усиљено, попа.</p>
 <p>— А тако не био Маринко, ако ти усплаћам бир, само ако не пођеш с нама на тужбу... А ако будеш и ти човек, сваке ћу ти недеље и празника кувати каву.</p>
 <p>— Право је! — рекоше сви.</p>
+</div>
 </body>
 <back>
-<div type="notes">
+<div type="notes" xml:id="SRP18740_B1">
 <note xml:id="SRP18740_N1">Завијача зову сељаци оно стаклиће од литре, што су мало увијени, од ликера.</note>
 </div>
 </back>
