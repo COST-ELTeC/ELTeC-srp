@@ -68,6 +68,7 @@
       </textDesc>
     </profileDesc>
     <revisionDesc>
+        <change when="2021-09-17">IDs added to front and end matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="20210105"/>
     </revisionDesc>
@@ -75,7 +76,7 @@
   <text>
     <front>
       <pb n="1"/>
-      <div type="titlepage">
+      <div type="titlepage" xml:id="SRP18752_F1">
         <p>БЕЗ ОЦА И МАЈКЕ.</p>
         <p>написао</p>
         <p>Пера Радуловић</p>
@@ -84,7 +85,7 @@
         <p>1881.</p>
         <pb n="2"/>
       </div>
-      <div type="liminal">
+      <div type="liminal" xml:id="SRP18752_F2">
         <pb n="3"/>
         <quote>
           <p>СВОМЕ ДРАГОМЕ ПОБРАТИМУ</p>
