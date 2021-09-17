@@ -64,6 +64,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-17">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190506"/>
@@ -71,7 +72,7 @@
     </teiHeader>
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18790_F1">
 <p>ЈУРМУСА И ФАТИМА</p>
 <p>ИЛИ</p>
 <p>ТУРСКА СИЛА САМА СЕБЕ ЈЕДЕ</p>
@@ -84,7 +85,7 @@
 <p>1879</p>
 </div>
 <pb n="i"/>
-<div type="liminal">
+<div type="liminal" xml:id="SRP18790_F2">
 <p>Д-ру Ђури Даничићу</p>
 <p>У ЗНАК ВЕЛИКОГ ПОШТОВАЊА И ПРИЈАТЕЉСТВА</p>
 <p>КЊИЖИЦУ ОВУ</p>
@@ -93,7 +94,7 @@
 </div>
 <pb n="ii"/>
 <pb n="iii"/>
-<div type="liminal">
+<div type="liminal" xml:id="SRP18790_F3">
     <p><hi>Драги пријатељу!</hi></p>
 <p>Кад <title><hi>„Зимње Вечери“</hi></title> беху наштампане, књиге разаслане, поруке све извршене, тада беше прилика да се одморим, да се успокојим ; али ја нигде не нахођах одморка. Као сенка моја, свуд са мном иђаше брига : Како ће те приче примити читаоци ? Шта ће рећи о њима оштри естетичари ?</p>
 <p>Усред таког одморка без одмора, усред такога починка без покоја, дође ми ово твоје писмо, драги пријатељу ! На један мах Авала ми се свали с леђа ; умирих се, одморих се, задовољих се, развеселих се ! И тада рекох у срцу свом :</p>
@@ -110,7 +111,7 @@
     <p><hi>М. Ђ. Милићевић</hi></p>
 </div>
 <pb n="v"/>
-<div type="liminal">
+<div type="liminal" xml:id="SRP18790_F4">
     <p><hi>ПИСМО</hi></p>
     <p><hi>Д-РА ДАНИЧИЋА</hi></p>
     <p><hi>О ПРИЧАМА М. Ђ. МИЛИЋЕВИЋА</hi></p>
@@ -991,7 +992,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+<div type="notes" xml:id="SRP18790_B1">
 <note xml:id="SRP18790_N1">Иди брзо, жури се !</note>
 <note xml:id="SRP18790_N2">Добро, рајо, добро!.</note>
 <note xml:id="SRP18790_N3"> Штета.</note>
