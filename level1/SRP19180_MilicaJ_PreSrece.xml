@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Пре среће : ELTeC/Аурора издање</title>
+                <title>Пре среће : ELTeC edition</title>
                 <author ref="viaf:41876311">Јанковић, Милица (1881-1939)</author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
@@ -59,6 +59,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-17">IDs added to front and end matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="2019-10-30">Checked by releaseChecker script</change>
@@ -67,13 +68,13 @@
     </teiHeader>
     <text>
         <front>
-            <div type="titlepage">
+            <div type="titlepage" xml:id="SRP19180_F1">
                 <p>MILICA JANKOVIĆ</p>
                 <p>PRE SREĆE</p>
                 <p>ZAGREB</p>
                 <p>IZDANJE „KNJIŽEVNOG JUGA“.</p>
             </div>
-            <div type="titlepage">
+            <div type="titlepage" xml:id="SRP19180_F2">
                 <p>TISAK NADBISKUPSKE TISKARE.</p>
             </div>
             <gap unit="preface"/>
@@ -2850,7 +2851,7 @@
             <!-- </div> -->
         </body>
         <back>
-            <div type="liminal">
+            <div type="liminal" xml:id="SRP19180_B1">
                 <p>ZA PRETPLATNIKE „KNJIŽEV. JUGA“ 5K.</p>
                 <p>KNJIŽARSKA CENA 6K.</p>
                 <p>NADBISKUPSKA TISKARA</p>
