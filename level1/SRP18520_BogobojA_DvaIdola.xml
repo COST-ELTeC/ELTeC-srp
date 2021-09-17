@@ -63,12 +63,13 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
                 <!-- izdanja: 1851/52, 1893, 1928, 1967, 1982, 2017 [1 у периоду 1970-2010] -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-17">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="2021-03-02">Change reprint count from "unspecidfied" to "low"</change>
             <change when="2020-11-14">Converted by checkUp script for new release</change>
@@ -77,7 +78,7 @@
     </teiHeader>
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18520_F1">
 <p>10 СРПСКА КЊИЖЕВНА ЗАДРУГА 10</p>
 <p>ДВА ИДОЛА</p>
 <p>НАПИСАО</p>
