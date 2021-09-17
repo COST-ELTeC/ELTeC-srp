@@ -74,6 +74,7 @@
 			</textDesc>
 		</profileDesc>
 		<revisionDesc>
+			<change when="2021-09-17">IDs added in front and back matter</change>
 			<change when="2020-11-14">Converted by checkUp script for new release</change>
 			<change when="20191231"/>
 			<change when="20205030">e-title changed to confirm to the first edition</change>
@@ -83,7 +84,7 @@
 		<front>
 			<pb n="1"/>
 			<pb n="2"/>
-			<div type="titlepage">
+			<div type="titlepage" xml:id="SRP18620_F1">
 				<p>ЈУГОСЛОВЕНСКИ КЛАСИЦИ</p>
 				<p>3 ПРИПОВЕДАЧИ 3</p>
 				<p>Уредник</p>
@@ -92,14 +93,14 @@
 				</p>
 			</div>
 			<pb n="3"/>
-			<div type="titlepage">
+			<div type="titlepage" xml:id="SRP18620_F2">
 				<p>ЈАКОВ ИГЊАТОВИЋ</p>
 				<p>ЈЕДНА ЖЕНИДБА</p>
 				<p>НАРОДНА КЊИГА</p>
 				<p>БЕОГРАД 1953</p>
 			</div>
 			<pb n="4"/>
-			<div type="titlepage">
+			<div type="titlepage" xml:id="SRP18620_F3">
 				<p>Насловну страну израдио</p>
 				<p>
 					<hi>Мате Зламалик</hi>
@@ -1266,7 +1267,7 @@
 		</body>
 		<back>
 			<pb n="97"/>
-			<div type="liminal">
+			<div type="liminal" xml:id="SRP18620_B1">
 				<gap unit="glossar"/>
 			</div>
 		</back>
