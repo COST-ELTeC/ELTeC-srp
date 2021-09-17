@@ -69,6 +69,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-17">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200620"/>
@@ -77,7 +78,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19010_F1">
 <p>СРПСКА КЊИЖЕВНА ЗАДРУГА</p>
 <p>КОЛО VIII. БР. 256.</p>
 <p>Б. Б-ВИЋ</p>
@@ -88,7 +89,7 @@
 <p>1935</p>
 </div>
 <pb n="2"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19010_F2">
 <p>Штампарија Драг. Поповића</p>
 <p>Београд, Луја Бартуа бр. 3</p>
 </div>
