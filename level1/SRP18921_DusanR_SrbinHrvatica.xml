@@ -61,6 +61,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-17">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20201206"/>
         </revisionDesc>
@@ -68,7 +69,7 @@
     
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18921_F1">
 <p>СРБИН И ХРВАТИЦА</p>
 <p>ИЛИ</p>
 <p>ЉУБАВ И НАРОДНОСТ</p>
@@ -82,7 +83,7 @@
 <p>1892.</p>
 <p>Цена 1 дин. или 50 новч.</p>
 </div>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18921_F2">
 <p>У БЕОГРАДУ</p>
 <p>НАРОДНА ШТАМПАРИЈА ЉУБЕ ВОЈОВИЋА</p>
 <p>1892</p>
