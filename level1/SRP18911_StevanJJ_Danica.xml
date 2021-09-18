@@ -63,6 +63,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-18">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20210215"/>
         </revisionDesc>
@@ -71,7 +72,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18911_F1">
 <p>ДАНИЦА</p>
 <p>РОМАН</p>
 <p>ИЗ БЕОГРАДСКОГ ЖИВОТА</p>
@@ -82,7 +83,7 @@
 <p>1891</p>
 </div>
 <pb n="2"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18911_F2">
 <p>НИШ</p>
 <p>Штамаарија Душана Валожића</p>
 <p>1891</p>
