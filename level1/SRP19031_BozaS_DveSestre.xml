@@ -61,13 +61,14 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-04-09">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20210219"/>
         </revisionDesc>
     </teiHeader>
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19031_F1">
 <p>СВЕ СЕСТРЕ</p>
 <p>ИЛИ</p>
 <p>САМОУБИСТВО ЈЕДНЕ ШВАЉЕ</p>
@@ -78,7 +79,7 @@
 <p>Издање Савића и Компаније</p>
 <p>1903</p>
 </div>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19031_F2">
 <p>(Прештампано из „М. Журнала“)</p>
 <p>БЕОГРАД</p>
 <p>Штампарија Савића и Комп., Космајска бр. 16</p>
