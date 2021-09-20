@@ -62,8 +62,10 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-04-09">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2019-10-30">Checked by releaseChecker script</change>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
+            <change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190820"/>
         </revisionDesc>
     </teiHeader>
@@ -72,7 +74,7 @@
 <pb n="1"/>
 <pb n="2"/>
 <pb n="3"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19060_F1">
 <p>ПЕРА С. ТАЛЕТОВ</p>
 <p>НОВАЦ</p>
 <p>РОМАН ИЗ БЕОГРАДСКОГ ЖИВОТА</p>
