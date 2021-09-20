@@ -68,6 +68,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-04-09">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20191209"/>
@@ -75,7 +76,7 @@
     </teiHeader>
     <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18940_F1">
 <p>РАДЕТИЋА МАРА</p>
 <p>ПРИПОВЕТКА ИЗ СЕОСКОГА ЖИВОТА</p>
 <p>НАПИСАО</p>
@@ -85,7 +86,7 @@
 <p>ПАРНА ШТАМПАРИЈА Д. ДИМИТРИЈЕВИЋА, ЈЕЛЕНСКА УЛИЦА БР. 1.</p>
 </div>
 <pb n="I"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18940_F2">
 <p>РАДЕТИЋА МАРА</p>
 </div>
 <pb n="II"/>
