@@ -62,6 +62,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-20">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200127"/>
@@ -71,7 +72,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19030_F1">
 <p>ТАДИЈА П. КОСТИЋ</p>
 <p>ПРВО ВЕСЕЉЕ</p>
 <p>ПРИПОВЕТКА</p>
@@ -81,7 +82,7 @@
 <p>1903. - 79.</p>
 </div>
 <pb n="2"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19030_F2">
 <p>Прештампано из „Бранкова кола“ за год. 1903.</p>
 </div>
 </front>
