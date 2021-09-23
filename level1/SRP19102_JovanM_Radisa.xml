@@ -54,13 +54,15 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-23">IDs added to front and back matter</change>
+            <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20210427"/>
         </revisionDesc>
     </teiHeader>
 <text>
 <pb n="1"/>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19102_F1">
 <p>ИЗДАЊЕ ЗАДУЖБИНЕ И. М. КОЛАРЦА 143</p>
 <p>РАДИША</p>
 <p>ИЛИ</p>
@@ -73,7 +75,7 @@
 </div>
 <pb n="2"/>
 <pb n="3"/>
-<div  type="titlepage">
+    <div  type="titlepage" xml:id="SRP19102_F2">
 <p>МИЛАНУ Ђ. МИЛИЋЕВИЋУ</p>
 <p>Теби, сјајном сену твоме, поштовани учитељу и пријатељу, највреднијем раднику на књизи српској, који си и сам, међу својим многобројним и разноврсним делима, покушао да у „Селу Злоселици и Учитељу Миливоју“, по своме умењу и нахођењу, даш једнога <hi>Радишу</hi>, </p>
 <p>Посвећује овај свој рад</p>
