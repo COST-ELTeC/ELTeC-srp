@@ -62,6 +62,7 @@
       </textDesc>
     </profileDesc>
     <revisionDesc>
+        <change when="2021-09-25">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="20210125"/>
     </revisionDesc>
@@ -70,7 +71,7 @@
   <text>
     <front>
       <pb n="1"/>
-      <div type="titlepage">
+      <div type="titlepage" xml:id="SRP18780_F1">
         <p>ПРЕД ЗОРУ</p>
         <p>РОМАН У ДВА ДЕЛА.</p>
         <p>НАПИСАО.</p>
@@ -1916,7 +1917,7 @@
       </div>
     </body>
     <back>
-      <div type="notes">
+      <div type="notes" xml:id="SRP18780_B1">
         <note xml:id="SRP18780_N1">Прим. Вера Павловна је јунакиња у роману, о ком је реч.</note>
         <note xml:id="SRP18780_N2">Прим. Лопухов и Кирсанов су особе у истом роману.</note>
       </div>
