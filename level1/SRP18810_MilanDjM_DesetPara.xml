@@ -11,6 +11,10 @@
         <title>Десет пара: прича из живота у вароши : ELTeC издање</title>
         <author ref="viaf:64038897">Милићевић, Милан Ђ. (1831-1908)</author>
         <respStmt>
+          <resp>Сканирање</resp>
+          <name>Универзитетска библиотека "Светозар Марковић"</name>
+        </respStmt>
+        <respStmt>
           <resp>OCR и корекција текста</resp>
           <name>Александра Јовановић</name>
           <name>Цветана Крстев</name>
@@ -60,6 +64,7 @@
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-09-26">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change><change when="2019-10-30">Checked by releaseChecker script</change>
       <change when="20190131"/>
@@ -68,7 +73,7 @@
 <text>
 
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18810_F1">
 <pb n="а"/>
 <head>ДЕСЕТ ПАРА</head>
 <head>ПРИЧА ИЗ ЖИВОТА У ВАРОШИ</head>
