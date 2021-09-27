@@ -69,6 +69,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
+      <change when="2021-09-27">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
    <change when="20201006"/>
@@ -76,14 +77,14 @@
  </teiHeader>
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19024_F1">
 <p>ХАРАМБАША МИЦКО</p>
 <p>СРПСКИ ВОЈВОДА И ЗАТОЧЕНИК У ФЕСАНУ</p>
 <p>1926.</p>
 <p>ИЗДАЊЕ КЊИЖАРЕ ТОМЕ ЈОВАНОВИЋА И ВУЈИЋА</p>
 <p>БЕОГРАД - „ЗЕЛЕНИ ВЕНАЦ“</p>
 </div>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19024_F2">
 <p>Штампарија „НОВО ДОБА“ у Вуковару.</p>
 </div>
 </front>
@@ -2360,7 +2361,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+<div type="notes" xml:id="SRP19024_B1">
 <note xml:id="SRP19024_N1">поздрав. </note>
 <note xml:id="SRP19024_N2"> псето. </note>
 <note xml:id="SRP19024_N3"> Румунију. </note>
