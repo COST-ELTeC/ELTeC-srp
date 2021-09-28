@@ -64,6 +64,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-28">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20191030"/>
@@ -72,7 +73,7 @@
     
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19000_F1">
 <p>62 СРПСКА КЊИЖЕВНА ЗАДРУГА 62</p>
 <p>ПОРУШЕНИ ИДЕАЛИ</p>
 <p>РОМАН</p>
