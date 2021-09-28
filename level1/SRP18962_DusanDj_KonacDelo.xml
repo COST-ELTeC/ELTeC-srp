@@ -61,6 +61,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-28">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20100705"/>
@@ -69,7 +70,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18962_F1">
 <p>БИБЛИОТЕКА ЗА МЛАДЕЖ</p>
 <p>XI. и XII.</p>
 <p>КОНАЦ ДЕЛО КРАСИ</p>
