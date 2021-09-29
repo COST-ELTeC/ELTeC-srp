@@ -70,6 +70,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-29">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20200201"/>
@@ -78,7 +79,7 @@
     
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18840_F1">
 <p>ДРАГА ГАВРИЛОВИЋ</p>
 <p>САБРАНА ДЕЛА</p>
 <p>ПЕСМЕ - ПРИПОВЕТКЕ</p>
