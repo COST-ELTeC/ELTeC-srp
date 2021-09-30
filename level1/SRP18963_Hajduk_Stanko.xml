@@ -62,6 +62,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-09-30">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20201105"/>
@@ -69,7 +70,7 @@
     </teiHeader>
 <text>
 <front>
-<div type="liminal">
+<div type="liminal" xml:id="SRP18963_F1">
 <p>ЈУНАКУ НАШЕГА ДОБА</p>
 <p>великом Србину НИКОЛИ ТЕСЛИ</p>
 <p>Деветнаести  век плете Ти венац славе. Допусти и мени да у њу плетем један цветак са наших поља цветак прост,  али пошкропљен крвљу и орошен сузом наших предака. Његов мирис нека Те сећа Твоје отаџбине, нека Те сећа оних заносних прича о јунаштву и пожртвовању којима Те је Твоја српска мајка у детињству запајала.</p>
