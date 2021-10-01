@@ -61,6 +61,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-10-01">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20210329"/>
         </revisionDesc>
@@ -68,7 +69,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19091_F1">
 <p>ПРЕПОРОЂАЈ</p>
 <p>НАПИСАО</p>
 <p>СРЕТЕН ДИНИЋ</p>
