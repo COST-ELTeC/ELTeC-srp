@@ -55,13 +55,14 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="20211002">IDs added to front and back matter</change>
             <change when="20210527"/>
         </revisionDesc>
     </teiHeader>
 <text>
 <front>
 <pb n="I"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18935_F1">
 <p>РОБИЊИЦА ЗЛАТА</p>
 <p>ПРИПОВЕТКА ИЗ ПРОШЛОСТИ</p>
 <p>НАПИСАО</p>
@@ -73,10 +74,10 @@
 </div>
 <pb n="II"/>
 <pb n="III"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18935_F2">
 <p>РОБИЊИЦА ЗЛАТА</p>
 </div>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18935_F3">
 <pb n="IV"/>
 <quote>
 <l>ОТЕТО ПРОКЛЕТО</l>
@@ -870,7 +871,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+<div type="notes" xml:id="SRP18935_B1">
 <note xml:id="SRP18935_N1">По европском бројању: једанаест.</note>
 </div>
 </back>	
