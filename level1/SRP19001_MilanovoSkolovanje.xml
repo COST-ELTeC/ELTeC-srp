@@ -55,13 +55,14 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="20211004">IDs added to front and back matter</change>
             <change when="20210421"/>
         </revisionDesc>
     </teiHeader>
 <text>
 <front>
 <pb n="I"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19001_F1">
 <p>Рад. В. Тутуновић</p>
 <p>МИЛАНОВО ШКОЛОВАЊЕ</p>
 <p>БЕОГРАД</p>
