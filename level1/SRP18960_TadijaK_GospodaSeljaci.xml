@@ -11,6 +11,10 @@
                 <title>Господа сељаци: приповетка : ELTeC издање</title>
                 <author ref="viaf:35277007">Костић, Тадија П. (1863-1927)</author>
                 <respStmt>
+                    <resp>Сканирање</resp>
+                    <name>Универзитетска библиотека "Светозар Марковић"</name>
+                </respStmt>
+                <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Бранислава Шандрих</name>
                     <name>Цветана Крстев</name>
@@ -59,6 +63,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-10-05">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change><change when="2019-10-30">Checked by releaseChecker script</change>
             <change when="20190304"/>
@@ -68,7 +73,7 @@
 <text>
     <front>
         <pb n="1"/>
-        <div type="titlepage">
+        <div type="titlepage" xml:id="SRP18960_F1">
             <p>ГОСПОДА СЕЉАЦИ</p>
             <p>ПРИПОВЕТКА</p>
             <p>ТАДИЈЕ П. КОСТИЋА</p>
