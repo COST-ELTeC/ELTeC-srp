@@ -62,6 +62,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-10-07">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-11-14">Converted by checkUp script for new release</change>
             <change when="20201016"/>
@@ -70,7 +71,7 @@
     
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18860_F1">
 <p>2-га КЊИГА КОЛАРЧЕВОГ ФОНДА 2-га</p>
 <p>ОМЕР ЧЕЛЕБИЈА</p>
 <p>НАПИСАО</p>
@@ -80,7 +81,7 @@
 <p>1886</p>
 </div>
 <pb n="ii"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18860_F2">
 <quote>
 <p>„Причање је души посластица“</p>
 </quote>
@@ -1527,7 +1528,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+<div type="notes" xml:id="SRP18860_B1">
 <note xml:id="SRP18860_N1"> Осим ријеке <hi>Трепче</hi>, има село <hi>Трепча</hi>, за које се не зна: припада ли Турској или Црној Гори. За то још не плаћа никаква данка, докле се не пресуди чије је.</note>
 <note xml:id="SRP18860_N2"> Ферман, којим је укинута пећска патријаршија, дан је 6 Ребиул - Ахира 1180 а то је, по нашем календару, 31 Августа, 1766 године.</note>
 <note xml:id="SRP18860_N3"> Од Призрена до манастира Св. Марка има један час хода.</note>
