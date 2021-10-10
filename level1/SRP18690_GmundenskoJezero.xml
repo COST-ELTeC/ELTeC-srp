@@ -64,20 +64,21 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-10-10">IDs added to front and back matter</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20201125"/>
         </revisionDesc>
     </teiHeader>
 <text>
 <front>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18690_F1">
 <p>ПУТНИЧКЕ ЦРТЕ ВЛАДАНА ЂОРЂЕВИЋА</p>
 <p>КЊИГА ДРУГА.</p>
 <p>Гмунденско језеро.  Крагујевац. </p>
 <p>У БЕОГРАДУ</p>
 <p>У ДРЖАВНОЈ ШТАМПАРИЈИ 1869.</p>
 </div>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18690_F2">
 <p>СВОМЕ ДРАГОМ ПРИЈАТЕЉУ</p>
 <p>СТЕВАНУ РАЈИЧЕВИЋУ</p>
 <p>ФАКТОРУ СРПСКЕ ДРЖАВНЕ ШТАМПАРИЈЕ</p>
@@ -726,7 +727,7 @@
 <p>И тако, моји драги Сервијанери, мени не беше суђено да моју ритерску авантиру свршим ритерски. Камо срећа да сам га још у Линцу мало прогњавио, па нам не би покварио наш теферич. Али има и то своју добру страну. Вас двојица сте барем имали прилику да се упознате са преставником једнога дела наше велике властеле, која се врло поноси тиме што има предке од хиљаду година!“</p>
 </body>
 <back>
-    <div type="notes">
+    <div type="notes" xml:id="SRP18690_B1">
         <note xml:id="SRP18632_N1">Те три новеле издашде су у I свесци часописа <foreign xml:lang="de">»Salon, für Literatur, Kunst und Geselschaft, herausgegeben v. E. Dohm &amp; J. Rodenlierg , Leipzig« </foreign> и то: <foreign xml:lang="de">»Witer in den Alpen«</foreign> на страни 614; — <foreign xml:lang="de">»Der Gemsenjäger vom Attersee«</foreign> на страни 290; — <foreign xml:lang="de">»Das Sciffermädchen am Traunsee«</foreign> страна 702.</note>
         <note xml:id="SRP18632_N2">О томе догађају имају многе варијације око гмунден. језера. Ја сам ову, коју сам чуо од једног »собњег молера« у Гмундену, с тога израдио, што ми се чини да је најлепша од свију и што колико-толико  може да покаже читаоцу какав је од прилике био живот у овоме рају пре хиљаду година. За чудо ми је да Зилберштајн, у своме чланку (»<foreign xml:lang="de"> Fräunkirchen am Frauncee  </foreign>« у III књ. »Салона«, стр. 566) помиње све остале варијације од те приче, а ову, што је овде израђена, не помиње ни једном речцом.</note>
     </div>
