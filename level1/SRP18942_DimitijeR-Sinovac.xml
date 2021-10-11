@@ -69,6 +69,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2021-10-11">Converted by checkUp script for new release</change>
 <change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="20201224"/>
         </revisionDesc>
@@ -76,7 +77,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP18942_F1">
 <p>СИНОВАЦ.</p>
 <p>ОРИГИНАЛАН РОМАН.</p>
 <p>Написао</p>
