@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18730" xml:lang="sr">
     <teiHeader>
@@ -42,14 +42,14 @@
                     <pubPlace>Нови Сад</pubPlace>
                     <publisher>Књижара Луке Јоцића и друга</publisher>
                     <date>1881</date>
-                    <idno type="COBISS-SR.ID">98870023</idno>
+                    <idno type="COBISS-SR.ID">11316743</idno>
                 </bibl><bibl type="firstEdition">
                     <author>Суботић, Јован</author>
                     <title>Калуђер : истина и поезија</title>
                     <pubPlace>Нови Сад</pubPlace>
                     <publisher>Јавор : лист за забаву и науку, година [3], бр. 4-19</publisher>
                     <date>1874</date>
-                    <idno type="COBISS-SR.ID">21935116</idno>
+                    <idno type="COBISS-SR.ID">297530631</idno>
                 </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
@@ -77,7 +77,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18730_F1">
 <p>КАЛУЂЕР.</p>
 <p>ИСТИНА И ПОЕЗИЈА. </p>
 <p>од</p>
@@ -87,13 +87,13 @@
 <p>1881.</p>
 </div>
 <pb n="2"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18730_F2">
 <p>У НОВОМЕ САДУ.</p>
 <p>ШТАМПАРИЈА А. ПАЈЕВИЋА.</p>
 <p>1881.</p>
 </div>
 <pb n="3"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18730_F3">
 <p>КАЛУЂЕР.</p>
 <p>ИСТИНА И ПОЕЗИЈА.</p>
 <p>(Писано I. дѣо 1873., II. и III. 1880.)</p>

@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19201" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Деветсто петнаеста : трагедија једног народа : ELTeC издање</title>
+                <title ref="viaf:316307701">Деветсто петнаеста : трагедија једног народа : ELTeC издање</title>
                 <author ref="viaf:73889774">Нушић, Бранислав (1864-1938)</author>
+                <respStmt>
+                    <resp>Сканирање</resp>
+                    <name>Универзитетска библиотека "Светозар Марковић"</name>
+                </respStmt>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Иван Обрадовић</name>
@@ -44,8 +48,7 @@
                         <author>Нушић, Бранислав</author>
                         <publisher>Нема података </publisher>
                         <date>1920</date>
-                        <!-- <idno type="COBISS-SR.ID">	16456711</idno> -->
-                </bibl></sourceDesc>
+                        </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -73,14 +76,14 @@
 <text>
 <front>
 <pb n="3"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19201_F1">
 <p>БРАНИСЛАВ НУШИЋ</p>
 <p>ДЕВЕТСТО ПЕТНАЕСТА</p>
 <p>ТРАГЕДИЈА ЈЕДНОГА НАРОДА</p>
 <p>1921</p>
 </div>
 <pb n="4"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19201_F2">
 <p>Насловни лист, као и остале слике у делу, израдио Т. ШВРАКИЋ, сликар</p>
 <p>Посветни лист на петој страни, цртеж је Н. Н., сликара</p>
 <p><foreign xml:lang="fr">Tous droits réservés</foreign></p>
@@ -90,7 +93,7 @@
 <p><foreign xml:lang="fr">Imprimerie „Edition Slave“</foreign> <foreign xml:lang="de">Wien, I., Himmelpfortgasse 13</foreign> </p>
 </div>
 <pb n="5"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19201_F3">
 <gap unit="graphic"/>
 <p>БАН НУШИЋ</p>
 <p>poginuo 30. septembra 1915-</p>

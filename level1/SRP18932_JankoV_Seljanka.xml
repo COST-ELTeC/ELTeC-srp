@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18932" xml:lang="sr">
     <teiHeader>
@@ -36,13 +36,20 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662604">ELTeC-srp release 0.9.0</ref>
 </publicationStmt>
-            <sourceDesc><bibl type="firstEdition">
+            <sourceDesc><bibl type="printSource">
                     <author>Веселиновић, Јанко М.</author>
                     <title>Сељанка : приповетка из сеоског живота</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Државна штампарија Краљевине Србије</publisher>
                     <date>1893</date>
                     <idno type="COBISS-SR.ID">92549127</idno>
+            </bibl>
+                <bibl type="firstEdition">
+                    <title level="a">Сељанка : роман</title>
+                    <author>Веселиновић, Јанко М.</author>
+                    <publisher>Отаџбина : књижевност, наука, друштвени живот. ISSN 1450-6580. - Год. 7, књ. 20, св. 78 (1888), стр. 161-176</publisher>
+                    <pubPlace>Београд</pubPlace>
+                    <date>1884</date>
                 </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
@@ -68,7 +75,7 @@
         </revisionDesc>
     </teiHeader>
 <text>
-<front>
+    <front xml:id="SRP18932_F1">
 <div type="titlepage">
 <p>ЈАНКО М. ВЕСЕЛИНОВИЋ</p>
 <p>СЕЉАНКА</p>
@@ -82,7 +89,7 @@
 <p>ЦЕНА 2 ДИНАРА</p>
 </div>
 <pb n="1"/>
-<div type="titlepage">
+        <div type="titlepage" xml:id="SRP18932_F2">
 <p>ЈАНКО М. ВЕСЕЛИНОВИЋ</p>
 <p>СЕЉАНКА</p>
 <p>ПРИПОВЕТКА ИЗ СЕОСКОГ ЖИВОТА</p>
@@ -93,7 +100,7 @@
 </div>
 <pb n="2"/>
 <pb n="3"/>
-<div type="liminal">
+        <div type="liminal" xml:id="SRP18932_F3">
 <p>ЊЕНОМ ВЕЛИЧАНСТВУ,</p>
 <p>КРАЉИЦИ НАТАЛИЈИ</p>
 <p>ДЕЛО ОВО ПОСВЕЋУЈЕ</p>
@@ -2835,7 +2842,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP18932_B1">
 <note xml:id="SRP18932_N1">У шабачком окр. пуница није ташта, него  <hi>шурњава</hi>, а ташту зову просто:  <hi>баба</hi> </note>
 </div>
 </back>	

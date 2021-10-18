@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18950" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="viaf:5912152502813910800006">Ивкова слава : приповетка : ELTeC издање</title>
+                <title ref="viaf:4401156990991061180007">Ивкова слава : приповетка : ELTeC издање</title>
                 <author ref="viaf:66526515">Сремац, Стеван (1855-1906) <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Стеван_Сремац</idno> --> </author>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
@@ -73,7 +73,7 @@
     </teiHeader>  
 <text>
     <front>
-        <div type="titlepage">
+        <div type="titlepage" xml:id="SRP18950_F1">
              <p>55 СРПСКА КЊИЖЕВНА ЗАДРУГА 55</p>
             <p>ИВКОВА СЛАВА</p>
             <p>ПРИПОВЕТКА</p>

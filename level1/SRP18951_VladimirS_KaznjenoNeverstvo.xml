@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- <?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> -->
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18951" xml:lang="sr">
     <teiHeader>
         <fileDesc>
@@ -49,7 +53,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"></reprintCount>
                 <!-- izdanja: 1895 [0 у периоду 1970-2010]  -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
             </textDesc>
@@ -61,7 +65,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18951_F1">
 <p>КАЖЊЕНО</p>
 <p>НЕВЕРСТВО</p>
 <p>НАЈНОВИЈИ РОМАН</p>
@@ -2805,7 +2809,7 @@
 </div>
 </body>
 <back>
-<div type="liminal">
+    <div type="liminal" xml:id="SRP18951_B1">
 <p>        Написао</p>
 <p>Владимир — Таја — Светолин</p>
 <p>— крај —</p>

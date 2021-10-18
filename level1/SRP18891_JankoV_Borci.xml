@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18891" xml:lang="sr">
     <teiHeader>
@@ -70,7 +70,7 @@
     
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18891_F1">
 <p>БОРЦИ</p>
 <p>РОМАН</p>
 <p>ИЗ СЕОСКОГ ЖИВОТА</p>
@@ -82,7 +82,7 @@
 <p>1889.</p>
 <p>Цена 2 дин.</p>
 </div>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18891_F2">
 <p>БОРЦИ</p>
 <p>РОМАН</p>
 <p>ИЗ СЕОСКОГ ЖИВОТА</p>

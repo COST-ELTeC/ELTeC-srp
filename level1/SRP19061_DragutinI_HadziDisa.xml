@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19061" xml:lang="sr">
     <teiHeader>
@@ -78,7 +78,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19061_F1">
 <p>116 СРПСКА КЊИЖЕВНА ЗАДРУГА 116</p>
 <p>ХАЏИ-ДИША</p>
 <p>РОМАН ИЗ ЖИВОТА СТАРОГ БЕОГРАДА</p>
@@ -91,7 +91,7 @@
 </div>
 <pb n="2"/>
 <pb n="3"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19061_F2">
 <p>ХАЏИ-ДИША</p>
 </div>
 <pb n="4"/>
@@ -2058,7 +2058,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP19061_B1">
 <note xml:id="SRP19061_N1">Тврда и обла, јајаста капа, налик на половину диње. Такву су капу носили махом варошани како по Србији тако и по Румунији и Грчкој. Капа је та грчког, византијског порекла.</note>
 <note xml:id="SRP19061_N2">Местве се праве од врло фине и танке коже; навлаче се преко чарапа, па се тек преко њих спољна обућа навуче. Кад човек хоће у собу, изује па прагу обућу, да застирке не би прљао, па у мествама уђе у собу.</note>
 <note xml:id="SRP19061_N3">„Карантин“ био је новац од бакра у вредности 10 пара.</note>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18910" xml:lang="sr">
 
@@ -10,6 +10,10 @@
    <titleStmt>
     <title>Иконија везирова мајка: приповетка из XVII века : ELTeC издање</title>
     <author ref="viaf:42116339">Мијатовић, Чедомиљ (1842-1932)</author>
+    <respStmt>
+     <resp>Сканирање</resp>
+     <name>Универзитетска библиотека "Светозар Марковић"</name>
+    </respStmt>
     <respStmt>
      <resp>OCR и корекција текста</resp>
      <name>Цветана Крстев</name>
@@ -32,12 +36,12 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662604">ELTeC-srp release 0.9.0</ref>
 </publicationStmt>
-   <sourceDesc><bibl type="printSource">
+   <sourceDesc><bibl type="firstEdition">
      <author>Мијатовић, Чедомиљ</author>
      <title>Иконија везирова мајка: приповетка из XVII века</title>
      <publisher>Стева Керешевић</publisher>
      <date>1891</date> <!-- In the catalogue it is written 189? -->
-     <idno type="wiki">https://sr.wikipedia.org/sr-ec/Чедомиљ_Мијатовић</idno>
+     <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Чедомиљ_Мијатовић</idno> -->
      <idno type="COBISS-SR.ID">105320711</idno>
     </bibl></sourceDesc>
   </fileDesc>

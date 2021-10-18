@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18934" xml:lang="sr">
     <teiHeader>
@@ -70,7 +70,7 @@
 <text>
 <front>
 <pb n="3"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18934_F1">
 <p>ЈЕДАН РАЗОРЕН УМ</p>
 <p>НАПИСАО</p>
 <p>Л. КОМАРЧИЋ</p>
@@ -83,7 +83,7 @@
 </div>
 <pb n="4"/>
 <pb n="5"/>
-<div type="liminal">
+    <div type="liminal" xml:id="SRP18934_F2">
 <p>Овај роман био је поднесен Српској Краљевској Академији наука под насловом <title> Кант нашег доба </title> и под тим је именом и награђен овогодишњом наградом из Задужбине пок. Николе Ј. Мариновића.</p>
 <p>Али, како су оцењивачи, према чијој му је препоруци награда досуђена, нашли, да је ово име незгодно и да би га требало заменити другим, подеснијим, писац је, усвајајући ову напомену, променио првобитно име романа и дао му ово друго. Прво је име било позајмљено од његовог јунака, док ово друго наговештава несрећу, којој је он подлегао.</p>
 </div>
@@ -1142,7 +1142,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP18934_B1">
 <note xml:id="SRP18934_N1">Тако је звала Нелину мајку.</note>
 </div>
 </back>

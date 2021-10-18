@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- <?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> -->
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18966" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Назарени : роман : ELTeC издање</title>
-                <author>Томић, Јаша, 1856-1922</author>
+                <author ref="viaf:5742092">Томић, Јаша (1856-1922)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -57,7 +61,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"></reprintCount>
                 <!-- izdanja: 1896 (2), 2006 [1 у периоду 1970-2010]  -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
             </textDesc>
@@ -69,7 +73,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18966_F1">
 <p>НАЗАРЕНИ</p>
 <p>РОМАН</p>
 <p>НАПИСАО</p>
@@ -1920,7 +1924,7 @@
 <p>У Новом Саду на Илијин-дан 1896.</p>
 <p>Писац.</p>
 </div>
-<div type="notes">
+    <div type="notes" xml:id="SRP18966_B1">
 <note xml:id="SRP18966_N1"><p>Св. писмо. Кор. посл I. глава 7. стих 5.</p></note>
 <note xml:id="SRP18966_N2"><p>Платити „беду“, значи код Назарена платити парохијал. Они су дужни да плаћају парохијал оној вероисповести, из које су изишли, па за то и називају тај намет: бедом. Угарски нов закон ослобађа их од тога, али сваког тек 5 година после његова прелаза у Назарене.</p></note>
 <note xml:id="SRP18966_N3"><p>Еванђеље по Јовану гл. X, стих 23-32.</p></note>

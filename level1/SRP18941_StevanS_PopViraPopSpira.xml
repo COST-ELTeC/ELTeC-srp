@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18941" xml:lang="sr">
     <teiHeader>
@@ -79,12 +79,12 @@
 <text>
 <front>
 <pb n="0_1"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18941_F1">
 <p>ПОП ЋИРА И ПОП СПИРА</p>
 </div>
 <pb n="0_2"/>
 <pb n="0_3"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18941_F2">
 <p>ПОП ЋИРА И ПОП СПИРА</p>
 <p>ПРИПОВЕТКА</p>
 <p>ОД</p>
@@ -95,7 +95,7 @@
 </div>
 <pb n="0_4"/>
 <pb n="0_5"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18941_F3">
 <p>СВОМЕ УЈАКУ</p>
 <p>ЈОВАНУ ЂОРЂЕВИЋУ</p>
 <p>ПРОФЕСОРУ ВЕЛИКЕ ШКОЛЕ</p>
@@ -106,7 +106,7 @@
 <gap unit="errata"/>
 </div>
 <pb n="0_8"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18941_F4">
 <p>ОДШТАМПАНО ИЗ БРАНКОВА КОЛА</p>
 </div>
 </front>
@@ -2668,7 +2668,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP18941_B1">
 <note xml:id="SRP18941_N1"> <hi>Тиса-парт</hi> т. ј. обала Тисе, управо онај крај вароши што је покрај Тисе; крај обично Мађарима насељен, у коме је, према томе, следователно, <hi>ноћу</hi> много живље него дању.</note>
 </div>
 </back>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- <?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> -->
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19203" xml:lang="sr">
 	<teiHeader>
 		<fileDesc>
@@ -51,7 +55,7 @@
 			<textDesc>
 				<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 				<size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-				<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+				<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"></reprintCount>
 				<!-- izdanja: 1920 [0 у периоду 1970-2010]  -->
 				<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
 			</textDesc>
@@ -64,7 +68,7 @@
 <text>
 <front>
 <pb n="1"/> 
-<div type="titlepage">
+	<div type="titlepage" xml:id="SRP19203_F1">
 <p>ГОД. I БИБЛИОТЕКА ОДАБРАНИХ РОМАНА СВ. I</p>
 <p>ЛЕГИЈА СМРТИ</p>
 <p>РОМАН ИЗ БАЛКАНСКОГ РАТА 1912/1913</p>
@@ -75,7 +79,7 @@
 <p>ЦЕНА СВЕСЦИ 10 ПОТУРА</p>
 </div>
 <pb n="2"/>
-<div type="titlepage"> 
+	<div type="titlepage" xml:id="SRP19203_F2"> 
 <gap unit="graphic"/> 
 <p>Официри љутито повикаше: „Смрт шпијону“</p>
 </div>
@@ -7883,7 +7887,7 @@
 </div>
 </body>
 <back>
-	<div type="notes">
+	<div type="notes" xml:id="SRP19203_B1">
 		<note xml:id="SRP19203_N1"><p>У неким нашим крајевима мисли народ под „републик“ револуцију. Из француске је револуције поникла република, па је традиција у народу остало, да је републик револуција.</p></note>
 	</div>
 </back>

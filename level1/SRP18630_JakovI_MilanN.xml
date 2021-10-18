@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18630" xml:lang="sr">
     <teiHeader>
@@ -45,11 +45,10 @@
                     <idno type="COBISS-SR.ID">36024327</idno>
                 </bibl><bibl type="firstEdition">
                     <author>Игњатовић, Јаков</author>
-                    <title>Тридесет година из живота Милана Наранџића. [1]</title>
+                    <title>Тридесет година из живота Милана Наранџића. [1] (1860)</title>
                     <pubPlace>Нови Сад</pubPlace>
-                    <date>1860</date>
                     <idno type="COBISS-SR.ID">51099399</idno>
-                    <title>Милан Наранџић : роман. [Књ. 2] </title>
+                    <title>Милан Наранџић : роман. [Књ. 2] (1863)</title>
                     <date>1863</date>
                     <idno type="COBISS-SR.ID">127306759</idno>
                 </bibl></sourceDesc>
@@ -2497,7 +2496,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+<div type="notes" xml:id="SRP18630_B1">
 <note xml:id="SRP18630_N1">Резом, газдарицом.</note>
 <note xml:id="SRP18630_N2">По свему изгледа да је овај ”г. Десић“ иста личност која и напред опоменута: ”г. Весић“; али, како се личност под презименом ”Десић“ спомиње све до краја овога дела романа, нисмо хтели ово презиме замењивати напред поменутим ”Весић“.</note>
 <note xml:id="SRP18630_N3">Из даљег причања видеће се да је Рунић гђи Јелки био зет, а не брат.</note>

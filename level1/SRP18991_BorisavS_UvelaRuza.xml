@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18991" xml:lang="sr">
 
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Увела ружа : ELTeC издање</title>
+        <title ref="viaf:310476779">Увела ружа : ELTeC издање</title>
         <author ref="viaf:76323147">Станковић, Борисав (1876-1927)</author>
         <respStmt>
+          <resp>Сканирање</resp>
+          <name>Универзитетска библиотека "Светозар Марковић"</name>
+        </respStmt>
+        <respStmt>
           <resp>OCR и корекција текста</resp>
-          <name>Цветана Крстев</name>
           <name>Оливера Китановић</name>
+          <name>Цветана Крстев</name>
         </respStmt>
         <respStmt>
           <resp>Кодирање за ELTeC</resp>
@@ -39,6 +43,8 @@
           <pubPlace>Београд</pubPlace>
           <publisher>С. Б. Цвијановић</publisher>
           <date>1912</date>
+        <idno type="COBISS-SR.ID">27776775</idno>
+          </bibl>
           <bibl type="firstEdition">
             <title>Увела ружа (у оквиру збирке „Из старог јеванђеља")</title>
             <author>Станковић, Борисав</author>
@@ -46,10 +52,8 @@
             <date>1899</date>
             <idno type="COBISS-SR.ID">69882631</idno>
           </bibl>
-          <idno type="wiki">https://sr.wikipedia.org/wiki/Увела_ружа_(из_дневника)</idno>
-          <idno type="viaf">310476779</idno>
-          <idno type="COBISS-SR.ID">27776775</idno>
-        </bibl></sourceDesc>
+          <!-- <idno type="wiki">https://sr.wikipedia.org/wiki/Увела_ружа_(из_дневника)</idno> -->
+       </sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>

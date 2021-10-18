@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18821" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Каваљер Лаза : карактерна црта из друштвеног живота : ELTeC издање</title>
-                <author>Ђорић, Никола В. (1859-1913)</author>
+                <author ref="viaf:22163155990601312095">Ђорић, Никола В. (1859-1913)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18970" xml:lang="sr">
         <teiHeader>
@@ -35,7 +35,7 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662604">ELTeC-srp release 0.9.0</ref>
 </publicationStmt>
-                <sourceDesc><bibl type="printSource">
+                <sourceDesc><bibl type="firstEdition">
                         <author>Матијашић, Стеван М.</author>
                         <title>Грофица Агнеша Јанковић : роман</title>
                         <pubPlace>Ср. Карловци</pubPlace>

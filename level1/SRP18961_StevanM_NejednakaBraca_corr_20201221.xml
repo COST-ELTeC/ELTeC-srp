@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18961" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Неједнака браћа : приповетка за народ : ELTeC издање</title>
-                <author>Мамузић, Стеван (????-????)</author>
+                <author ref="viaf:128149841986602842118">Мамузић, Стеван (????-????)</author>
+                <respStmt>
+                    <resp>Сканирање</resp>
+                    <name>Душко Витас и Цветана Крстев</name>
+                </respStmt>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Душко Витас</name>
@@ -38,7 +42,7 @@
                     <title>Неједнака браћа : приповетка за народ 2</title>
                     <pubPlace>Нови Сад</pubPlace>
                     <publisher>Српска књижара и штампарија Браће М. Поповића</publisher>
-                    <note>Књиге за народ/Матица српска из Задужбине Петра Коњевића ; св. 61/62</note>
+                    <!-- <note>Књиге за народ/Матица српска из Задужбине Петра Коњевића ; св. 61/62</note> -->
                     <date>1896</date>
                     <idno type="COBISS-SR.ID">95064327</idno>
                     <idno type="COBISS-SR.ID">11434503</idno>
@@ -68,7 +72,7 @@
 <text>
 <body>
     <!-- <front> -->
-        <div type="titlepage">
+    <div type="titlepage" xml:id="SRP18961_F1">
             <p>КЊИГЕ ЗА НАРОД</p>
             <p>ИЗДАЈЕ „МАТИЦА СРПСКА“ - ИЗ ЗАДУЖБИНЕ ПЕТРА КОЊЕВИЋА</p>
             <p>СВЕСКА 61</p>
@@ -83,7 +87,7 @@
             <p>1896.</p> 
         </div>
     <!-- </front> -->
-<div type="group" xml:id="SRP18961_P1">
+<div type="chapter" xml:id="SRP18961_P1">
 <pb n="3"/>
 <head>1. Пре деобе.</head>
 <p>Свршено је, свршено. Ето и свет се разиђе са даће, само осташе још најближи сродници.</p>
@@ -567,7 +571,7 @@
 </div>
 
 <!-- <front> -->
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18961_F2">
 <p>КЊИГЕ ЗА НАРОД</p>
 <p>ИЗДАЈЕ „МАТИЦА СРПСКА“ - ИЗ ЗАДУЖБИНЕ ПЕТРА КОЊЕВИЋА</p>
 <p>СВЕСКА 62</p>
@@ -583,7 +587,7 @@
 </div>
 <!-- </front> -->
 <pb n="3"/>
-<div type="group" xml:id="SRP18961_P2">
+<div type="chapter" xml:id="SRP18961_P2">
 <head>2. После деобе.</head>
 
 <p>Дошло је и пролеће. Ту је Ђурђев дан, крсно име Никшића. Баба Светозар је последње време увек славио. А ове године, у место славе у Никшића кући, јесте нешто друго — деоба.</p>

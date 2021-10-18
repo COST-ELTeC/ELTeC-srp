@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18892" xml:lang="sr">
   <teiHeader>
@@ -63,7 +63,7 @@
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
         <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-        <!-- izdanja: 1889, 1890, 1992 [0 у периоду 1970-2010]  -->
+        <!-- izdanja: 1889, 1890, 1892 [0 у периоду 1970-2010]  -->
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
@@ -75,7 +75,7 @@
   <text>
     <front>
       <pb n="1"/>
-      <div type="titlepage">
+      <div type="titlepage" xml:id="SRP18892_F1">
         <p>КЊИГА ЗА ГРОШ</p>
         <p>НА ОДМОРКУ</p>
         <p>РОМАН.</p>
@@ -86,7 +86,7 @@
         <!-- Недостаје доњи део странице -->
       </div>
       <pb n="2"/>
-      <div type="titlepage">
+      <div type="titlepage" xml:id="SRP18892_F2">
         <p>Писац задржава сва права.</p>
       </div>
     </front>
@@ -3878,18 +3878,18 @@
       </div>
     </body>
     <back>
-      <div type="notes">
-        <note xml:id="SRP18892_N1">Једном за свагда напомињемо овде, да град код нас овде увек значи варош. А оно што се у ***обичном говору+++ каже град, ми зовемо тврђава, јер је тако правилније.</note>
-        <note xml:id="SRP18892_N2">Помиловања о великим празницима+++.</note>
+      <div type="notes" xml:id="SRP18892_B1">
+        <note xml:id="SRP18892_N1">Једном за свагда напомињемо овде, да град код нас овде увек значи варош. А оно што се у обичном говору каже град, ми зовемо тврђава, јер је тако правилније.</note>
+        <note xml:id="SRP18892_N2">Помиловања о великим празницима.</note>
         <note xml:id="SRP18892_N3">Тако је Анђелија звала Паву. У Балканији је обичај да млада кад се доведе у кућу, од милоште свима укућанима надене нова имена, и ни једно, па ни децу, не зове више њиним обичним именом. Ова имена од милоште друкчија су но обична и каткад су врло лепа. Друкчија су мушка, а друкчија су женска. Тако исто друга су имена за младе, а друга за старије укућане.</note>
         <note xml:id="SRP18892_N4">Ашчиница.</note>
         <note xml:id="SRP18892_N5">Ђенерал је сад говорио кнезу „Ти“.</note>
-        <note xml:id="SRP18892_N6">+++Свршена+++ је +++комедија+++.</note>
-        <note xml:id="SRP18892_N7">Љуљушка — велика ***наслоњача, нарочито удешена да се ***човек на ***њој може љушкати. <foreign xml:lang="de">Schaukelstuhl</foreign>  зову ***је +++Немци+++.</note>
+        <note xml:id="SRP18892_N6">Свршена је комедија.</note>
+        <note xml:id="SRP18892_N7">Љуљушка — велика наслоњача, нарочито удешена да се човек на њој може љушкати. <foreign xml:lang="de">Schaukelstuhl</foreign>  зову је Немци.</note>
         <note xml:id="SRP18892_N8">У Балканији сељаци рачунају ноћне сахате од кад се +++смркне+++, па док не сване, а тако је исто и за дневне часове док траје дан. Кад се рекне „три је сахата ноћи,“ онда то значи од кад се смркло.</note>
         <note xml:id="SRP18892_N9">Службеним језиком именом Зликовац бележено је име Перуна Црнојевића.</note>
         <note xml:id="SRP18892_N10">Тако су сељаци звали Перуна Црнојевића.</note>
-        <note xml:id="SRP18892_N11">Скраћено од Мутимире — Тако је +++Лепша+++ ***тепајући звала сад ***кнеза.</note>
+        <note xml:id="SRP18892_N11">Скраћено од Мутимире — Тако је Лепша тепајући звала сад кнеза.</note>
       </div>
     </back>
   </text>

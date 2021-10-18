@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19040" xml:lang="sr">
     <teiHeader>
@@ -45,7 +45,16 @@
             <idno type="COBISS-SR.ID">9883143</idno>
            <!-- <idno type="wiki">https://sr.wikipedia.org/wiki/Хаџи_Ђера</idno>
             <idno type="wiki">https://www.wikidata.org/wiki/Q16088422</idno> -->
-          </bibl></sourceDesc>
+          </bibl>
+          <bibl type="firstEdition">
+            <title>Светле слике из српске борбе за крст часни. Св. 2</title>
+            <title> Хаџи-Ђера</title>
+            <author>Илић, Драгутин Ј.</author>
+            <publisher>Српска манастирска штампарија</publisher>
+            <pubPlace>Срем. Карловци</pubPlace>
+            <date>1897</date>
+          </bibl>
+        </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
         <p/>
@@ -59,9 +68,9 @@
           <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
           <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
           <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-          <!-- izdanja: 1904, 1960, 2004, 2017 [1 у периоду 1970-2010] -->
+          <!-- izdanja: 1897, 1904, 1960, 2004, 2017, ?? [1 у периоду 1970-2010] -->
           <!-- Јелена А.: 27 издања према ВБС -->
-          <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+          <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
         </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -75,7 +84,7 @@
     </teiHeader>
   <text xml:id="SR0001" xml:lang="sr">
     <front>
-      <div type="titlepage">
+      <div type="titlepage" xml:id="SRP19040_F1">
         <p>90 СРПСКА КЊИЖЕВНА ЗАДРУГА 90</p>
         <p>ХАЏИ - ЂЕРА</p>
         <p>ПРИПОВЕТКА</p>

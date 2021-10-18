@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19071" xml:lang="sr">
     <teiHeader>
@@ -17,8 +17,8 @@
                 </respStmt>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
-                    <name>Цветана Крстев</name>
                     <name>Иван Обрадовић</name>
+                    <name>Цветана Крстев</name>
                 </respStmt>
                 <respStmt>
                     <resp>Кодирање за ELTeC</resp>
@@ -79,7 +79,7 @@
     <text>
         <front>
             <pb n="0"/>
-            <div type="titlepage">
+            <div type="titlepage" xml:id="SRP19071_F1">
                 <p>СРПСКИ ПИСЦИ</p>
                 <p>КЊИГА</p>
                 <p>II</p>
@@ -87,7 +87,7 @@
                 <p>1947</p>
             </div>
             <pb n="1"/>
-            <div type="titlepage">
+            <div type="titlepage" xml:id="SRP19071_F2">
                 <p>СТЕВАН СРЕМАЦ</p>
                 <p>ЗОНА ЗАМФИРОВА</p>
                 <p>ПРИПОВЕТКА</p>
@@ -96,12 +96,12 @@
             </div>
             <pb n="2"/>
             <pb n="3"/>
-            <div type="titlepage">
+            <div type="titlepage" xml:id="SRP19071_F3">
                 <gap unit="illustration"/>
             </div>
             <pb n="4"/>
             <pb n="5"/>
-            <div type="titlepage">
+            <div type="titlepage" xml:id="SRP19071_F4">
                 <p>ЗОНА ЗАМФИРОВА</p>
             </div>
             <pb n="6"/>
@@ -4540,7 +4540,7 @@
         </body>
         <back>
             <pb n="199"/>
-            <div type="liminal">
+            <div type="liminal" xml:id="SRP19071_B1">
                 <head>
                     <hi>НАПОМЕНА</hi>
                 </head>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18780" xml:lang="sr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Пред зору : роман у два дела : ELTeC издање</title>
-        <author ref="viaf:85154625">Mihajlović, Branko [Љубиша Бранковић] (1857-1918)</author>
+        <author ref="viaf:85154625">Михајловић, Бранко [Љубиша Бранковић] (1857-1918)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -42,7 +42,7 @@
           <publisher>Српска народна задружна штампарија</publisher>
           <date>1878</date>
           <idno type="COBISS-SR.ID">84222727</idno>
-          <note>У тексту недостају стране 17, 18, 19, 29, 97 и 98</note>
+          <!-- <note>У тексту недостају стране 17, 18, 19, 29, 97 и 98</note> -->
         </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">

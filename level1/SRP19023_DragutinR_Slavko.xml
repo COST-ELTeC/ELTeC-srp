@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19023" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Славко : ELTeC издање</title>
-                <author ref="viaf:252838823">Ранковић, Драгутина Ј. (1882-1956)</author>
+                <author ref="viaf:252838823">Ранковић, Драгутин Ј. (1882-1956)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Душко Витас и Цветана Крстев</name>
@@ -36,7 +36,7 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662604">ELTeC-srp release 0.9.0</ref>
 </publicationStmt>
-            <sourceDesc><bibl type="printSource">
+            <sourceDesc><bibl type="firstEdition">
                     <author>Ранковић, Драгутина Ј.</author>
                     <title>Приповетке Драгутина Ј. Ранковића : Славко - Незнана срећа - У самоћи</title>
                     <pubPlace>Београд</pubPlace>

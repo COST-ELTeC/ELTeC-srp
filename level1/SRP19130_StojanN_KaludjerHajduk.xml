@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19130" xml:lang="sr">
     <teiHeader>
@@ -9,6 +9,10 @@
             <titleStmt>
                 <title>Калуђер и хајдук : приповетка о последњим данима Србије у XV веку : ELTeC издање</title>
                 <author ref="viaf:64052399">Новаковић, Стојан (1842-1915)</author>
+                <respStmt>
+                    <resp>Сканирање</resp>
+                    <name>Универзитетска библиотека "Светозар Марковић"</name>
+                </respStmt>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Ненад Зекавица</name>
@@ -53,7 +57,7 @@
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
-                <!-- izdanja: 1913; 1926; 1983; 2014 -->
+                <!-- izdanja: 1913; 1926; 1983, 1985 (zvučni); 2014, 2019, 2020 -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>

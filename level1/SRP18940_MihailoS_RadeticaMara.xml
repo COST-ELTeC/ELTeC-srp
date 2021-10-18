@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18940" xml:lang="sr">
     <teiHeader>
@@ -91,7 +91,7 @@
 </div>
 <pb n="II"/>
 <pb n="III"/>
-<div type="liminal">
+    <div type="liminal" xml:id="SRP18940_F3">
 <head>БЛАЖЕНОЈ СЕНИ МОЈЕ МИЛЕ МАТЕРЕ</head>
 <head>АНКЕ</head>
 <quote>
@@ -112,7 +112,7 @@
 </div>
 <pb n="IV"/>
 <pb n="V"/>
-<div type="liminal">
+    <div type="liminal" xml:id="SRP18940_F4">
 <head>НА РАСТАНКУ</head>
 <p>...Из моје собице, пуштам те данас Маро, у широки бели свет...</p>
 <p>Пођи мила, и сретна ми буди!</p>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18750" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Васа Решпект : ELTeC издање</title>
+                <title ref="viaf:4597155566462213380006">Васа Решпект : ELTeC издање</title>
                 <author ref="viaf:4995002">Игњатовић, Јаков (1822-1889)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
@@ -78,7 +78,7 @@
     </teiHeader>
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18750_F1">
 <p>СРПСКА КЊИЖЕВНА ЗАДРУГА</p>
 <p>КОЛО XXII. БР. 148.</p>
 <p>ЈАКОВ ИГЊАТОВИЋ.</p>
@@ -855,7 +855,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP18750_B1">
 <note xml:id="SRP18750_N1"><hi>Спешити</hi>, цркв.-слов., журити.</note>
 <note xml:id="SRP18750_N2"><hi>Жени</hi>, франц. <foreign xml:lang="fr">génie</foreign>, дух, геније.</note>
 <note xml:id="SRP18750_N3"><hi>Фелдцајгмајстор</hi>, нем. <foreign xml:lang="de">Feldzeugmeister</foreign>, артиљеријски генерал; маршал. </note>

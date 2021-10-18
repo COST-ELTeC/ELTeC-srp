@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19022" xml:lang="sr">
     <teiHeader>
@@ -10,9 +10,13 @@
                 <title>Покојникова жена : ELTeC издање</title>
                 <author ref="viaf:76323147">Станковић, Борисав (1876-1927) <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Борисав_Станковић</idno> --> </author>
                 <respStmt>
+                    <resp>Сканирање</resp>
+                    <name>Универзитетска библиотека "Светозар Марковић"</name>
+                </respStmt>
+                <respStmt>
                     <resp>OCR и корекција текста</resp>
-                    <name>Цветана Крстев</name>
                     <name>Оливера Китановић</name>
+                    <name>Цветана Крстев</name>
                 </respStmt>
                 <respStmt>
                     <resp>Кодирање за ELTeC</resp>

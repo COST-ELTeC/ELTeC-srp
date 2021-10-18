@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19101" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Нечиста крв : ELTeC издање</title>
+                <title ref="viaf:208715862">Нечиста крв : ELTeC издање</title>
                 <author ref="viaf:76323147">Станковић, Борисав (1876-1927)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
@@ -36,14 +36,13 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662604">ELTeC-srp release 0.9.0</ref>
 </publicationStmt>
-            <sourceDesc><bibl type="printSource">
+            <sourceDesc><bibl type="firstEdition">
                     <author>Станковић, Борисав</author>
                     <title>Нечиста крв</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Нова Штампарија "Давидовић"</publisher>
                     <date>1910</date>
-                    <idno type="wiki">https://sr.wikipedia.org/wiki/Нечиста_крв</idno>
-                    <idno type="viaf">208715862</idno>
+                    <!-- <idno type="wiki">https://sr.wikipedia.org/wiki/Нечиста_крв</idno> -->
                     <idno type="COBISS-SR.ID">1467399</idno>
                 </bibl></sourceDesc>
         </fileDesc>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.xml" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18800" xml:lang="sr">
     <teiHeader>
@@ -9,6 +9,10 @@
             <titleStmt>
                 <title>Драгоцена огрлица: прича у своје време : ELTeC издање</title>
                 <author ref="viaf:14831335">Комарчић, Лазар (1833-1909)</author>
+              <respStmt>
+                <resp>Сканирање</resp>
+                <name>Универзитетска библиотека "Светозар Марковић"</name>
+              </respStmt>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
                     <name>Александра Томашевић</name>
@@ -32,7 +36,7 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662604">ELTeC-srp release 0.9.0</ref>
 </publicationStmt>
-            <sourceDesc><bibl type="printSource">
+            <sourceDesc><bibl type="firstEdition">
                     <author>Комарчић, Лазар</author>
                     <title>Драгоцена огрлица: прича у своје време</title>
                     <publisher>Штампарија Н. Стефановића и Друга</publisher>
@@ -67,7 +71,7 @@
   <text>
     <front>
       <pb n="I"/>
-      <div type="titlepage">
+      <div type="titlepage" xml:id="SRP18800_F1">
         <p>ДРАГОЦЕНА ОГРЛИЦА</p>
         <p>ПРИЧА У СВОЈЕ ВРЕМЕ</p>
         <p>написао</p>
@@ -1578,7 +1582,7 @@
    <!-- </div> -->
     </body>
     <back>
-      <div type="notes">
+      <div type="notes" xml:id="SRP18800_B1">
         <note xml:id="SRP1880_N1">Г. Андронита је волела, да јој се домеће њено породично име „<hi>Бонвиљска</hi>“.</note>
         <note xml:id="SRP1880_N2">По <foreign xml:lang="fr">Comtesse de Lucy (Mme Guizot)</foreign></note>
         <note xml:id="SRP1880_N3">Бранко.</note>

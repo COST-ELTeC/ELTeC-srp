@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18890" xml:lang="sr">
     <teiHeader>
@@ -43,7 +43,7 @@
                     <pubPlace>Кикинда</pubPlace>
                     <publisher>Књижевна заједница Кикинде</publisher>
                     <date>1990</date>
-                    <idno type="COBISS-SR.ID">125287431</idno>
+                <idno type="COBISS-SR.ID">25459207</idno>
                 </bibl><bibl type="firstEdition">
                      <title level="a">Девојачки роман</title>
                      <author>Гавриловић, Драга</author>
@@ -63,8 +63,8 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-                <!-- izdanja: 1889, 1990 -->
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                <!-- izdanja: 1889, 1990, 2007?, 2020? [ 1 ili 2 1970-2010 ] -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>
@@ -78,7 +78,7 @@
     
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18890_F1">
 <p>ДРАГА ГАВРИЛОВИЋ</p>
 <p>САБРАНА ДЕЛА</p>
 <p>ПРИПОВЕТКЕ - Дeвојачки роман - Преводи</p>

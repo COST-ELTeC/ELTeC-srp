@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19140" xml:lang="sr">
  	
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Чедомир Илић : роман : ELTeC издање</title>
+                <title ref="viaf:177891853">Чедомир Илић : роман : ELTeC издање</title>
                 <author ref="viaf:14831361">Ускоковић, Милутин (1884-1915)</author>
                 <respStmt>
-                    <resp>OCR и корекција текста</resp>
-                    <name>Цветана Крстев</name>
+                    <resp>Сканирање</resp>
+                    <name>Универзитетска библиотека "Светозар Марковић"</name>
+                </respStmt>
+                <respStmt>
+                    <resp>OCR и корекција текста</resp>                    
                     <name>Душко Витас</name>
+                    <name>Цветана Крстев</name>
                 </respStmt>
                 <respStmt>
                     <resp>Кодирање за ELTeC</resp>
@@ -33,13 +37,13 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662604">ELTeC-srp release 0.9.0</ref>
 </publicationStmt>
-            <sourceDesc><bibl type="printSource">
+            <sourceDesc><bibl type="firstEdition">
                     <author>Ускоковић, Милутин</author>
                     <title>Чедомир Илић : роман</title>
                     <pubPlace>Београд</pubPlace>
                     <publisher>Геца Кон</publisher>
                     <date>1914</date>
-                    <idno type="wiki">https://sr.wikipedia.org/wiki/Чедомир_Илић_(роман)</idno>
+                    <!-- <idno type="wiki">https://sr.wikipedia.org/wiki/Чедомир_Илић_(роман)</idno> -->
                     <idno type="COBISS-SR.ID">54665735</idno>
                  </bibl></sourceDesc>
         </fileDesc>
@@ -69,19 +73,19 @@
 <text>
 <front>
 <pb n="i"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19140_F1">
 <p>М. М. УСКОКОВИЋ</p>
 <p>ЧЕДОМИР ИЛИЋ</p>
 <p>РОМАН</p>
 <p>ИЗДАЊЕ ГЕЦЕ КОНА, БЕОГРАД 1914</p>
 </div>
 <pb n="ii"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19140_F2">
 <p>ШТАМПАРИЈА „ДОСИТИЈЕ ОБРАДОВИЋ“ - БЕОГРАД</p>
 <p>ДИМИТРИЈА ГАВРИЛОВИЋА</p>
 </div>
 <pb n="iii"/>
-<div type="liminal">
+    <div type="liminal" xml:id="SRP19140_F3">
 <p> <quote><hi>Ова књига је посвећена погинулим Србима у ратовима 1912 и 13 године, јер они који су пали за Отаџбину, по речима једног великог песника прошлог столећа, заслужују да на њихове хумке долази свет и молитве чита; међу најлепшим именима њихово име је најлепше; сва слава, пред њима, бледи и губи се, и као што би радила мајка, глас целог народа их љушка у њиховим гробовима.</hi></quote></p>
 <p><hi>М. У.</hi></p>
 </div>

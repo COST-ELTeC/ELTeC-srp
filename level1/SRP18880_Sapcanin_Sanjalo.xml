@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18880" xml:lang="sr">
     <teiHeader>
@@ -10,9 +10,13 @@
                 <title>Сањало : ELTeC издање</title>
                 <author ref="viaf:79455054">Поповић-Шапчанин, Милорад (1847-1895) </author>
                 <respStmt>
+                    <resp>Сканирање</resp>
+                    <name>Универзитетска библиотека "Светозар Марковић"</name>
+                </respStmt>
+                <respStmt>
                     <resp>OCR и корекција текста</resp>
-                    <name>Цветана Крстев</name>
-                    <name>Аница Милановић</name>
+                     <name>Аница Милановић</name>
+                     <name>Цветана Крстев</name>
                 </respStmt>
                 <respStmt>
                     <resp>Кодирање за ELTeC</resp>
@@ -71,7 +75,7 @@
     </teiHeader>  
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18880_F1">
 <p>142 СРПСКА КЊИЖЕВНА ЗАДРУГА 142.</p>
 <p>САЊАЛО.</p>
 <p>РОМАН.</p>

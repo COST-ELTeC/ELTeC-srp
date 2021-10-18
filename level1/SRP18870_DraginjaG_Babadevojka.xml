@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18870" xml:lang="sr">
     <teiHeader>
@@ -9,10 +9,15 @@
             <titleStmt>
                 <title>Бабадевојка : ELTeC издање</title>
                 <author ref="viaf:17281658">Гавриловић, Драга (1854-1917)</author>
+                <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Драга_Гавриловић</idno> -->
+                <respStmt>
+                    <resp>Сканирање</resp>
+                    <name>Душко Витас и Цветана Крстев</name>
+                </respStmt>
                 <respStmt>
                     <resp>OCR и корекција текста</resp>
-                    <name>Цветана Крстев</name>
                     <name>Биљана Лазић</name>
+                    <name>Цветана Крстев</name>
                 </respStmt>
                 <respStmt>
                     <resp>Кодирање за ELTeC</resp>
@@ -34,11 +39,13 @@
 </publicationStmt>
             <sourceDesc><bibl type="printSource">
                     <author>Гавриловић, Драга</author>
-                    <title level="a">Бабадевојка</title>
-                    У: <title>Сабрана дела. Књ. 1, Песме, приповетке</title>
-                    <pubPlace>Кикинда</pubPlace>
-                    <publisher>Књижевна заједница Кикинде</publisher>
-                    <date>1990</date>
+                        <title level="a">Бабадевојка</title>
+                        У: <title>Сабрана дела. Књ. 1, Песме, приповетке</title>
+                        <pubPlace>Кикинда</pubPlace>
+                        <publisher>Књижевна заједница Кикинде</publisher>
+                        <date>1990</date>
+                        <idno type="COBISS-SR.ID">25458439</idno>
+                    </bibl>
                     <bibl type="firstEdition">
                         <title level="a">Бабадевојка</title>
                         <author>Гавриловић, Драга</author>
@@ -46,8 +53,8 @@
                         <publisher>Кикинда : Штампарија Јована Радака</publisher>
                         <date>1887</date>
                     </bibl>
-                    <idno type="wiki">https://sr.wikipedia.org/sr-ec/Драга_Гавриловић</idno>
-                 </bibl></sourceDesc>
+                    
+                 </sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
             <p/>
@@ -60,8 +67,8 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-                <!-- izdanja: 1887, 1990 -->
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                <!-- izdanja: 1887, 1990, ?2007, ?2020 [0 ili 1 1970-2010] -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
             </textDesc>
         </profileDesc>

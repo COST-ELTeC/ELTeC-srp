@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18590" xml:lang="sr">
     <teiHeader>
@@ -48,10 +48,13 @@
                     <title>Ђурађъ Бранковићъ : (историчный романъ)</title>
                     <publisher>Сербскій лѣтописъ : за год.. - Год. 29, част 2 (1855), стр. 130-171; - Год. 30, част 1 (1856), стр. 67-156; - Год. 30, част 2 (1856), стр. 29-55
                     </publisher>
-                    <date>1855-1859</date>
-                    <idno type="COBISS-SR.ID">157761799</idno>
+                    <pubPlace>Пешта</pubPlace>
                     <idno type="COBISS-SR.ID">157755399</idno>
+                    <idno type="COBISS-SR.ID">157761799</idno>
                     <idno type="COBISS-SR.ID">157756679</idno>
+                    <publisher>У Карловцы : Митрополітско-Гимназіална Типографіа, 1859</publisher>
+                    <idno type="COBISS-SR.ID">127411975</idno>
+                    <date>1859</date>
                 </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
@@ -79,7 +82,7 @@
     </teiHeader>
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18590_F1">
 <p>ОДАБРАНА ДЕЛА</p>
 <p>ЈАКОВА ИГЊАТОВИЋА</p>
 <p>У редакцији</p>
@@ -89,7 +92,7 @@
 <p>КЊИГА I</p>
 <p>ЂУРАЂ БРАНКОВИЋ</p>
 </div>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18590_F2">
 <p>ЈАКОВ ИГЊАТОВИЋ</p>
 <p>ЂУРАЂ БРАНКОВИЋ</p>
 <p>Приредио</p>
@@ -99,7 +102,7 @@
 </div>
 <gap unit="graphic"/> 
 <gap unit="foreword"/> 
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18590_F3">
 <p>ЂУРАЂ БРАНКОВИЋ</p>
 <p>ИСТОРИЧЕСКИЈ РОМАН</p>
 </div>
@@ -3402,7 +3405,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP18590_B1">
 <note xml:id="SRP18590_N1">Погрешно. Треба Хасан. Прим. прир. </note>
 <note xml:id="SRP18590_N2">Погрешно. Треба ујак. Прим. прир </note>
 <note xml:id="SRP18590_N3">Погрешно. Треба Јаблановић. Прим. прир.</note>

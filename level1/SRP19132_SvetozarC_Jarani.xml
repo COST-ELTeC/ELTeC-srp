@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19132" xml:lang="sr">
     <teiHeader>
@@ -76,7 +76,7 @@
     </teiHeader>
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19132_F1">
 <p>СВЕТОЗАР ЋОРОВИЋ</p>
 <p>ДЈЕЛА</p>
 <p>ДРУГА КЊИГА</p>
@@ -84,7 +84,7 @@
 <p>1953</p>
 </div>
 <pb n="207"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19132_F2">
 <p>ЈАРАНИ</p>
 </div>
 <pb n="208"/>

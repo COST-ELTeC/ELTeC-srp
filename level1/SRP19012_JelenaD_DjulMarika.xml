@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19012" xml:lang="sr">
     <teiHeader>
@@ -57,7 +57,7 @@
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-                <!-- izdanja: 1901, 2003, 2016 -->
+                <!-- izdanja: 1901, 2003, 2016 [1 u periodu 1970-2010 ]-->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
@@ -69,7 +69,7 @@
     
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19012_F1">
 <p>Ђул-Марикина Прикажња</p>
 <p>Приповетка</p>
 <p>Написала</p>
@@ -772,7 +772,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP19012_B1">
 <note xml:id="SRP19012_N1">Сечко, фебруар месец.</note>
 <note xml:id="SRP19012_N2">Боже (диминутив).</note>
 <note xml:id="SRP19012_N3">Изненада.</note>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18881" xml:lang="sr">
     <teiHeader>
@@ -76,7 +76,7 @@
     </teiHeader>   
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18881_F1">
 <p>Павле Марковић Адамов</p>
 <p>ДУХ ВРЕМЕНА САД ЈЕ ТАКИ!</p>
 <p>НЕГДИНСКА ХРОНИКА</p>
@@ -90,15 +90,16 @@
 </div>
 <gap unit="preface"/>
 <pb n="9"/>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18881_F2">
 <p>ДУХ ВРЕМЕНА САД ЈЕ ТАКИ!</p>
 </div> 
 </front>
 <pb n="10"/>
 <body>
+    <div type="chapter" xml:id="SRP18881_C0">
 <pb n="11"/>
 <p>Ужурбала се цела кућа.</p>
-<p>Јест, до душе, у род ће се, и то у род, као у своју рођену кућу.Али на село! Па остати на селу неколико недеља, као што намерава госпођа Ната, то је, као што опет ропта њена кћерка, госпођица</p>
+<p>Јест, до душе, у род ће се, и то у род, као у своју рођену кућу. Али на село! Па остати на селу неколико недеља, као што намерава госпођа Ната, то је, као што опет ропта њена кћерка, госпођица</p>
 <p>Даринка, кад је у вароши „велика беседа“ рад преноса костију Бранка Радичевића, „толико гладних Мисирских година“.</p>
 <p>Па онда не може госпођа Ната, да не понесе штогод сестриној деци. То ће да буде радост од деце, кад им тетка из вароши разда поклоне!</p>
 <p>– Боже мој, секо. – рећи ће, до душе, као и до сад, Ката Нати, – зар то мора бити?</p>
@@ -1358,6 +1359,7 @@
 <p>– Даринка узе лиске, погледа милокрвно у њега, откиде један и задеде га себи на груди, а други пружи Стајићу.</p>
 <p>– Хоћете ли га умети сачувати?</p>
 <p>– А ви? Нема сумње, чуваће га она заједно с мајкином душицом, што је узбрала крај друма, кад је оно путовала с мамом својом у Брајковац.</p>
+</div>
 </body>
 </text>
 </TEI>

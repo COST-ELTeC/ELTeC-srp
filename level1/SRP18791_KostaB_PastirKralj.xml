@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- <?xml-model href="file:/C:/DDD/Cvetana/Projekti/D-reading/Tekstovi/UBSM/Akcija_100romana/eltec-1.xml" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> -->
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18791" xml:lang="sr">
     <teiHeader>
         <fileDesc>
@@ -48,7 +52,7 @@
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-                <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"></reprintCount>
                 <!-- izdanja: 1879 [0 у периоду 1970-2010]  -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
             </textDesc>
@@ -60,7 +64,7 @@
 <text>
 <pb n="1"/>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18791_F1">
 <p>ПАСТИР КРАЉ</p>
 <p>или</p>
 <p>ОСЛОБОЂЕЊЕ СРБИЈЕ.</p>
@@ -871,7 +875,7 @@
 </body>
 <back>
 <pb n="227"/>
-<div type="liminal">
+    <div type="liminal" xml:id="SRP18791_B1">
 <head>САДРЖАЈ.</head>
 <p>I. Kара-Ђорђе...3</p>
 <p>II. Јаничари...10</p>

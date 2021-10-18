@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18980" xml:lang="sr">
     <teiHeader>
@@ -77,19 +77,19 @@
     
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18980_F1">
 <p>2. СРПСКИ КЛАСИЧНИ ПИСЦИ 2.</p>
 <p>ДЕЛА</p>
 <p>ЛАЗЕ К. ЛАЗАРЕВИЋА</p>
 <p>„НАПРЕДАК“ - ЗЕМУН.</p>
 </div>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18980_F2">
 <p>БЕОГРАД, 1912.</p>
 <p>НОВА ШТАМПАРИЈА - ДАВИДОВИЋ, ДЕЧАНСКА БР. 14.</p>
 <p>ЉУБ. М. ДАВИДОВИЋА</p>
 </div>
 <!-- предговор -->
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18980_F3">
 <p>ПРИПОВЕТКЕ</p>
 </div>
 </front>
@@ -832,7 +832,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP18980_B1">
 <note xml:id="SRP18980_N1">Високи (одлични) укус.</note>
 <note xml:id="SRP18980_N2">Зазорно.</note>
 <note xml:id="SRP18980_N3">Наравно.</note>

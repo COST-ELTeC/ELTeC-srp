@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19192" xml:lang="sr-Latn">
     <teiHeader>
@@ -36,7 +36,7 @@
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3524056">ELTeC-srp</ref>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.4662604">ELTeC-srp release 0.9.0</ref>
 </publicationStmt>
-            <sourceDesc><bibl type="printSource">
+            <sourceDesc><bibl type="firstEdition">
                     <author>Ćorović, Svetozar</author>
                     <title>U ćelijama</title>
                     <publisher>Zagreb : Matica hrvatska</publisher>
@@ -56,7 +56,7 @@
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-                <!-- izdanja: 1919, 1949 -->
+                <!-- izdanja: 1919, 1949, 2021 -->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
             </textDesc>
         </profileDesc>
@@ -69,13 +69,13 @@
     
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19192_F1">
 <p>SVETOZAR ĆOROVIĆ</p>
 <p>U ĆELIJAMA</p>
 <p>ZAGREB 1919.</p>
 <p>IZDANJE „MATICE HRVATSKE“</p>
 </div>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP19192_F2">
 <p>ŠTAMPA KUZME ROŽMANIĆA U ZAGREBU</p>
 </div>
 </front>
@@ -1689,7 +1689,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP19192_B1">
 <note xml:id="SRP19192_N1">Pocekaj malo, gospodine!</note>
 <note xml:id="SRP19192_N2">Jela.</note>
 <note xml:id="SRP19192_N3">Ima li lijeka za ovaku bolest?</note>

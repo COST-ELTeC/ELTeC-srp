@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+    <?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18871" xml:lang="sr">
     <teiHeader>
@@ -71,7 +71,7 @@
     
 <text>
 <front>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18871_F1">
 <p>МОЈ КОЧИЈАШ</p>
 <p>СЛИКЕ 1883 ГОДИНЕ</p>
 <p>НАПИСАО</p>
@@ -81,7 +81,7 @@
 <p>(Обилићев венац бр. 1.)</p>
 <p>1887</p>
 </div>
-<div type="titlepage">
+    <div type="titlepage" xml:id="SRP18871_F2">
 <p>МОЈ КОЧИЈАШ</p>
 </div>
 <gap unit="from_the_same_author"/>
@@ -1955,7 +1955,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+    <div type="notes" xml:id="SRP18871_B1">
 <note xml:id="SRP18871_N1">Седмога септембра 1883 године.</note>
 <note xml:id="SRP18871_N2">Тако се зове она сенка што онако лепо наздравља московском комитету у трпезарији Манастира Р....</note>
 <note xml:id="SRP18871_N3">У западном крају Србије наш народ зове овај рат: „Немачка крајина“, а на истоку је познат под именом: „Кочина крајина“.</note>
