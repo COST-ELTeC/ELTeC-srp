@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Два идола : ELTeC издање</title>
-                <author ref="viaf:8970679">Атанацковић, Богобој (1826-1858)</author>
+                <title ref="wikidata:Q109336066">Два идола : ELTeC издање</title>
+                <title xml:lang='en'>Two idols : ELTeC edition</title>
+                <author ref="viaf:8970679 wikidata:Q833421">Атанацковић, Богобој (1826-1858)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

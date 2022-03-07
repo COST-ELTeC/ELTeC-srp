@@ -7,8 +7,9 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Грофица Агнеша Јанковић : роман : ELTeC издање</title>
-                    <author>Матијашић, Стеван М. (????-????)</author>
+                    <title ref='wikidata:Q109335982'>Грофица Агнеша Јанковић : роман : ELTeC издање</title>
+                    <title xml:lang='en'>Countess Agneša Janković: a novel : ELTeC edition</title>
+                    <author ref="wikidata:Q108983683">Матијашић, Стеван М. (????-????)</author>
                     <respStmt>
                         <resp>Сканирање</resp>
                         <name>Универзитетска библиотека "Светозар Марковић"</name>

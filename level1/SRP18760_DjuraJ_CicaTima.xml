@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Чича Тима : приповетка из учитељског живота : ELTeC издање</title>
-                <author ref="viaf:47570198">Јакшић, Ђура (1832-1878)</author>
+                <title ref='wikidata:Q109336256'>Чича Тима : приповетка из учитељског живота : ELTeC издање</title>
+                <title xml:lang='en'>Uncle Tima : a short story from a teacher's life : ELTeC edition</title>
+                <author ref="viaf:47570198 wikidata:Q109336256">Јакшић, Ђура (1832-1878)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Душко Витас и Цветана Крстев</name>

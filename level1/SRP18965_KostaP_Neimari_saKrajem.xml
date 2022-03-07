@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Неимари : роман из новије српске историје : ELTeC издање</title>
-                <author ref="viaf:74867281">Петровић, Коста (1858-1928)</author>
+                <title ref='wikidata:Q109336109'>Неимари : роман из новије српске историје : ELTeC издање</title>
+                <title xml:lang='en'>Builders: a novel from recent Serbian history : ELTeC edition</title>
+                <author ref="viaf:74867281 wikidata:Q108981078">Петровић, Коста (1858-1928)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Народна библиотека Србије</name>

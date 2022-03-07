@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Бабадевојка : ELTeC издање</title>
-                <author ref="viaf:17281658">Гавриловић, Драга (1854-1917)</author>
+                <title ref='wikidata:Q109303299'>Бабадевојка : ELTeC издање</title>
+                <title xml:lang='en'>Old maid : ELTeC edition</title>
+                <author ref="viaf:17281658 wikidata:Q31181207">Гавриловић, Драга (1854-1917)</author>
                 <!-- <idno type="wiki">https://sr.wikipedia.org/sr-ec/Драга_Гавриловић</idno> -->
                 <respStmt>
                     <resp>Сканирање</resp>

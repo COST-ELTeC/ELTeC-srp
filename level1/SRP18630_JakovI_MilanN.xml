@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Милан Наранџић : ELTeC издање</title>
-                <author ref="viaf:4995002">Игњатовић, Јаков (1822-1889)</author>
+                <title ref='wikidata:Q109336104'>Милан Наранџић : ELTeC издање</title>
+                <title xml:lang='en'>Milan Narandžić : ELTeC edition</title>
+                <author ref="viaf:4995002 wikidata:Q570913">Игњатовић, Јаков (1822-1889)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Душко Витас и Цветана Крстев</name>
@@ -46,9 +47,11 @@
                 </bibl><bibl type="firstEdition">
                     <author>Игњатовић, Јаков</author>
                     <title>Тридесет година из живота Милана Наранџића. [1] (1860)</title>
+                    <publisher>трошком Драгутина Хинца</publisher>
                     <pubPlace>Нови Сад</pubPlace>
                     <idno type="COBISS-SR.ID">51099399</idno>
                     <title>Милан Наранџић : роман. [Књ. 2] (1863)</title>
+                    <publisher>трошком Светолика Лазаревића</publisher>
                     <date>1863</date>
                     <idno type="COBISS-SR.ID">127306759</idno>
                 </bibl></sourceDesc>

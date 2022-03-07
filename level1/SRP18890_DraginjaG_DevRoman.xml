@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Девојачки роман : ELTeC издање</title>
-                <author ref="viaf:17281658">Гавриловић, Драга (1854-1917)</author>
+                <title ref='wikidata:Q109336069'>Девојачки роман : ELTeC издање</title>
+                <title xml:lang='en'>A maiden novel : ELTeC edition</title>
+                <author ref="viaf:17281658 wikidata:Q31181207">Гавриловић, Драга (1854-1917)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Цветана Крстев и Душко Витас</name>

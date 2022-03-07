@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Драгоцена огрлица: прича у своје време : ELTeC издање</title>
-                <author ref="viaf:14831335">Комарчић, Лазар (1833-1909)</author>
+              <title ref='wikidata:Q109336073'>Драгоцена огрлица: прича у своје време : ELTeC издање</title>
+                <title xml:lang='en'>Precious necklace : ELTeC edition</title>
+              <author ref="viaf:14831335 wikidata:Q12754437">Комарчић, Лазар (1833-1909)</author>
               <respStmt>
                 <resp>Сканирање</resp>
                 <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -40,6 +41,7 @@
                     <author>Комарчић, Лазар</author>
                     <title>Драгоцена огрлица: прича у своје време</title>
                     <publisher>Штампарија Н. Стефановића и Друга</publisher>
+                    <pubPlace>Београд</pubPlace>
                     <date>1880</date> 
                     <idno type="wiki">https://sr.wikipedia.org/wiki/Лазар_Комарчић</idno>
                     <idno type="COBISS-SR.ID">47629575</idno>

@@ -9,8 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Какав је ко онако му и бива : приповетка из народна живота / написао за народ Панта Поповић : ELTeC издање</title>
-                <author>Поповић, Панта (1843-1918)</author>
+                <title ref='wikidata:Q109336095'>Какав је ко онако му и бива : приповетка из народна живота / написао за народ Панта Поповић : ELTeC издање</title>
+                <title xml:lang='en'>Who you are is how you will be treated: a short story from folk life / written for the folk by Panta Popović : ELTeC edition</title>
+                <author ref="wikidata:Q108983667">Поповић, Панта (1843-1918)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

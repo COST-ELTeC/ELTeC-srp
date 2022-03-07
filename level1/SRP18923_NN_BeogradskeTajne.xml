@@ -9,8 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Београдске тајне : историски роман из српске прошлости, с краја прошлог века!. Св. 1 : ELTeC издање</title>
-                <author>Непознат</author>
+                <title ref='wikidata:Q109303302'>Београдске тајне : историски роман из српске прошлости, с краја прошлог века!. Св. 1 : ELTeC издање</title>
+                <title xml:lang='en'>Belgrade secrets: a historical novel from the Serbian past, from the end of the last century!. Vol. 1 : ELTeC edition</title>
+                <author ref="viaf:2788090 wikidata:Q12757120">Тодоровић, Пера (1852-1907)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Народна библиотека Србије</name>
@@ -38,6 +39,7 @@
                     <publisher>Забавник "Малих новина". год. 1 ; књ. 1</publisher>
                     <date>1892</date>
                     <idno type="COBISS-SR.ID">124187399</idno>
+                    <!-- The name of the author found in other sources.-->
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -49,7 +51,7 @@
                 <language ident="sr-Cyrl" usage="100">српски</language>
             </langUsage>
             <textDesc>
-                <authorGender xmlns="http://distantreading.net/eltec/ns" key="X"></authorGender>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
                 <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"></reprintCount>
                 <!-- izdanja: 1892 [0 у периоду 1970-2010]  -->

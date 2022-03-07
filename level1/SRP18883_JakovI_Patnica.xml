@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="../../../../level1/Schemas/eltec-1.rng" type="application/xml"
-           schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../../../level1/Schemas/eltec-1.rng" type="application/xml"
-          schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18883" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Патница : роман : ELTeC издање</title>
-                <author ref="viaf:4995002">Игњатовић, Јаков (1822-1889)</author>
+                <title xml:lang="en">The Suffering Woman : ELTeC edition</title>
+                <author ref="viaf:4995002 wikidata:Q570913">Игњатовић, Јаков (1822-1889)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="viaf:312345632">Хајдук Станко : историјски роман : ELTeC издање</title>
-                <author ref="viaf:66316956">Веселиновић, Јанко М. (1862-1905)</author>
+                <title ref="viaf:312345632 wikidata:Q109336251">Хајдук Станко : историјски роман : ELTeC издање</title>
+                <title xml:lang='en'>Hajduk Stanko: a historical novel : ELTeC edition</title>
+                <author ref="viaf:66316956 wikidata:Q713652">Веселиновић, Јанко М. (1862-1905)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Антологија српске књижевности, Учитељски факултет, Универзитет у Београду</name>

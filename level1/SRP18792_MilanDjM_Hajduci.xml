@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="../../../../level1/Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../../../level1/Schemas/eltec-1.rng" type="application/xml"
-           schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18792" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Хајдуци : биљешке с пута по Рујну : ELTeC издање</title>
-                <author ref="viaf:64038897">Милићевић, Милан Ђ. (1831-1908)</author>
+                <title ref='wikidata:Q110814337'>Хајдуци : биљешке с пута по Рујну : ELTeC издање</title>
+                <title xml:lang='en'>Hajduks: notes from a travel across Rujno  : ELTeC edition</title>
+                <author ref="viaf:64038897 wikidata:Q2980829">Милићевић, Милан Ђ. (1831-1908)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Душко Витас и Цветана Крстев</name>
@@ -59,7 +60,7 @@
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
                 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-                <!-- izdanja: 1879, 1885, 1922 [2 u 1970-2010 ]-->
+                <!-- izdanja: 1879, 1885, 1922 [0 u 1970-2010 ]-->
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
             </textDesc>
         </profileDesc>
@@ -617,7 +618,7 @@
 <p>Ето гдје је вишак!</p>
 <milestone unit="subSection"/>
 <p>Ко се, послије тога, не би сложио са Сердаром: да се најприје треба бринути, како да се људи не одмећу у хајдуке, па тек послије — како да се тамане хајдуци?...</p>
-<p>6-VIII-1878.</p>
+<trailer>6-VIII-1878.</trailer>
 </div>
 </body>
 </text>

@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Кнез Градоје од Орлова Града : приповетка из времена боја на Косову : ELTeC издање</title>
-                <author ref="viaf:42116339">Мијатовић, Чедомиљ (1842-1932)</author>
+                <title ref='wikidata:Q109336098'>Кнез Градоје од Орлова Града : приповетка из времена боја на Косову : ELTeC издање</title>
+                <title xml:lang='en'>Prince Gradoje of Eagle City: a short story from the time of the battle of Kosovo : ELTeC edition</title>
+                <author ref="viaf:42116339 wikidata:Q8079697">Мијатовић, Чедомиљ (1842-1932)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

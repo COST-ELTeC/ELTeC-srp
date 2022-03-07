@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Синовац : оригинални роман : ELTeC издање</title>
-                <author> Радовић, Димитрије (????-????)</author>
+                <title ref='wikidata:Q109336241'>Синовац : оригинални роман : ELTeC издање</title>
+                <title xml:lang='en'>The nephew: an original novel : ELTeC edition</title>
+                <author ref="wikidata:Q108839326">Радовић, Димитрије (????-????)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Народна библиотека Србије</name>

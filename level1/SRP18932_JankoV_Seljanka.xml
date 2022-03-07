@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Сељанка : приповетка из сеоског живота : ELTeC издање</title>
-                <author ref="viaf:66316956">Веселиновић, Јанко М. (1862-1905)</author>
+                <title ref='wikidata:Q109336237'>Сељанка : приповетка из сеоског живота : ELTeC издање</title>
+                <title xml:lang='en'>Peasant woman: a story from rural life : ELTeC edition</title>
+                <author ref="viaf:66316956 wikidata:Q713652">Веселиновић, Јанко М. (1862-1905)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -49,7 +50,7 @@
                     <author>Веселиновић, Јанко М.</author>
                     <publisher>Отаџбина : књижевност, наука, друштвени живот. ISSN 1450-6580. - Год. 7, књ. 20, св. 78 (1888), стр. 161-176</publisher>
                     <pubPlace>Београд</pubPlace>
-                    <date>1884</date>
+                    <date>1888</date>
                 </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
@@ -2837,7 +2838,7 @@
 <p>— Ја!</p>
 <p>— Еј! ... није умрла него се родила!.... Бог да је прости!</p>
 <p>Пантића кућа не пропаде и ако је се Аница удала за једног богаташа у Поцерини. Живко се ожени и узе домаћинство у своје руке. Љуба и Гаја су му добри помоћници. На послетку ожени и Љуба, и сад имају пуну кућу дечице. Слажу се не може боље бити....</p>
-<p>- КРАЈ -</p>
+<trailer>- КРАЈ -</trailer>
 <gap unit="graphic"/> 
 </div>
 </body>

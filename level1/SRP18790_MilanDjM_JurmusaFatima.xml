@@ -8,8 +8,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Јурмуса и Фатима или Турска сила сама себе једе: прича о ослобођењу шест округа 1832-1834 : ELTeC издање</title>
-                <author ref="viaf:64038897">Милићевић, Милан Ђ. (1831-1908)</author>
+                <title ref='wikidata:Q109336091'>Јурмуса и Фатима или Турска сила сама себе једе: прича о ослобођењу шест округа 1832-1834 : ELTeC издање</title>
+                <title xml:lang='en'>Jurmusa and Fatima or Turkish empire eats itself: the story of the liberation of six districts 1832-1834 : ELTeC edition</title>
+                <author ref="viaf:64038897 wikidata:Q2980829">Милићевић, Милан Ђ. (1831-1908)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

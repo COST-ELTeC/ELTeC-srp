@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Глава шећера : ELTeC издање</title>
-                <author ref="viaf:73846855">Глишић, Милован (1847-1908)</author>
+                <title ref='wikidata:Q109303307'>Глава шећера : ELTeC издање</title>
+                <title xml:lang='en'>Sugar loaf : ELTeC edition</title>
+                <author ref="viaf:73846855 wikidata:Q604086">Глишић, Милован (1847-1908)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Антологија српске књижевности, Учитељски факултет, Универзитет у Београду</name>

@@ -7,8 +7,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Пред зору : роман у два дела : ELTeC издање</title>
-        <author ref="viaf:85154625">Михајловић, Бранко [Љубиша Бранковић] (1857-1918)</author>
+        <title ref='wikidata:Q109336227'>Пред зору : роман у два дела : ELTeC издање</title>
+        <title xml:lang='en'>Before dawn : a novel in two parts : ELTeC edition</title>
+        <author ref="viaf:85154625 wikidata:Q108839328">Михајловић, Бранко [Љубиша Бранковић] (1857-1918)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>

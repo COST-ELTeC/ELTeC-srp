@@ -9,8 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Шумарева ћерка : приповетка из српскога живота / написао К. Б. : ELTeC издање</title>
-                <author ref="viaf:262110860">Поповић, Стеван В. (1845-1918)</author>
+                <title ref='wikidata:Q109336259'>Шумарева ћерка : приповетка из српскога живота / написао С. В. Поповић : ELTeC издање</title>
+                <title xml:lang='en'>Forester's daughter: a short story from Serbian life : ELTeC edition</title>
+                <author ref="viaf:262110860 wikidata:Q1291614">Поповић, Стеван В. (1845-1918)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Библиотека Матице српске</name>

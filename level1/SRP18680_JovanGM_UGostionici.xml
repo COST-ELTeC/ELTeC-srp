@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-    <?xml-model href="../../../../level1/Schemas/eltec-1.rng" type="application/xml"
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../../../level1/Schemas/eltec-1.rng" type="application/xml"
-           schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18680" xml:lang="sr">
         <teiHeader>
                 <fileDesc>
                         <titleStmt>
                                 <title>У гостионици код "Полу-звезде" на имендан шантавог торбара : Приповетка из народног живота : ELTeC издање</title>
-                                <author ref="viaf:37742606">Грчић, Јован Миленко (1846-1875)</author>
+                                <title xml:lang="en">At the "Semi-star" inn on the name day of a lame peddler: a story from folk life : ELTeC edition</title>
+                                <author ref="viaf:37742606 Q13566195">Грчић, Јован Миленко (1846-1875)</author>
                                 <respStmt>
                                         <resp>Сканирање</resp>
                                         <name>Душко Витас и Цветана Крстев</name>

@@ -9,8 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Пастир краљ или Ослобођење Србије : историјска приповетка / написао К. Б. : ELTeC издање</title>
-                <author>Барунчић, Коста (????-????)</author>
+                <title ref='wikidata:Q109336116'>Пастир краљ или Ослобођење Србије : историјска приповетка / написао К. Б. : ELTeC издање</title>
+                <title xml:lang='en'>Shepherd king or the liberation of Serbia : a historical short story/written by K.B.  : ELTeC edition</title>
+                <author ref="wikidata:Q108983662">Барунчић, Коста (????-????)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

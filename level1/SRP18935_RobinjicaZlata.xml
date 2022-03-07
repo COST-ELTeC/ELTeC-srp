@@ -9,8 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Робињица Злата : приповетка из прошлости : ELTeC издање</title>
-                <author>Јовичић, Живојин (1837-1908)</author>
+                <title ref='wikidata:Q109336235'>Робињица Злата : приповетка из прошлости : ELTeC издање</title>
+                <title xml:lang='en'>Slave Zlata: a short story from the past : ELTeC edition</title>
+                <author ref="wikidata:Q108983660">Јовичић, Живојин (1837-1908)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

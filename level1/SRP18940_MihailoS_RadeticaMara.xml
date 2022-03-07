@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Радетића Мара: приповетка из сеоскога живота : ELTeC издање</title>
-                <author ref="viaf:305714513">Сретеновић, Михаило (1866-1934)</author>
+                <title ref='wikidata:Q109336232'>Радетића Мара: приповетка из сеоскога живота : ELTeC издање</title>
+                <title xml:lang='en'>Radetić's Mara: a short story form rural life : ELTeC edition</title>
+                <author ref="viaf:305714513 wikidata:Q108983664">Сретеновић, Михаило (1866-1934)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

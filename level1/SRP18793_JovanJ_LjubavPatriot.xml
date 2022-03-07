@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="../../../../level1/Schemas/eltec-1.rng" type="application/xml"
-           schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../../../level1/Schemas/eltec-1.rng" type="application/xml"
-          schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP18793" xml:lang="sr">
    <teiHeader>
        <fileDesc>
            <titleStmt>
-              <title>Љубав и патриотизам : ELTeC издање</title>
-              <author ref="viaf:235008989">Јеремић, Јован (1860-1931)</author>
+               <title ref='wikidata:Q110814768'>Љубав и патриотизам : ELTeC издање</title>
+               <title xml:lang='en'>Love and patriotism : ELTeC edition</title>
+               <author ref="viaf:235008989 wikidata:Q110813745">Јеремић, Јован (1860-1931)</author>
               <respStmt>
                   <resp>Сканирање</resp>
                   <name>Народна библиотека Србије</name>
@@ -596,7 +597,7 @@
 </div>
 </body>
 <back>
-<div type="notes">
+<div type="notes" xml:id="SRP18793_B1">
 <note xml:id="SRP18793_N1"><p>Тасо: Amore alma è del mondo, amore è mente Che volge in ciel per corso oblipno il sole -</p></note> 
 <note xml:id="SRP18793_N2"><p>Ф. Д. Гвераци.</p></note> 
 <note xml:id="SRP18793_N3"><p>Гвераци.</p></note> 

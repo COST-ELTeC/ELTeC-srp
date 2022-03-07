@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Гмунденско језеро : путничка новела : ELTeC издање</title>
-                <author ref="viaf:106964101">Ђорђевић, Владан (1844-1930)</author>
+                <title ref='wikidata:Q109335979'>Гмунденско језеро : путничка новела : ELTeC издање</title>
+                <title xml:lang='en'>Gmunden lake: a travel novel : ELTeC edition</title>
+                <author ref="viaf:106964101 wikidata:Q701339">Ђорђевић, Владан (1844-1930)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

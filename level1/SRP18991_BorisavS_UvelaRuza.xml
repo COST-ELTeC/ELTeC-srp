@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:310476779">Увела ружа : ELTeC издање</title>
-        <author ref="viaf:76323147">Станковић, Борисав (1876-1927)</author>
+        <title ref="viaf:310476779 wikidata:Q109336249">Увела ружа : ELTeC издање</title>
+        <title xml:lang='en'>Withered rose : ELTeC edition</title>
+        <author ref="viaf:76323147 wikidata:Q370392">Станковић, Борисав (1876-1927)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -82,7 +83,7 @@
   <text>
     <front>
       <pb n="1"/>
-      <div type="titlepage" xml:id="SRP18991_F1">
+      <div type="titlepage" xml:id="SRP18990_F1">
         <p>БОРИСАВ СТАНКОВИЋ</p>
         <p>УВЕЛА РУЖА</p>
         <p>ДРУГО ИЗДАЊЕ</p>
@@ -90,7 +91,7 @@
         <p>КЊИЖАРА С. Б. ЦВИЈАНОВИЋА</p>
        </div>
       <pb n="2"/>
-      <div type="titlepage" xml:id="SRP18991_F2">
+      <div type="titlepage" xml:id="SRP18990_F2">
         <p>НОВА ШТАМПАРИЈА „ДАВИДОВИЋ“, ДЕЧАНСКА 14</p>
        </div>
     </front>

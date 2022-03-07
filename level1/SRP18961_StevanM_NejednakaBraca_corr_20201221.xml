@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Неједнака браћа : приповетка за народ : ELTeC издање</title>
-                <author ref="viaf:128149841986602842118">Мамузић, Стеван (????-????)</author>
+                <title ref='wikidata:Q109336110'>Неједнака браћа : приповетка за народ : ELTeC издање</title>
+                <title xml:lang='en'>Unequal brothers: a short story for the people : ELTeC edition</title>
+                <author ref="viaf:128149841986602842118 wikidata:Q108944907">Мамузић, Стеван (????-????)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Душко Витас и Цветана Крстев</name>

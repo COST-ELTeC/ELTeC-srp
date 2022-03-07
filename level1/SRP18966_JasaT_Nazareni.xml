@@ -9,8 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Назарени : роман : ELTeC издање</title>
-                <author ref="viaf:5742092">Томић, Јаша (1856-1922)</author>
+                <title ref='wikidata:Q109336108'>Назарени : роман : ELTeC издање</title>
+                <title xml:lang='en'>Nazarenes: a novel : ELTeC edition</title>
+                <author ref="viaf:5742092 wikidata:Q6168574">Томић, Јаша (1856-1922)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

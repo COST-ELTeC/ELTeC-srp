@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Горски цар : роман : ELTeC издање</title>
-                <author ref="viaf:29567902">Ранковић, Светолик (1863-1899)</author>
+                <title ref='wikidata:Q109335980'>Горски цар : роман : ELTeC издање</title>
+                <title xml:lang='en'>Forest emperor: a novel : ELTeC edition</title>
+                <author ref="viaf:29567902 wikidata:Q3978508">Ранковић, Светолик (1863-1899)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Антологија српске књижевности, Учитељски факултет, Универзитет у Београду</name>

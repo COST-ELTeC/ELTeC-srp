@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Сањало : ELTeC издање</title>
-                <author ref="viaf:79455054">Поповић-Шапчанин, Милорад (1847-1895) </author>
+                <title ref='wikidata:Q109336236'>Сањало : ELTeC издање</title>
+                <title xml:lang='en'>Dreamer : ELTeC edition</title>
+                <author ref="viaf:79455054 wikidata:Q4806445">Поповић-Шапчанин, Милорад (1847-1895) </author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

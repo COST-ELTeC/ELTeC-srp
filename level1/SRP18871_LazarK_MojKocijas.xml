@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Мој кочијаш : слике 1883 године : ELTeC издање</title>
-                <author ref="viaf:14831335">Комарчић, Лазар (1833-1909)</author>
+                <title ref='wikidata:Q109336107'>Мој кочијаш : слике 1883 године : ELTeC издање</title>
+                <title xml:lang='en'>My coachman: images from the year 1883 : ELTeC edition</title>
+                <author ref="viaf:14831335 wikidata:Q12754437">Комарчић, Лазар (1833-1909)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Калуђер : истина и поезија : ELTeC издање</title>
-                <author ref="viaf:55020645">Суботић, Јован (1817-1886)</author>
+                <title ref='wikidata:Q109336097'>Калуђер : истина и поезија : ELTeC издање</title>
+                <title xml:lang='en'>Monk: truth and poetry : ELTeC edition</title>
+                <author ref="viaf:55020645 wikidata:Q6194671">Суботић, Јован (1817-1886)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>
