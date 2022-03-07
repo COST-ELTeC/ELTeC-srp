@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Фати-султан : ELTeC издање</title>
-        <author ref="viaf:70015495">Димитријевић, Јелена (1862–1945)</author>
+        <title ref='wikidata:Q109336250'>Фати-султан : ELTeC издање</title>
+        <title xml:lang='en'>Fati-Sultan : ELTeC edition</title>
+        <author ref="viaf:70015495 wikidata:Q3625974">Димитријевић, Јелена (1862–1945)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -181,8 +182,8 @@
             <rs type="PERS">
               <w pos="PROPN" lemma="Јока" xml:id="w_SRP19070_28">Јоки</w>
               <w pos="PROPN" lemma="Петровић" xml:id="w_SRP19070_29">Петровић</w>
+              <pc pos="PUNCT" xml:id="w_SRP19070_30">-Његош</pc>
             </rs>
-            <pc pos="PUNCT" xml:id="w_SRP19070_30">-Његош</pc>
           </s>
         </p>
       </div>
@@ -283,8 +284,8 @@
             <w pos="NOUN" lemma="лађа" xml:id="w_SRP19070_94">лађу</w>
             <rs type="PERS">
               <w pos="PROPN" lemma="Ахмед" xml:id="w_SRP19070_95">Ахмед</w>
+              <w pos="PROPN" lemma="-Хафуз" xml:id="w_SRP19070_96" join="right">-Хафуз</w>
             </rs>
-            <w pos="PROPN" lemma="-Хафуз" xml:id="w_SRP19070_96" join="right">-Хафуз</w>
             <pc pos="PUNCT" xml:id="w_SRP19070_97">,</pc>
             <w pos="DET" lemma="тај" xml:id="w_SRP19070_98">то</w>
             <w pos="AUX" lemma="јесам" xml:id="w_SRP19070_99">јест</w>

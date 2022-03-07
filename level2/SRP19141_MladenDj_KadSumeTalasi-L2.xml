@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Кад шуме таласи : ELTeC издање</title>
-        <author ref="viaf:38235595">Ђуричић, Младен Ст. (1889-1987)</author>
+        <title ref='wikidata:Q109336093'>Кад шуме таласи : ELTeC издање</title>
+        <title xml:lang='en'>When waves rustle : ELTeC edition</title>
+        <author ref="viaf:38235595 wikidata:Q14337072">Ђуричић, Младен Ст. (1889-1987)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Народна библиотека Србије</name>

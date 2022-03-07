@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Женидба Пере Карантана : ELTeC издање</title>
-        <author ref="viaf:136335">Ћоровић, Светозар (1875-1919)</author>
+        <title ref='wikidata:Q109336078'>Женидба Пере Карантана : ELTeC издање</title>
+        <title xml:lang='en'>Marriage of Pera Karantan : ELTeC edition</title>
+        <author ref="viaf:136335 wikidata:Q1393103">Ћоровић, Светозар (1875-1919)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>

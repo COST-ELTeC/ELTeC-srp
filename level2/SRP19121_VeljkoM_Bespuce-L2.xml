@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Беспуће : ELTeC издање</title>
-        <author ref="viaf:81151776825018012654">Милићевић, Вељко М. (1886-1929)</author>
+        <title ref="viaf:182747317 wikidata:Q109303303">Беспуће : ELTeC издање</title>
+        <title xml:lang='en'>Wasteland : ELTeC edition</title>
+        <author ref="viaf:81151776825018012654 wikidata:Q12749719">Милићевић, Вељко М. (1886-1929)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -635,8 +636,8 @@
         </p>
         <p xml:id="p_SRP19121_12">
           <s xml:id="s_SRP19121_22">
-            <w pos="PROPN" lemma="Гавра" xml:id="w_SRP19121_458">Гавре</w>
             <rs type="PERS">
+              <w pos="PROPN" lemma="Гавра" xml:id="w_SRP19121_458">Гавре</w>
               <w pos="PROPN" lemma="Ђаковић" xml:id="w_SRP19121_459" join="right">Ђаковић</w>
             </rs>
             <pc pos="PUNCT" xml:id="w_SRP19121_460">,</pc>
@@ -1597,8 +1598,8 @@
         </p>
         <p xml:id="p_SRP19121_18">
           <s xml:id="s_SRP19121_46">
-            <w pos="PROPN" lemma="Гавра" xml:id="w_SRP19121_1329">Гавре</w>
             <rs type="PERS">
+              <w pos="PROPN" lemma="Гавра" xml:id="w_SRP19121_1329">Гавре</w>
               <w pos="PROPN" lemma="Ђаковић" xml:id="w_SRP19121_1330">Ђаковић</w>
             </rs>
             <w pos="PART" lemma="се" xml:id="w_SRP19121_1331">се</w>

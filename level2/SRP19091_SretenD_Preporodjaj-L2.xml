@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Препорођај : ELTeC издање</title>
-        <author ref="viaf:55248036">Динић, Сретен (1875-1949)</author>
+        <title ref='wikidata:Q109336228'>Препорођај : ELTeC издање</title>
+        <title xml:lang='en'>Rebirth : ELTeC edition</title>
+        <author ref="viaf:55248036 wikidata:Q16087986">Динић, Сретен (1875-1949)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
