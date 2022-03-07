@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Из учитељичког живота : ELTeC издање</title>
-        <author ref="viaf:17281658">Гавриловић, Драга (1854-1917)</author>
+        <title ref='wikidata:Q109336083'>Из учитељичког живота : ELTeC издање</title>
+        <title xml:lang='en'>From a teacher's life : ELTeC edition</title>
+        <author ref="viaf:17281658 wikidata:Q31181207">Гавриловић, Драга (1854-1917)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Цветана Крстев и Душко Витас</name>

@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Без оца и мајке : ELTeC издање</title>
-        <author> Радуловић, Пера (????-????)</author>
+        <title ref='wikidata:Q109303301'>Без оца и мајке : ELTeC издање</title>
+        <title xml:lang='en'>Without father and mother : ELTeC edition</title>
+        <author ref="wikidata:Q108839327"> Радуловић, Пера (????-????)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Библиотека Српске академије наука и уметности</name>

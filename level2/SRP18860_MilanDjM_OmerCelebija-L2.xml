@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Омер Челебија : приповијетка из живота српскога народа : ELTeC издање</title>
-        <author ref="viaf:64038897">Милићевић, Милан Ђ. (1831-1908)</author>
+        <title ref='wikidata:Q109336114'>Омер Челебија : приповијетка из живота српскога народа : ELTeC издање</title>
+        <title xml:lang='en'>Omer Celebija : a short story from the life of the Serbian people : ELTeC edition</title>
+        <author ref="viaf:64038897 wikidata:Q2980829">Милићевић, Милан Ђ. (1831-1908)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>

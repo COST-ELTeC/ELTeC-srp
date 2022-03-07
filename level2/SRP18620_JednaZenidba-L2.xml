@@ -6,8 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Једна женидба : слика из живота : ELTeC издање</title>
-        <author ref="viaf:4995002">Игњатовић, Јаков (1822-1889)</author>
+        <title ref='wikidata:Q109336089'>Једна женидба : слика из живота : ELTeC издање</title>
+        <title xml:lang='en'>A wedding: pictures from life : ELTeC edition</title>
+        <author ref="viaf:4995002 wikidata:Q570913">Игњатовић, Јаков (1822-1889)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
