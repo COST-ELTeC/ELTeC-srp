@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Пре среће : ELTeC edition</title>
-                <author ref="viaf:41876311">Јанковић, Милица (1881-1939)</author>
+                <title ref='wikidata:Q109336226'>Пре среће : ELTeC издање</title>
+                <title xml:lang='en'>Before happiness : ELTeC edition</title>
+                <author ref="viaf:41876311 wikidata:Q292905">Јанковић, Милица (1881-1939)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Библиотека Српске академије наука и уметности</name>
@@ -2848,7 +2849,7 @@
                         pomrčine u životu i zagreju i izleče sve groznice zabludelih i ozeblih duša.
                         Oni su mi osvetlili put, pokazali da je život dužnost i da je moja najveća i
                         najlepša dužnost: da volim.</p>
-                    <p>Kraj</p>
+                    <trailer>Kraj</trailer>
                 </div>
             </div>
             <!-- </div> -->

@@ -9,8 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Радиша или какав нам учитељ треба на селу : ELTeC издање</title>
-                <author ref="viaf:37838247">Миодраговић, Јован (1854-1926)</author>
+                <title ref='wikidata:Q109336233'>Радиша или какав нам учитељ треба на селу : ELTeC издање</title>
+                <title xml:lang='en'>Radiša or what kind of teacher we need in the village : ELTeC edition</title>
+                <author ref="viaf:37838247 wikidata:Q65196974">Миодраговић, Јован (1854-1926)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

@@ -7,8 +7,9 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Харамбаша Мицко : српски војвода и заточеник у Фесану : ELTeC издање</title>
-    <author ref="viaf:305715401">Тасић, Димитрије С. (????-????)</author>
+     <title ref='wikidata:Q109336252'>Харамбаша Мицко : српски војвода и заточеник у Фесану : ELTeC издање</title>
+     <title xml:lang='en'>Harambasha Micko: Serbian duke and prisoner in Fesan : ELTeC edition</title>
+     <author ref="viaf:305715401 wikidata:Q108983655">Тасић, Димитрије С. (????-????)</author>
     <respStmt>
      <resp>Сканирање</resp>
      <name>Универзитетска библиотека "Светозар Марковић"</name>

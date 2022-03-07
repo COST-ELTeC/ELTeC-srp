@@ -7,8 +7,9 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>Хаџи-Ђера : приповетка : ELTeC издање</title>
-          <author ref="viaf:79412565"> Илић, Драгутин Ј. (1858–1926)</author>
+          <title ref='wikidata:Q109336254'>Хаџи-Ђера : приповетка : ELTeC издање</title>
+          <title xml:lang='en'>Hadži-Đera: a short novel : ELTeC edition</title>
+          <author ref="viaf:79412565 wikidata:Q16088422"> Илић, Драгутин Ј. (1858–1926)</author>
           <respStmt>
             <resp>Сканирање</resp>
             <name>Универзитетска библиотека "Светозар Марковић"</name>

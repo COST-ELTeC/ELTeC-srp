@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Фати-султан : ELTeC издање</title>
-                <author ref="viaf:70015495">Димитријевић, Јелена (1862–1945)</author>
+                <title ref='wikidata:Q109336250'>Фати-султан : ELTeC издање</title>
+                <title xml:lang='en'>Fati-Sultan : ELTeC edition</title>
+                <author ref="viaf:70015495 wikidata:Q3625974">Димитријевић, Јелена (1862–1945)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

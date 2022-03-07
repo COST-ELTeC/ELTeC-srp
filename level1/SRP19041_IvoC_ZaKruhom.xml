@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>За крухом : ELTeC издање</title>
-                <author ref="viaf:22935492">Ћипико, Иво (1869-1923)</author>
+                <title ref='wikidata:Q109336079'>За крухом : ELTeC издање</title>
+                <title xml:lang='en'>After bread : ELTeC edition</title>
+                <author ref="viaf:22935492 wikidata:Q1276843">Ћипико, Иво (1869-1923)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Антологија српске књижевности, Учитељски факултет, Универзитет у Београду</name>

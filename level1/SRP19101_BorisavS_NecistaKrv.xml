@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="viaf:208715862">Нечиста крв : ELTeC издање</title>
-                <author ref="viaf:76323147">Станковић, Борисав (1876-1927)</author>
+                <title ref="viaf:208715862 wikidata:Q109336111">Нечиста крв : ELTeC издање</title>
+                <title xml:lang='en'>Impure blood : ELTeC edition</title>
+                <author ref="viaf:76323147 wikidata:Q370392">Станковић, Борисав (1876-1927)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

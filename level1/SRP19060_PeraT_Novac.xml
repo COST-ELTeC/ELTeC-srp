@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Новац : роман из београдског живота : ELTeC издање</title>
-                <author ref="viaf:26486103">Талетов, Пера С. (1875-1955)</author>
+                <title ref='wikidata:Q109336112'>Новац : роман из београдског живота : ELTeC издање</title>
+                <title xml:lang='en'>Money: a novel from Belgrade life : ELTeC edition</title>
+                <author ref="viaf:26486103 wikidata:Q108983669">Талетов, Пера С. (1875-1955)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Јарани : приповетка : ELTeC издање</title>
-                <author ref="viaf:136335">Ћоровић, Светозар (1875-1919)</author>
+                <title ref='wikidata:Q109336086'>Јарани : приповетка : ELTeC издање</title>
+                <title xml:lang='en'>Buddies : ELTeC edition</title>
+                <author ref="viaf:136335 wikidata:Q1393103">Ћоровић, Светозар (1875-1919)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -2406,7 +2407,7 @@
 <p>И стиснувши ме за руку, снажно затресе њоме и лагано изађе из авлије.</p>
 <milestone unit="subSection"/>
 <p>Исте ноћи, око јације, убио је Зулфагу и наредио мајки да пријеђе мени, јер је читаво његово имање опет остало њојзи. Двадесети дан погинуо је у Дузи.</p>
-<p>1911.</p>
+<trailer>1911.</trailer>
 </div>
 </body>
 </text>

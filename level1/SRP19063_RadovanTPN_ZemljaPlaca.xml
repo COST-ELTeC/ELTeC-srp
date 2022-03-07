@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="../../../level1/Schemas/eltec-1.rng" type="application/xml"
-           schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../../level1/Schemas/eltec-1.rng" type="application/xml"
-          schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19063" xml:lang="sr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Из земље плача : ELTeC издање</title>
-                <author ref="viaf:305581066">Тунгуз-Перовић, Радован (1879-1944)</author>
+                <title ref='wikidata:Q110814344'>Из земље плача : ELTeC издање</title>
+                <title xml:lang='en'>From the land of crying : ELTeC edition</title>
+                <author ref="viaf:305581066 wikidata:Q110813765">Тунгуз-Перовић, Радован (1879-1944)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Народна библиотека Србије</name>
@@ -64,7 +65,7 @@
 <text>
 <front>
 <pb n="1"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19063_F1">
 <p>РАДОВАН ТУНГУЗ-ПЕРОВИЋ НЕВЕСИЊСКИ</p>
 <p>ИЗ ЗЕМЉЕ ПЛАЧА</p>
 <p>Српска Краљевска Академија</p>
@@ -73,7 +74,7 @@
 <p>БЕОГРАД, 1906.</p>
 </div>
 <pb n="2"/>
-<div type="titlepage">
+<div type="titlepage" xml:id="SRP19063_F2">
 <p>ШТАМПАРИЈА „ДОСИТИЈЕ ОБРАДОВИЋ“</p>
 </div>
 </front>

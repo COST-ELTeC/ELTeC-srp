@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Калуђер и хајдук : приповетка о последњим данима Србије у XV веку : ELTeC издање</title>
-                <author ref="viaf:64052399">Новаковић, Стојан (1842-1915)</author>
+                <title ref='wikidata:Q109336096'>Калуђер и хајдук : приповетка о последњим данима Србије у XV веку : ELTeC издање</title>
+                <title xml:lang='en'>A monk and a hajduk: a short story about the last days of Serbia in the 15th century : ELTeC edition</title>
+                <author ref="viaf:64052399 wikidata:Q1276512">Новаковић, Стојан (1842-1915)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

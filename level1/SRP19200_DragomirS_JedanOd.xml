@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Један од многих : роман из престоничког живота : ELTeC издање</title>
-                <author>Шишковић, Драгомир (????-????)</author>
+                <title ref='wikidata:Q109336087'>Један од многих : роман из престоничког живота : ELTeC издање</title>
+                <title xml:lang='en'>One of many: a novel from the life of the capital : ELTeC edition</title>
+                <author ref="Q108983656">Шишковић, Драгомир (????-????)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Душко Витас и Цветана Крстев</name>

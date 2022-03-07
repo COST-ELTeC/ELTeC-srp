@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="viaf:8035151656335508400003">Пауци : ELTeC издање</title>
-                <author ref="viaf:22935492">Ћипико, Иво (1869-1923)</author>
+                <title ref="viaf:8035151656335508400003 wikidata:Q109336118">Пауци : ELTeC издање</title>
+                <title xml:lang='en'>Spiders : ELTeC edition</title>
+                <author ref="viaf:22935492 wikidata:Q1276843">Ћипико, Иво (1869-1923)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

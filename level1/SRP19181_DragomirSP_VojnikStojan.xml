@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?> -->
-<?xml-model href="../../../level1/Schemas/eltec-1.rng" type="application/xml"
-           schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../../level1/Schemas/eltec-1.rng" type="application/xml"
-          schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SRP19181" xml:lang="sr">
 <teiHeader>
     <fileDesc>
          <titleStmt>
-                   <title>Војник Стојан : недовршен ратни роман : ELTeC издање</title>
-                   <author ref="viaf:1585145856998122920810">Петровић, Драгомир С.</author>
+             <title ref='wikidata:Q110814770'>Војник Стојан : недовршен ратни роман : ELTeC издање</title>
+             <title xml:lang='en'>Soldier Stojan: an unfinished war novel : ELTeC edition</title>
+             <author ref="viaf:1585145856998122920810 wikidata:Q110813722">Петровић, Драгомир С.</author>
                    <respStmt>
                        <resp>Сканирање</resp>
                        <name>Народна библиотека Србије</name>

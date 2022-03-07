@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Славко : ELTeC издање</title>
-                <author ref="viaf:252838823">Ранковић, Драгутин Ј. (1882-1956)</author>
+                <title ref='wikidata:Q109336242'>Славко : ELTeC издање</title>
+                <title xml:lang='en'>Slavko : ELTeC edition</title>
+                <author ref="viaf:252838823 wikidata:Q108983658">Ранковић, Драгутин Ј. (1882-1956)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Душко Витас и Цветана Крстев</name>

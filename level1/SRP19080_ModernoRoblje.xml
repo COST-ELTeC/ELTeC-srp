@@ -9,8 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Модерно робље : роман из живота босанских Срба : ELTeC издање</title>
-                <author>Петровић, Бошко Ст. (1869-1913)</author>
+                <title ref='wikidata:Q109336106'>Модерно робље : роман из живота босанских Срба : ELTeC издање</title>
+                <title xml:lang='en'>Modern slavery: a novel from the life of Bosnian Serbs : ELTeC edition</title>
+                <author ref="wikidata:Q108979610">Петровић, Бошко Ст. (1869-1913)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

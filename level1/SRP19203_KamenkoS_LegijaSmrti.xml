@@ -9,8 +9,9 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Легија смрти : роман из Балканског рата 1912/1913. (написао Бранислав Јуришић) : ELTeC издање</title>
-				<author ref="viaf:184145541835596601348">Суботић, Каменко (1870-1932)</author>
+				<title ref='wikidata:Q109336102'>Легија смрти : роман из Балканског рата 1912/1913. (написао Бранислав Јуришић) : ELTeC издање</title>
+				<title xml:lang='en'>Legion of death: a novel from the Balkan War 1912/1913. (written by Branislav Jurišić) : ELTeC edition</title>
+				<author ref="viaf:184145541835596601348 wikidata:Q61131309">Суботић, Каменко (1870-1932)</author>
 				<respStmt>
 					<resp>Сканирање</resp>
 					<name>Народна библиотека Србије</name>
@@ -7883,7 +7884,7 @@
 	<l>А Срб’ је јунак</l>
 	<l>Јуначка крв...</l>
 </quote>
-<p>КРАЈ.</p>
+<trailer>КРАЈ.</trailer>
 </div>
 </body>
 <back>

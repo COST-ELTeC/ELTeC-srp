@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="viaf:175915304">Страдија. 1 : ELTeC издање</title>
-                <author ref="viaf:7623303">Домановић, Радоје М. (1873-1908)</author>
+                <title ref="viaf:175915304 wikidata:Q109336246">Страдија. 1 : ELTeC издање</title>
+                <title xml:lang='en'>Stradija : ELTeC edition</title>
+                <author ref="viaf:7623303 wikidata:Q1280278">Домановић, Радоје М. (1873-1908)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

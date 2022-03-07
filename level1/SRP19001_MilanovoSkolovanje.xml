@@ -9,8 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Миланово школовање : ELTeC издање</title>
-                <author>Тутуновић, Радојица В. (????-????)</author>
+                <title ref='wikidata:Q109336105'>Миланово школовање : ELTeC издање</title>
+                <title xml:lang='en'>Milan's schooling : ELTeC edition</title>
+                <author ref="wikidata:Q108983670">Тутуновић, Радојица В. (????-????)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

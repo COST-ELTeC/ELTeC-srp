@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Злочин једне свекрве : криминална приповетка : из скоре прошлости / по аутентичним податцима и судским актима написао К. Д. Јездић : ELTeC издање</title>
-                <author ref="viaf:58399970"> Јездић, Коста Д. (1853-1930)</author>
+                <title ref='wikidata:Q109336080'>Злочин једне свекрве : криминална приповетка : из скоре прошлости / по аутентичним податцима и судским актима написао К. Д. Јездић : ELTeC издање</title>
+                <title xml:lang='en'>The crime of a mother-in-law: a crime short story: from the recent past/written by K. D. Rider according to authentic data and court acts  : ELTeC edition</title>
+                <author ref="viaf:58399970 wikidata:Q108983663"> Јездић, Коста Д. (1853-1930)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

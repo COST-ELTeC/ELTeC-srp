@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>У ћелијама : ELTeC издање</title>
-                <author ref="viaf:136335">Ћоровић, Светозар (1875-1919)</author>
+                <title ref='wikidata:Q109336247'>У ћелијама : ELTeC издање</title>
+                <title xml:lang='en'>In the cells : ELTeC edition</title>
+                <author ref="viaf:136335 wikidata:Q1393103">Ћоровић, Светозар (1875-1919)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

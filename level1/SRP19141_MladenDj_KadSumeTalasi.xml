@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Кад шуме таласи : ELTeC издање</title>
-                <author ref="viaf:38235595">Ђуричић, Младен Ст. (1889-1987)</author>
+                <title ref='wikidata:Q109336093'>Кад шуме таласи : ELTeC издање</title>
+                <title xml:lang='en'>When waves rustle : ELTeC edition</title>
+                <author ref="viaf:38235595 wikidata:Q14337072">Ђуричић, Младен Ст. (1889-1987)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Народна библиотека Србије</name>
@@ -310,8 +311,8 @@
 <p>— Млади колега, шта су Вам све до сад напричали таласи?</p>
 <p>Он се трже и скочи, погледа свог старог и доброг капетана и с тужним осмехом рече:</p>
 <p>— Једну сетну причу: Зашто брзо гину водени цветови?....</p>
-    <p>маја 1914. </p>
-    <p>Београд.</p>
+    <trailer>маја 1914. </trailer>
+    <trailer>Београд.</trailer>
 </div>
 </body>
 </text>

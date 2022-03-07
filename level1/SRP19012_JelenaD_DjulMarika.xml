@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ђул-Марикина прикажња : приповетка : ELTeC издање</title>
-                <author ref="viaf:70015495">Димитријевић, Јелена (1862–1945)</author>
+                <title ref='wikidata:Q109336076'>Ђул-Марикина прикажња : приповетка : ELTeC издање</title>
+                <title xml:lang='en'>Jul-Marika's narrative: a short story : ELTeC edition</title>
+                <author ref="viaf:70015495 wikidata:Q3625974">Димитријевић, Јелена (1862–1945)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Дигитална библиотека Народне библиотеке Крушевац</name>

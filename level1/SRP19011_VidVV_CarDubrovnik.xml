@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Причек Цара Душана у Дубровнику год. 1349. : историчка новела из XIVв. : ELTeC издање</title>
-                <author ref="viaf:303498941">Вулетић-Вукасовић, Вид (1853-1933)</author>
+                <title ref='wikidata:Q109336229'>Причек Цара Душана у Дубровнику год. 1349. : историчка новела из XIVв. : ELTeC издање</title>
+                <title xml:lang='en'>Reception of Emperor Dušan in Dubrovnik in 1349 : a historical novella from the 14th century : ELTeC edition</title>
+                <author ref="viaf:303498941 wikidata:Q7927613">Вулетић-Вукасовић, Вид (1853-1933)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

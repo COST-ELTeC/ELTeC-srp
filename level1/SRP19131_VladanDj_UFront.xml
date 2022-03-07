@@ -7,8 +7,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>У фронт : приповетка из живота једног бившег краља : ELTeC издање</title>
-                <author ref="viaf:106964101">Ђорђевић, Владан (1844-1930)</author>
+                <title ref='wikidata:Q109336248'>У фронт : приповетка из живота једног бившег краља : ELTeC издање</title>
+                <title xml:lang='en'>To the front: a short story from the life of a former king : ELTeC edition</title>
+                <author ref="viaf:106964101 wikidata:Q701339">Ђорђевић, Владан (1844-1930)</author>
                 <respStmt>
                     <resp>Сканирање</resp>
                     <name>Универзитетска библиотека "Светозар Марковић"</name>

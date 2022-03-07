@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ђакон Богородичине цркве : ELTeC издање</title>
-        <author ref="viaf:4943681">Секулић, Исидора (1877-1958)</author>
+        <title ref='wikidata:Q109336075'>Ђакон Богородичине цркве : ELTeC издање</title>
+        <title xml:lang='en'>Deacon of the Church of the Mother of God : ELTeC edition</title>
+        <author ref="viaf:4943681 wikidata:Q1279865">Секулић, Исидора (1877-1958)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
