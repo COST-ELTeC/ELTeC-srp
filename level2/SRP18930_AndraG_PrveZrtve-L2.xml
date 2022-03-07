@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Прве жртве: приповетка из српске прошлости : ELTeC издање</title>
-        <author ref="viaf:14822825">Гавриловић, Андра (1864-1929)</author>
+        <title ref='wikidata:Q109336124'>Прве жртве: приповетка из српске прошлости : ELTeC издање</title>
+        <title xml:lang='en'>The first victims: a story from the Serbian past : ELTeC edition</title>
+        <author ref="viaf:14822825 wikidata:Q4754652">Гавриловић, Андра (1864-1929)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>

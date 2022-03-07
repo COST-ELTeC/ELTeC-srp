@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Иконија везирова мајка: приповетка из XVII века : ELTeC издање</title>
-        <author ref="viaf:42116339">Мијатовић, Чедомиљ (1842-1932)</author>
+        <title ref='wikidata:Q109336085'>Иконија везирова мајка: приповетка из XVII века : ELTeC издање</title>
+        <title xml:lang='en'>Ikonija, vizier's mother: a short story from 17th century : ELTeC edition</title>
+        <author ref="viaf:42116339 wikidata:Q8079697">Мијатовић, Чедомиљ (1842-1932)</author>
         <respStmt>
           <resp>OCR и корекција текста</resp>
           <name>Цветана Крстев</name>

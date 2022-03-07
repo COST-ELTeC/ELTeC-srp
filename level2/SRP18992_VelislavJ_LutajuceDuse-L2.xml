@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Лутајуће душе : приповетка за поуку : намењено задругарству : ELTeC издање</title>
-        <author>Јањић, Велислав (????-????)</author>
+        <title ref='wikidata:Q109336103'>Лутајуће душе : приповетка за поуку : намењено задругарству : ELTeC издање</title>
+        <title xml:lang='en'>Wandering souls: an edifying short story: intended for cooperatives : ELTeC edition</title>
+        <author ref="wikidata:Q107204161">Јањић, Велислав (????-????)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Душко Витас и Цветана Крстев</name>

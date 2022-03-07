@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Србин и Хрватица или љубав и народност : роман : Из народносних размирица Срба и Хрвата у Загребу : ELTeC издање</title>
-        <author ref="viaf:94150747024316301259">Рогић, Душан (1855-????)</author>
+        <title ref='wikidata:Q109336245'>Србин и Хрватица или љубав и народност : роман : Из народносних размирица Срба и Хрвата у Загребу : ELTeC издање</title>
+        <title xml:lang='en'>A Serb and a Croat woman or love and nationality: novel: from national disputes between Serbs and Croats in Zagreb : ELTeC edition</title>
+        <author ref="viaf:94150747024316301259 wikidata:Q108983659">Рогић, Душан (1855-????)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Народна библиотека Србије</name>
@@ -115,7 +116,7 @@
             <w pos="ADP" lemma="из" xml:id="w_SRP18921_9">Из</w>
             <w pos="ADJ" lemma="народносни" xml:id="w_SRP18921_10">народносних</w>
             <w pos="NOUN" lemma="размирица" xml:id="w_SRP18921_11">размирица</w>
-            <rs type="PERS">
+            <rs type="DEMO">
               <w pos="PROPN" lemma="Срба" xml:id="w_SRP18921_12">Срба</w>
             </rs>
             <w pos="CCONJ" lemma="и" xml:id="w_SRP18921_13">и</w>

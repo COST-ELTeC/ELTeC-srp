@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Гила : новела из сеоског живота : ELTeC издање</title>
-        <author ref="viaf:1325145856883922920245">Поповић, Тодор Љ. (1870-1957)</author>
+        <title ref='wikidata:Q109303306'>Гила : новела из сеоског живота : ELTeC издање</title>
+        <title xml:lang='en'>Gila: a novella from rural life : ELTeC edition</title>
+        <author ref="viaf:1325145856883922920245 wikidata:Q108983685">Поповић, Тодор Љ. (1870-1957)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -176,8 +177,8 @@
             <pc pos="PUNCT" xml:id="w_SRP19010_29">,</pc>
             <rs type="PERS">
               <w pos="PROPN" lemma="Луј" xml:id="w_SRP19010_30">Луја</w>
+              <w pos="PROPN" lemma="Бартуа" xml:id="w_SRP19010_31">Бартуа</w>
             </rs>
-            <w pos="PROPN" lemma="Бартуа" xml:id="w_SRP19010_31">Бартуа</w>
             <w pos="PROPN" lemma="бр" xml:id="w_SRP19010_32" join="right">бр</w>
             <pc pos="PUNCT" xml:id="w_SRP19010_33">.</pc>
             <w pos="NUM" lemma="@card@" xml:id="w_SRP19010_34">3</w>

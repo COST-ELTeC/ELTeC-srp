@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Причек Цара Душана у Дубровнику год. 1349. : историчка новела из XIVв. : ELTeC издање</title>
-        <author ref="viaf:303498941">Вулетић-Вукасовић, Вид (1853-1933)</author>
+        <title ref='wikidata:Q109336229'>Причек Цара Душана у Дубровнику год. 1349. : историчка новела из XIVв. : ELTeC издање</title>
+        <title xml:lang='en'>Reception of Emperor Dušan in Dubrovnik in 1349 : a historical novella from the 14th century : ELTeC edition</title>
+        <author ref="viaf:303498941 wikidata:Q7927613">Вулетић-Вукасовић, Вид (1853-1933)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
@@ -187,8 +188,8 @@
             <w pos="AUX" lemma="хтети" xml:id="w_SRP19011_35" join="right">ће</w>
             <pc pos="PUNCT" xml:id="w_SRP19011_36">,</pc>
             <w pos="ADP" lemma="о" xml:id="w_SRP19011_37">о</w>
-            <w pos="ADJ" lemma="мали" xml:id="w_SRP19011_38">Малој</w>
-            <rs type="PERS">
+            <rs type="EVENT">
+              <w pos="ADJ" lemma="мали" xml:id="w_SRP19011_38">Малој</w>
               <w pos="PROPN" lemma="Госпа" xml:id="w_SRP19011_39" join="right">Госпи</w>
             </rs>
             <pc pos="PUNCT" xml:id="w_SRP19011_40">,</pc>

@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Један разорен ум : ELTeC издање</title>
-        <author ref="viaf:14831335">Комарчић, Лазар (1833-1909)</author>
+        <title ref='wikidata:Q109336088'>Један разорен ум : ELTeC издање</title>
+        <title xml:lang='en'>A ruined mind : ELTeC edition</title>
+        <author ref="viaf:14831335 wikidata:Q12754437">Комарчић, Лазар (1833-1909)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>

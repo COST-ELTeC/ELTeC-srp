@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Даница : роман из београдског живота : ELTeC издање</title>
-        <author ref="viaf:68773127">Јевтића, Стевана Ј. (1854-1904)</author>
+        <title ref='wikidata:Q109335983'>Даница : роман из београдског живота : ELTeC издање</title>
+        <title xml:lang='en'>Danica: a novel from Belgrade life : ELTeC edition</title>
+        <author ref="viaf:68773127">Јевтић, Стеван Ј. (1854-1904)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Народна библиотека Србије</name>

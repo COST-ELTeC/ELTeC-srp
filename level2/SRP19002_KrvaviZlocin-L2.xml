@@ -9,8 +9,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Крвави злочин у браку без љубави : ELTeC издање</title>
-        <author>Кара-Радовановић, Павле (????-????)</author>
+        <title ref='wikidata:Q109336101'>Крвави злочин у браку без љубави : ELTeC издање</title>
+        <title xml:lang='en'>A bloody crime in a loveless marriage : ELTeC edition</title>
+        <author ref="wikidata:Q108983666">Кара-Радовановић, Павле (????-????)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Народна библиотека Србије</name>

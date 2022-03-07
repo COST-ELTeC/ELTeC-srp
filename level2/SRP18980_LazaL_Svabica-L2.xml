@@ -8,8 +8,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Швабица : ELTeC издање</title>
-        <author ref="viaf:17270562">Лазаревић, Лаза К. (1851-1891)</author>
+        <title ref='wikidata:Q109336257'>Швабица : ELTeC издање</title>
+        <title xml:lang='en'>Swabian women : ELTeC edition</title>
+        <author ref="viaf:17270562 wikidata:Q975807">Лазаревић, Лаза К. (1851-1891)</author>
         <respStmt>
           <resp>Сканирање</resp>
           <name>Универзитетска библиотека "Светозар Марковић"</name>
