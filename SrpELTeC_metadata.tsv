@@ -1,101 +1,108 @@
 file	ID	titleStmt_author	titleStmt_title	author_birth	author_death	titleStmt_author_viaf	firstEdition_date	titleStmt_title_viaf	language	words	authorGender	size	reprintCount	timeSlot
-SRP18520_BogobojA_DvaIdola.xml	SRP18520	Атанацковић, Богобој 	Два идола : ELTeC издање	1826	1858	viaf:8970679	1852		српски	44207	M	short	high	T1
-SRP18590_JakovI_DjuradjB.xml	SRP18590	Игњатовић, Јаков 	Ђурађ Бранковић : историческиј роман : ELTeC издање	1822	1889	viaf:4995002	1859		српски	97481	M	medium	low	T1
-SRP18620_JednaZenidba.xml	SRP18620	Игњатовић, Јаков 	Једна женидба : слика из живота : ELTeC издање	1822	1889	viaf:4995002	1862		српски	20858	M	short	high	T2
-SRP18630_JakovI_MilanN.xml	SRP18630	Игњатовић, Јаков 	Милан Наранџић : ELTeC издање	1822	1889	viaf:4995002	1863		српски	88117	M	medium	high	T2
-SRP18631_VladanDj_KocinaKrajna.xml	SRP18631	Ђорђевић, Владан 	Кочина крајина : историјски роман : ELTeC издање	1844	1930	viaf:106964101	1863		српски	66347	M	medium	low	T2
-SRP18690_GmundenskoJezero.xml	SRP18690	Ђорђевић, Владан 	Гмунденско језеро : путничка новела : ELTeC издање	1844	1930	viaf:106964101	1869		српски	36543	M	short	low	T2
+SRP18520_BogobojA_DvaIdola.xml	SRP18520	Атанацковић, Богобој 	Два идола : ELTeC издање	1826	1858	viaf:8970679 	1852		српски	44207	M	short	high	T1
+SRP18590_JakovI_DjuradjB.xml	SRP18590	Игњатовић, Јаков 	Ђурађ Бранковић : историческиј роман : ELTeC издање	1822	1889	viaf:4995002 	1859		српски	97481	M	medium	low	T1
+SRP18620_JednaZenidba.xml	SRP18620	Игњатовић, Јаков 	Једна женидба : слика из живота : ELTeC издање	1822	1889	viaf:4995002 	1862		српски	20858	M	short	high	T2
+SRP18630_JakovI_MilanN.xml	SRP18630	Игњатовић, Јаков 	Милан Наранџић : ELTeC издање	1822	1889	viaf:4995002 	1863		српски	88117	M	medium	high	T2
+SRP18631_VladanDj_KocinaKrajna.xml	SRP18631	Ђорђевић, Владан 	Кочина крајина : историјски роман : ELTeC издање	1844	1930	viaf:106964101 	1863		српски	66347	M	medium	low	T2
+SRP18680_JovanGM_UGostionici.xml	SRP18680	Грчић, Јован Миленко 	У гостионици код "Полу-звезде" на имендан шантавог торбара : Приповетка из народног живота : ELTeC издање	1846	1875	viaf:37742606 Q13566195	1868		српски	19320	M	short	high	T2
+SRP18690_GmundenskoJezero.xml	SRP18690	Ђорђевић, Владан 	Гмунденско језеро : путничка новела : ELTeC издање	1844	1930	viaf:106964101 	1869		српски	36543	M	short	low	T2
 SRP18691_PantaP_KakavJeKo.xml	SRP18691	Поповић, Панта 	Какав је ко онако му и бива : приповетка из народна живота / написао за народ Панта Поповић : ELTeC издање	1843	1918		1869		српски	31620	M	short	low	T2
-SRP18730_JovanS_Kaludjer.xml	SRP18730	Суботић, Јован 	Калуђер : истина и поезија : ELTeC издање	1817	1886	viaf:55020645	1874		српски	64724	M	medium	low	T2
-SRP18740_DjuraJ_Seljaci.xml	SRP18740	Јакшић, Ђура 	Сељаци : приповетка из сеоског живота, из године 1857. : ELTeC издање	1832	1878	viaf:47570198	1874		српски	14247	M	short	high	T2
-SRP18750_JakovI_VasaRespekt.xml	SRP18750	Игњатовић, Јаков 	Васа Решпект : ELTeC издање	1822	1889	viaf:4995002	1875	viaf:4597155566462213380006	српски	48661	M	short	high	T2
-SRP18751_MilivanG_GlavaSecera.xml	SRP18751	Глишић, Милован 	Глава шећера : ELTeC издање	1847	1908	viaf:73846855	1875		српски	11035	M	short	high	T2
-SRP18752_PeraR_BezOcaMajke.xml	SRP18752	Радуловић, Пера 	Без оца и мајке : ELTeC издање	????	????		1875		српски	29321	M	short	low	T2
-SRP18760_DjuraJ_CicaTima.xml	SRP18760	Јакшић, Ђура 	Чича Тима : приповетка из учитељског живота : ELTeC издање	1832	1878	viaf:47570198	1876		српски	29793	M	short	low	T2
-SRP18780_BrankoM_PredZoru.xml	SRP18780	Михајловић, Бранко [Љубиша Бранковић] 	Пред зору : роман у два дела : ELTeC издање	1857	1918	viaf:85154625	1878		српски	57165	M	medium	low	T2
-SRP18790_MilanDjM_JurmusaFatima.xml	SRP18790	Милићевић, Милан Ђ. 	Јурмуса и Фатима или Турска сила сама себе једе: прича о ослобођењу шест округа 1832-1834 : ELTeC издање	1831	1908	viaf:64038897	1879		српски	18012	M	short	low	T2
-SRP18791_KostaB_PastirKralj.xml	SRP18791	Барунчић, Коста 	Пастир краљ или Ослобођење Србије : историјска приповетка / написао К. Б. : ELTeC издање	????	????		1879		српски	32447	M	short	low	T2
-SRP18800_DragocenaOgrlica.xml	SRP18800	Комарчић, Лазар 	Драгоцена огрлица: прича у своје време : ELTeC издање	1833	1909	viaf:14831335	1880		српски	51104	M	medium	low	T3
-SRP18810_MilanDjM_DesetPara.xml	SRP18810	Милићевић, Милан Ђ. 	Десет пара: прича из живота у вароши : ELTeC издање	1831	1908	viaf:64038897	1881		српски	10095	M	short	low	T3
-SRP18821_NikolaVDj_KavaljerLaza.xml	SRP18821	Ђорић, Никола В. 	Каваљер Лаза : карактерна црта из друштвеног живота : ELTeC издање	1859	1913	viaf:22163155990601312095	1882		српски	10970	M	short	low	T3
-SRP18840_DraginjaG_IzUcitZivota.xml	SRP18840	Гавриловић, Драга 	Из учитељичког живота : ELTeC издање	1854	1917	viaf:17281658	1884		српски	18652	F	short	high	T3
-SRP18860_MilanDjM_OmerCelebija.xml	SRP18860	Милићевић, Милан Ђ. 	Омер Челебија : приповијетка из живота српскога народа : ELTeC издање	1831	1908	viaf:64038897	1886		српски	33284	M	short	low	T3
-SRP18870_DraginjaG_Babadevojka.xml	SRP18870	Гавриловић, Драга 	Бабадевојка : ELTeC издање	1854	1917	viaf:17281658	1887		српски	19350	F	short	high	T3
-SRP18871_LazarK_MojKocijas.xml	SRP18871	Комарчић, Лазар 	Мој кочијаш : слике 1883 године : ELTeC издање	1833	1909	viaf:14831335	1887		српски	62835	M	medium	low	T3
-SRP18880_Sapcanin_Sanjalo.xml	SRP18880	Поповић-Шапчанин, Милорад 	Сањало : ELTeC издање	1847	1895	viaf:79455054	1888		српски	44760	M	short	low	T3
-SRP18881_PavleMA_DuhVremena.xml	SRP18881	Марковић Адамов, Павле 	Дух времена сад је таки! : ELTeC издање	1855	1907	viaf:63747033	1888		српски	34956	M	short	low	T3
-SRP18882_StevanVP_SumarevaCerka.xml	SRP18882	Поповић, Стеван В. 	Шумарева ћерка : приповетка из српскога живота / написао К. Б. : ELTeC издање	1845	1918	viaf:262110860	1888		српски	61971	M	medium	low	T3
-SRP18890_DraginjaG_DevRoman.xml	SRP18890	Гавриловић, Драга 	Девојачки роман : ELTeC издање	1854	1917	viaf:17281658	1889		српски	50732	F	medium	high	T3
-SRP18891_JankoV_Borci.xml	SRP18891	Веселиновић, Јанко М. 	Борци : роман из сеоског живота. Свеска 1 : ELTeC издање	1862	1905	viaf:66316956	1889		српски	34683	M	short	high	T3
-SRP18892_PeraTod_SilazakSPrestola.xml	SRP18892	Тодоровић, Пера 	Силазак с престола : роман / написао Карио Амурели : ELTeC издање	1852	1907	viaf:2788090	1889		српски	140344	M	long	low	T3
-SRP18910_CyedomirM_Ikonija.xml	SRP18910	Мијатовић, Чедомиљ 	Иконија везирова мајка: приповетка из XVII века : ELTeC издање	1842	1932	viaf:42116339	1891		српски	23508	M	short	low	T3
-SRP18911_StevanJJ_Danica.xml	SRP18911	Јевтића, Стевана Ј. 	Даница : роман из београдског живота : ELTeC издање	1854	1904	viaf:68773127	1891		српски	33463	M	short	low	T3
-SRP18920_RajkoOdRasine.xml	SRP18920	Мијатовић, Чедомиљ 	Рајко од Расине: приповетка с краја XVII века : ELTeC издање	1842	1932	viaf:42116339	1892		српски	41500	M	short	low	T3
-SRP18921_DusanR_SrbinHrvatica.xml	SRP18921	Рогић, Душан 	Србин и Хрватица или љубав и народност : роман : Из народносних размирица Срба и Хрвата у Загребу : ELTeC издање	1855	????	viaf:94150747024316301259	1892		српски	10333	M	short	low	T3
-SRP18922_SimoM_Bakonja.xml	SRP18922	Матавуљ, Симо 	Бакоња фра-Брне : његово ђаковање и постриг : ELTeC издање	1852	1908	viaf:22201524	1892	viaf:3724151656276608400000	српски	55285	M	medium	high	T3
-SRP18923_NN_BeogradskeTajne.xml	SRP18923	Непознат	Београдске тајне : историски роман из српске прошлости, с краја прошлог века!. Св. 1 : ELTeC издање				1892		српски	131254	X	long	low	T3
-SRP18930_AndraG_PrveZrtve.xml	SRP18930	Гавриловић, Андра 	Прве жртве: приповетка из српске прошлости : ELTeC издање	1864	1929	viaf:14822825	1893		српски	36654	M	short	low	T3
-SRP18932_JankoV_Seljanka.xml	SRP18932	Веселиновић, Јанко М. 	Сељанка : приповетка из сеоског живота : ELTeC издање	1862	1905	viaf:66316956	1884		српски	41635	M	short	high	T3
-SRP18933_PeraTod_SmrtKaradjordja.xml	SRP18933	Тодоровић, Пера 	Смрт Карађорђева : историски роман из недавне прошлости : ELTeC издање	1852	1907	viaf:2788090	1893		српски	78820	M	medium	high	T3
-SRP18934_LazarK_1RazorenUm.xml	SRP18934	Комарчић, Лазар 	Један разорен ум : ELTeC издање	1833	1909	viaf:14831335	1893		српски	36400	M	short	high	T3
+SRP18730_JovanS_Kaludjer.xml	SRP18730	Суботић, Јован 	Калуђер : истина и поезија : ELTeC издање	1817	1886	viaf:55020645 	1874		српски	64724	M	medium	low	T2
+SRP18740_DjuraJ_Seljaci.xml	SRP18740	Јакшић, Ђура 	Сељаци : приповетка из сеоског живота, из године 1857. : ELTeC издање	1832	1878	viaf:47570198 	1874		српски	14247	M	short	high	T2
+SRP18741_DjuraJ_Banacanka.xml	SRP18741	Јакшић, Ђура 	Сирота Банаћанка : ELTeC издање	1832	1878	viaf:47570198 	1875		српски	11223	M	short	high	T2
+SRP18750_JakovI_VasaRespekt.xml	SRP18750	Игњатовић, Јаков 	Васа Решпект : ELTeC издање	1822	1889	viaf:4995002 	1875	viaf:4597155566462213380006 	српски	48661	M	short	high	T2
+SRP18751_MilivanG_GlavaSecera.xml	SRP18751	Глишић, Милован 	Глава шећера : ELTeC издање	1847	1908	viaf:73846855 	1875		српски	11035	M	short	high	T2
+SRP18752_PeraR_BezOcaMajke.xml	SRP18752	Радуловић, Пера 	Без оца и мајке : ELTeC издање	????	?		1875		српски	29321	M	short	low	T2
+SRP18760_DjuraJ_CicaTima.xml	SRP18760	Јакшић, Ђура 	Чича Тима : приповетка из учитељског живота : ELTeC издање	1832	1878	viaf:47570198 	1876		српски	29793	M	short	low	T2
+SRP18780_BrankoM_PredZoru.xml	SRP18780	Михајловић, Бранко [Љубиша Бранковић] 	Пред зору : роман у два дела : ELTeC издање	1857	1918	viaf:85154625 	1878		српски	57165	M	medium	low	T2
+SRP18790_MilanDjM_JurmusaFatima.xml	SRP18790	Милићевић, Милан Ђ. 	Јурмуса и Фатима или Турска сила сама себе једе: прича о ослобођењу шест округа 1832-1834 : ELTeC издање	1831	1908	viaf:64038897 	1879		српски	18012	M	short	low	T2
+SRP18791_KostaB_PastirKralj.xml	SRP18791	Барунчић, Коста 	Пастир краљ или Ослобођење Србије : историјска приповетка / написао К. Б. : ELTeC издање	????	?		1879		српски	32447	M	short	low	T2
+SRP18792_MilanDjM_Hajduci.xml	SRP18792	Милићевић, Милан Ђ. 	Хајдуци : биљешке с пута по Рујну : ELTeC издање	1831	1908	viaf:64038897 	1879		српски	13096	M	short	low	T2
+SRP18793_JovanJ_LjubavPatriot.xml	SRP18793	Јеремић, Јован 	Љубав и патриотизам : ELTeC издање	1860	1931	viaf:235008989 	1879		српски	10304	M	short	low	T2
+SRP18800_DragocenaOgrlica.xml	SRP18800	Комарчић, Лазар 	Драгоцена огрлица: прича у своје време : ELTeC издање	1833	1909	viaf:14831335 	1880		српски	51104	M	medium	low	T3
+SRP18840_DraginjaG_IzUcitZivota.xml	SRP18840	Гавриловић, Драга 	Из учитељичког живота : ELTeC издање	1854	1917	viaf:17281658 	1884		српски	18652	F	short	high	T3
+SRP18860_MilanDjM_OmerCelebija.xml	SRP18860	Милићевић, Милан Ђ. 	Омер Челебија : приповијетка из живота српскога народа : ELTeC издање	1831	1908	viaf:64038897 	1886		српски	33284	M	short	low	T3
+SRP18870_DraginjaG_Babadevojka.xml	SRP18870	Гавриловић, Драга 	Бабадевојка : ELTeC издање	1854	1917	viaf:17281658 	1887		српски	19350	F	short	high	T3
+SRP18871_LazarK_MojKocijas.xml	SRP18871	Комарчић, Лазар 	Мој кочијаш : слике 1883 године : ELTeC издање	1833	1909	viaf:14831335 	1887		српски	62835	M	medium	low	T3
+SRP18880_Sapcanin_Sanjalo.xml	SRP18880	Поповић-Шапчанин, Милорад 	Сањало : ELTeC издање	1847	1895	viaf:79455054 	1888		српски	44760	M	short	low	T3
+SRP18881_PavleMA_DuhVremena.xml	SRP18881	Марковић Адамов, Павле 	Дух времена сад је таки! : ELTeC издање	1855	1907	viaf:63747033 	1888		српски	34956	M	short	low	T3
+SRP18882_StevanVP_SumarevaCerka.xml	SRP18882	Поповић, Стеван В. 	Шумарева ћерка : приповетка из српскога живота / написао С. В. Поповић : ELTeC издање	1845	1918	viaf:262110860 	1888		српски	61971	M	medium	low	T3
+SRP18883_JakovI_Patnica.xml	SRP18883	Игњатовић, Јаков 	Патница : роман : ELTeC издање	1822	1889	viaf:4995002 	1888		српски	113699	M	long	low	T3
+SRP18890_DraginjaG_DevRoman.xml	SRP18890	Гавриловић, Драга 	Девојачки роман : ELTeC издање	1854	1917	viaf:17281658 	1889		српски	50732	F	medium	high	T3
+SRP18891_JankoV_Borci.xml	SRP18891	Веселиновић, Јанко М. 	Борци : роман из сеоског живота. Свеска 1 : ELTeC издање	1862	1905	viaf:66316956 	1889		српски	34683	M	short	high	T3
+SRP18892_PeraTod_SilazakSPrestola.xml	SRP18892	Тодоровић, Пера 	Силазак с престола : роман / написао Карио Амурели : ELTeC издање	1852	1907	viaf:2788090 	1889		српски	140344	M	long	low	T3
+SRP18910_CyedomirM_Ikonija.xml	SRP18910	Мијатовић, Чедомиљ 	Иконија везирова мајка: приповетка из XVII века : ELTeC издање	1842	1932	viaf:42116339 	1891		српски	23508	M	short	low	T3
+SRP18911_StevanJJ_Danica.xml	SRP18911	Јевтић, Стеван Ј. 	Даница : роман из београдског живота : ELTeC издање	1854	1904	viaf:68773127	1891		српски	33463	M	short	low	T3
+SRP18921_DusanR_SrbinHrvatica.xml	SRP18921	Рогић, Душан 	Србин и Хрватица или љубав и народност : роман : Из народносних размирица Срба и Хрвата у Загребу : ELTeC издање	1855	?	viaf:94150747024316301259 	1892		српски	10333	M	short	low	T3
+SRP18922_SimoM_Bakonja.xml	SRP18922	Матавуљ, Симо 	Бакоња фра-Брне : његово ђаковање и постриг : ELTeC издање	1852	1908	viaf:22201524 	1892	viaf:3724151656276608400000 	српски	55285	M	medium	high	T3
+SRP18923_NN_BeogradskeTajne.xml	SRP18923	Тодоровић, Пера 	Београдске тајне : историски роман из српске прошлости, с краја прошлог века!. Св. 1 : ELTeC издање	1852	1907	viaf:2788090 	1892		српски	131254	M	long	low	T3
+SRP18930_AndraG_PrveZrtve.xml	SRP18930	Гавриловић, Андра 	Прве жртве: приповетка из српске прошлости : ELTeC издање	1864	1929	viaf:14822825 	1893		српски	36654	M	short	low	T3
+SRP18932_JankoV_Seljanka.xml	SRP18932	Веселиновић, Јанко М. 	Сељанка : приповетка из сеоског живота : ELTeC издање	1862	1905	viaf:66316956 	1888		српски	41635	M	short	high	T3
+SRP18933_PeraTod_SmrtKaradjordja.xml	SRP18933	Тодоровић, Пера 	Смрт Карађорђева : историски роман из недавне прошлости : ELTeC издање	1852	1907	viaf:2788090 	1893		српски	78820	M	medium	high	T3
+SRP18934_LazarK_1RazorenUm.xml	SRP18934	Комарчић, Лазар 	Један разорен ум : ELTeC издање	1833	1909	viaf:14831335 	1893		српски	36400	M	short	high	T3
 SRP18935_RobinjicaZlata.xml	SRP18935	Јовичић, Живојин 	Робињица Злата : приповетка из прошлости : ELTeC издање	1837	1908		1893		српски	28468	M	short	low	T3
-SRP18940_MihailoS_RadeticaMara.xml	SRP18940	Сретеновић, Михаило 	Радетића Мара: приповетка из сеоскога живота : ELTeC издање	1866	1934	viaf:305714513	1894		српски	40034	M	short	low	T3
-SRP18941_StevanS_PopViraPopSpira.xml	SRP18941	Сремац, Стеван 	Поп Ћира и поп Спира : приповетка : ELTeC издање	1855	1906	viaf:66526515	1894	viaf:5950153063248319320004	српски	94338	M	medium	high	T3
-SRP18942_DimitijeR-Sinovac.xml	SRP18942	Радовић, Димитрије 	Синовац : оригинални роман : ELTeC издање	????	????		1894		српски	37860	M	short	low	T3
-SRP18950_StevanS_IvakovaSlava.xml	SRP18950	Сремац, Стеван 	Ивкова слава : приповетка : ELTeC издање	1855	1906	viaf:66526515	1895	viaf:4401156990991061180007	српски	42963	M	short	high	T3
-SRP18951_VladimirS_KaznjenoNeverstvo.xml	SRP18951	Светолик, Владимир	Кажњено неверство : најновији роман / написао К. Б. : ELTeC издање				1895		српски	71824	M	medium	low	T3
-SRP18960_TadijaK_GospodaSeljaci.xml	SRP18960	Костић, Тадија П. 	Господа сељаци: приповетка : ELTeC издање	1863	1927	viaf:35277007	1896		српски	29862	M	short	low	T3
-SRP18961_StevanM_NejednakaBraca_corr_20201221.xml	SRP18961	Мамузић, Стеван 	Неједнака браћа : приповетка за народ : ELTeC издање	????	????	viaf:128149841986602842118	1896		српски	20478	M	short	low	T3
-SRP18962_DusanDj_KonacDelo.xml	SRP18962	Ђурић, Душан 	Конац дело краси : српској младежи приповеда Душан Ђурић : ELTeC издање	????	????		1896		српски	11402	M	short	low	T3
-SRP18963_Hajduk_Stanko.xml	SRP18963	Веселиновић, Јанко М. 	Хајдук Станко : историјски роман : ELTeC издање	1862	1905	viaf:66316956	1896	viaf:312345632	српски	93693	M	medium	high	T3
-SRP18964_AndraG_DespotovaVlastela.xml	SRP18964	Гавриловић, Андра 	Деспотова властела : роман из српске прошлости : ELTeC издање	1864	1929	viaf:14822825	1896		српски	51288	M	medium	low	T3
-SRP18965_KostaP_Neimari_saKrajem.xml	SRP18965	Петровић, Коста 	Неимари : роман из новије српске историје : ELTeC издање	1858	1928	viaf:74867281	1896		српски	55063	M	medium	low	T3
-SRP18966_JasaT_Nazareni.xml	SRP18966	Томић, Јаша 	Назарени : роман : ELTeC издање	1856	1922	viaf:5742092	1896		српски	74956	M	medium	low	T3
-SRP18970_StevanMat_GroficaAgnesa.xml	SRP18970	Матијашић, Стеван М. 	Грофица Агнеша Јанковић : роман : ELTeC издање	????	????		1897		српски	71448	M	medium	low	T3
-SRP18971_SvetolikR_GorskiCar.xml	SRP18971	Ранковић, Светолик 	Горски цар : роман : ELTeC издање	1863	1899	viaf:29567902	1897		српски	64993	M	medium	high	T3
-SRP18980_LazaL_Svabica.xml	SRP18980	Лазаревић, Лаза К. 	Швабица : ELTeC издање	1851	1891	viaf:17270562	1898		српски	13848	M	short	high	T3
-SRP18990_MijatovicCy_KnezGradoje.xml	SRP18990	Мијатовић, Чедомиљ 	Кнез Градоје од Орлова Града : приповетка из времена боја на Косову : ELTeC издање	1842	1932	viaf:42116339	1899		српски	45062	M	short	low	T3
-SRP18991_BorisavS_UvelaRuza.xml	SRP18991	Станковић, Борисав 	Увела ружа : ELTeC издање	1876	1927	viaf:76323147	1899	viaf:310476779	српски	10080	M	short	high	T3
-SRP18992_VelislavJ_LutajuceDuse.xml	SRP18992	Јањић, Велислав 	Лутајуће душе : приповетка за поуку : намењено задругарству : ELTeC издање	????	????		1899		српски	31258	M	short	low	T3
-SRP18993_SvetolikR_SeoskaUciteljica.xml	SRP18993	Ранковић, Светолик 	Сеоска учитељица : роман : ELTeC издање	1863	1899	viaf:29567902	1899		српски	58821	M	medium	high	T3
-SRP19000_SvetolikR_PoruseniIdeali.xml	SRP19000	Ранковић, Светолик 	Порушени идеали : роман : ELTeC издање	1863	1899	viaf:29567902	1900		српски	57371	M	medium	high	T4
-SRP19001_MilanovoSkolovanje.xml	SRP19001	Тутуновић, Радојица В. 	Миланово школовање : ELTeC издање	????	????		1900		српски	69511	M	medium	low	T4
-SRP19002_KrvaviZlocin.xml	SRP19002	Кара-Радовановић, Павле 	Крвави злочин у браку без љубави : ELTeC издање	????	????		1900		српски	20414	M	short	low	T4
-SRP19010_TodorP_Gila.xml	SRP19010	Поповић, Тодор Љ. 	Гила : новела из сеоског живота : ELTeC издање	1870	1957	viaf:1325145856883922920245	1901		српски	34960	M	short	low	T4
-SRP19011_VidVV_CarDubrovnik.xml	SRP19011	Вулетић-Вукасовић, Вид 	Причек Цара Душана у Дубровнику год. 1349. : историчка новела из XIVв. : ELTeC издање	1853	1933	viaf:303498941	1901		српски	24883	M	short	low	T4
-SRP19012_JelenaD_DjulMarika.xml	SRP19012	Димитријевић, Јелена 	Ђул-Марикина прикажња : приповетка : ELTeC издање	1862	1945	viaf:70015495	1901		српски	20244	F	short	low	T4
-SRP19021_BranislavN_OpstinskoDet.xml	SRP19021	Нушић, Бранислав 	Општинско дете: роман једног одојчета : ELTeC издање	1864	1938	viaf:73889774	1902		српски	63780	M	medium	high	T4
-SRP19022_BorisavS_PokojnikovaZena.xml	SRP19022	Станковић, Борисав 	Покојникова жена : ELTeC издање	1876	1927	viaf:76323147	1902		српски	10109	M	short	high	T4
-SRP19023_DragutinR_Slavko.xml	SRP19023	Ранковић, Драгутин Ј. 	Славко : ELTeC издање	1882	1956	viaf:252838823	1902		српски	25302	M	short	low	T4
-SRP19024_MickoHarambasa.xml	SRP19024	Тасић, Димитрије С. 	Харамбаша Мицко : српски војвода и заточеник у Фесану : ELTeC издање	????	????	viaf:305715401	1902		српски	59480	M	medium	low	T4
-SRP19025_RadojeD_Stradija.xml	SRP19025	Домановић, Радоје М. 	Страдија. 1 : ELTeC издање	1873	1908	viaf:7623303	1902	viaf:175915304	српски	19747	M	short	high	T4
-SRP19030_PrvoVeselje.xml	SRP19030	Костић, Тадија П. 	Прво весеље : приповетка : ELTeC издање	1863	1927	viaf:35277007	1903		српски	37860	M	short	low	T4
-SRP19031_BozaS_DveSestre.xml	SRP19031	Савић, Божа 	Две сестре или Самоубиство једне шваље : слика из београдског живота : ELTeC издање	1862	1927	viaf:305714596	1903		српски	54818	M	medium	low	T4
-SRP19040_DragutinI_Djera.xml	SRP19040	Илић, Драгутин Ј. 	Хаџи-Ђера : приповетка : ELTeC издање	1858	1926	viaf:79412565	1897		српски	53009	M	medium	high	T3
-SRP19041_IvoC_ZaKruhom.xml	SRP19041	Ћипико, Иво 	За крухом : ELTeC издање	1869	1923	viaf:22935492	1904		српски	53434	M	medium	high	T4
-SRP19051_SvetozarC_ZenidbaPK.xml	SRP19051	Ћоровић, Светозар 	Женидба Пере Карантана : ELTeC издање	1875	1919	viaf:136335	1905		српски	24155	M	short	low	T4
-SRP19060_PeraT_Novac.xml	SRP19060	Талетов, Пера С. 	Новац : роман из београдског живота : ELTeC издање	1875	1955	viaf:26486103	1906		српски	81145	M	medium	low	T4
-SRP19061_DragutinI_HadziDisa.xml	SRP19061	Илић, Драгутин Ј. 	Хаџи-Диша : роман из живота старог Београда : ELTeC издање	1858	1926	viaf:79412565	1906		српски	60999	M	medium	high	T4
-SRP19062_KostaJ_ZlocinSvekrve.xml	SRP19062	Јездић, Коста Д. 	Злочин једне свекрве : криминална приповетка : из скоре прошлости / по аутентичним податцима и судским актима написао К. Д. Јездић : ELTeC издање	1853	1930	viaf:58399970	1906		српски	40431	M	short	low	T4
-SRP19070_JelenaD_FatiSultan.xml	SRP19070	Димитријевић, Јелена 	Фати-султан : ELTeC издање	1862	1945	viaf:70015495	1903		српски	25421	F	short	low	T4
-SRP19071_StevanS_ZonaZ.xml	SRP19071	Сремац, Стеван 	Зона Замфирова : приповетка : ELTeC издање	1855	1906	viaf:66526515	1907	viaf:6726152502776510800003	српски	51414	M	medium	high	T4
+SRP18940_MihailoS_RadeticaMara.xml	SRP18940	Сретеновић, Михаило 	Радетића Мара: приповетка из сеоскога живота : ELTeC издање	1866	1934	viaf:305714513 	1894		српски	40034	M	short	low	T3
+SRP18941_StevanS_PopViraPopSpira.xml	SRP18941	Сремац, Стеван 	Поп Ћира и поп Спира : приповетка : ELTeC издање	1855	1906	viaf:66526515 	1894	viaf:5950153063248319320004 	српски	94338	M	medium	high	T3
+SRP18942_DimitijeR-Sinovac.xml	SRP18942	Радовић, Димитрије 	Синовац : оригинални роман : ELTeC издање	????	?		1894		српски	37860	M	short	low	T3
+SRP18950_StevanS_IvakovaSlava.xml	SRP18950	Сремац, Стеван 	Ивкова слава : приповетка : ELTeC издање	1855	1906	viaf:66526515 	1895	viaf:4401156990991061180007 	српски	42963	M	short	high	T3
+SRP18951_VladimirS_KaznjenoNeverstvo.xml	SRP18951	Светолик, Владимир	Кажњено неверство : најновији роман : ELTeC издање				1895		српски	71824	M	medium	low	T3
+SRP18961_StevanM_NejednakaBraca_corr_20201221.xml	SRP18961	Мамузић, Стеван 	Неједнака браћа : приповетка за народ : ELTeC издање	????	?	viaf:128149841986602842118 	1896		српски	20478	M	short	low	T3
+SRP18963_Hajduk_Stanko.xml	SRP18963	Веселиновић, Јанко М. 	Хајдук Станко : историјски роман : ELTeC издање	1862	1905	viaf:66316956 	1896	viaf:312345632 	српски	93693	M	medium	high	T3
+SRP18964_AndraG_DespotovaVlastela.xml	SRP18964	Гавриловић, Андра 	Деспотова властела : роман из српске прошлости : ELTeC издање	1864	1929	viaf:14822825 	1896		српски	51288	M	medium	low	T3
+SRP18965_KostaP_Neimari_saKrajem.xml	SRP18965	Петровић, Коста 	Неимари : роман из новије српске историје : ELTeC издање	1858	1928	viaf:74867281 	1896		српски	55063	M	medium	low	T3
+SRP18966_JasaT_Nazareni.xml	SRP18966	Томић, Јаша 	Назарени : роман : ELTeC издање	1856	1922	viaf:5742092 	1896		српски	74956	M	medium	low	T3
+SRP18970_StevanMat_GroficaAgnesa.xml	SRP18970	Матијашић, Стеван М. 	Грофица Агнеша Јанковић : роман : ELTeC издање	????	?		1897		српски	71448	M	medium	low	T3
+SRP18971_SvetolikR_GorskiCar.xml	SRP18971	Ранковић, Светолик 	Горски цар : роман : ELTeC издање	1863	1899	viaf:29567902 	1897		српски	64993	M	medium	high	T3
+SRP18980_LazaL_Svabica.xml	SRP18980	Лазаревић, Лаза К. 	Швабица : ELTeC издање	1851	1891	viaf:17270562 	1898		српски	13848	M	short	high	T3
+SRP18990_MijatovicCy_KnezGradoje.xml	SRP18990	Мијатовић, Чедомиљ 	Кнез Градоје од Орлова Града : приповетка из времена боја на Косову : ELTeC издање	1842	1932	viaf:42116339 	1899		српски	45062	M	short	low	T3
+SRP18991_BorisavS_UvelaRuza.xml	SRP18991	Станковић, Борисав 	Увела ружа : ELTeC издање	1876	1927	viaf:76323147 	1899	viaf:310476779 	српски	10080	M	short	high	T3
+SRP18992_VelislavJ_LutajuceDuse.xml	SRP18992	Јањић, Велислав 	Лутајуће душе : приповетка за поуку : намењено задругарству : ELTeC издање	????	?		1899		српски	31258	M	short	low	T3
+SRP18993_SvetolikR_SeoskaUciteljica.xml	SRP18993	Ранковић, Светолик 	Сеоска учитељица : роман : ELTeC издање	1863	1899	viaf:29567902 	1899		српски	58821	M	medium	high	T3
+SRP19000_SvetolikR_PoruseniIdeali.xml	SRP19000	Ранковић, Светолик 	Порушени идеали : роман : ELTeC издање	1863	1899	viaf:29567902 	1900		српски	57371	M	medium	high	T4
+SRP19001_MilanovoSkolovanje.xml	SRP19001	Тутуновић, Радојица В. 	Миланово школовање : ELTeC издање	????	?		1900		српски	69511	M	medium	low	T4
+SRP19002_KrvaviZlocin.xml	SRP19002	Кара-Радовановић, Павле 	Крвави злочин у браку без љубави : ELTeC издање	????	?		1900		српски	20414	M	short	low	T4
+SRP19010_TodorP_Gila.xml	SRP19010	Поповић, Тодор Љ. 	Гила : новела из сеоског живота : ELTeC издање	1870	1957	viaf:1325145856883922920245 	1901		српски	34960	M	short	low	T4
+SRP19011_VidVV_CarDubrovnik.xml	SRP19011	Вулетић-Вукасовић, Вид 	Причек Цара Душана у Дубровнику год. 1349. : историчка новела из XIVв. : ELTeC издање	1853	1933	viaf:303498941 	1901		српски	24883	M	short	low	T4
+SRP19012_JelenaD_DjulMarika.xml	SRP19012	Димитријевић, Јелена 	Ђул-Марикина прикажња : приповетка : ELTeC издање	1862	1945	viaf:70015495 	1901		српски	20244	F	short	low	T4
+SRP19021_BranislavN_OpstinskoDet.xml	SRP19021	Нушић, Бранислав 	Општинско дете: роман једног одојчета : ELTeC издање	1864	1938	viaf:73889774 	1902		српски	63780	M	medium	high	T4
+SRP19023_DragutinR_Slavko.xml	SRP19023	Ранковић, Драгутин Ј. 	Славко : ELTeC издање	1882	1956	viaf:252838823 	1902		српски	25302	M	short	low	T4
+SRP19024_MickoHarambasa.xml	SRP19024	Тасић, Димитрије С. 	Харамбаша Мицко : српски војвода и заточеник у Фесану : ELTeC издање	????	?	viaf:305715401 	1902		српски	59480	M	medium	low	T4
+SRP19025_RadojeD_Stradija.xml	SRP19025	Домановић, Радоје М. 	Страдија. 1 : ELTeC издање	1873	1908	viaf:7623303 	1902	viaf:175915304 	српски	19747	M	short	high	T4
+SRP19030_PrvoVeselje.xml	SRP19030	Костић, Тадија П. 	Прво весеље : приповетка : ELTeC издање	1863	1927	viaf:35277007 	1903		српски	37860	M	short	low	T4
+SRP19031_BozaS_DveSestre.xml	SRP19031	Савић, Божа 	Две сестре или Самоубиство једне шваље : слика из београдског живота : ELTeC издање	1862	1927	viaf:305714596 	1903		српски	54818	M	medium	low	T4
+SRP19040_DragutinI_Djera.xml	SRP19040	Илић, Драгутин Ј. 	Хаџи-Ђера : приповетка : ELTeC издање	1858	1926	viaf:79412565 	1897		српски	53009	M	medium	high	T3
+SRP19041_IvoC_ZaKruhom.xml	SRP19041	Ћипико, Иво 	За крухом : ELTeC издање	1869	1923	viaf:22935492 	1904		српски	53434	M	medium	high	T4
+SRP19051_SvetozarC_ZenidbaPK.xml	SRP19051	Ћоровић, Светозар 	Женидба Пере Карантана : ELTeC издање	1875	1919	viaf:136335 	1905		српски	24155	M	short	low	T4
+SRP19060_PeraT_Novac.xml	SRP19060	Талетов, Пера С. 	Новац : роман из београдског живота : ELTeC издање	1875	1955	viaf:26486103 	1906		српски	81145	M	medium	low	T4
+SRP19061_DragutinI_HadziDisa.xml	SRP19061	Илић, Драгутин Ј. 	Хаџи-Диша : роман из живота старог Београда : ELTeC издање	1858	1926	viaf:79412565 	1906		српски	60999	M	medium	high	T4
+SRP19062_KostaJ_ZlocinSvekrve.xml	SRP19062	Јездић, Коста Д. 	Злочин једне свекрве : криминална приповетка : из скоре прошлости / по аутентичним податцима и судским актима написао К. Д. Јездић : ELTeC издање	1853	1930	viaf:58399970 	1906		српски	40431	M	short	low	T4
+SRP19063_RadovanTPN_ZemljaPlaca.xml	SRP19063	Тунгуз-Перовић, Радован 	Из земље плача : ELTeC издање	1879	1944	viaf:305581066 	1906		српски	53737	M	medium	low	T4
+SRP19070_JelenaD_FatiSultan.xml	SRP19070	Димитријевић, Јелена 	Фати-султан : ELTeC издање	1862	1945	viaf:70015495 	1903		српски	25421	F	short	low	T4
+SRP19071_StevanS_ZonaZ.xml	SRP19071	Сремац, Стеван 	Зона Замфирова : приповетка : ELTeC издање	1855	1906	viaf:66526515 	1907	viaf:6726152502776510800003 	српски	51414	M	medium	high	T4
 SRP19080_ModernoRoblje.xml	SRP19080	Петровић, Бошко Ст. 	Модерно робље : роман из живота босанских Срба : ELTeC издање	1869	1913		1908		српски	64727	M	medium	low	T4
-SRP19090_IvoC_Pauci.xml	SRP19090	Ћипико, Иво 	Пауци : ELTeC издање	1869	1923	viaf:22935492	1909	viaf:8035151656335508400003	српски	42271	M	short	high	T4
-SRP19091_SretenD_Preporodjaj.xml	SRP19091	Динић, Сретен 	Препорођај : ELTeC издање	1875	1949	viaf:55248036	1909		српски	34074	M	short	low	T4
-SRP19100_MilutinU_Dosljaci.xml	SRP19100	Ускоковић, Милутин 	Дошљаци : роман : ELTeC издање	1884	1915	viaf:14831361	1910	viaf:2270156374127807710006	српски	81827	M	medium	high	T4
-SRP19101_BorisavS_NecistaKrv.xml	SRP19101	Станковић, Борисав 	Нечиста крв : ELTeC издање	1876	1927	viaf:76323147	1910	viaf:208715862	српски	67341	M	medium	high	T4
-SRP19102_JovanM_Radisa.xml	SRP19102	Миодраговић, Јован 	Радиша или какав нам учитељ треба на селу : ELTeC издање	1854	1926	viaf:37838247	1910		српски	121441	M	long	low	T4
-SRP19110_MilutinU_PotroseneReci.xml	SRP19110	Ускоковић, Милутин 	Потрошене речи : ELTeC издање	1884	1915	viaf:14831361	1911		српски	12023	M	short	low	T4
-SRP19120_JelenaD-Nove.xml	SRP19120	Димитријевић, Јелена 	Нове : роман : ELTeC издање	1862	1945	viaf:70015495	1912		српски	94927	F	medium	low	T4
-SRP19121_VeljkoM_Bespuce.xml	SRP19121	Милићевић, Вељко М. 	Беспуће : ELTeC издање	1886	1929	viaf:81151776825018012654	1912	viaf:182747317	српски	21144	M	short	high	T4
-SRP19130_StojanN_KaludjerHajduk.xml	SRP19130	Новаковић, Стојан 	Калуђер и хајдук : приповетка о последњим данима Србије у XV веку : ELTeC издање	1842	1915	viaf:64052399	1913		српски	60464	M	medium	high	T4
-SRP19131_VladanDj_UFront.xml	SRP19131	Ђорђевић, Владан 	У фронт : приповетка из живота једног бившег краља : ELTeC издање	1844	1930	viaf:106964101	1913		српски	29543	M	short	low	T4
-SRP19132_SvetozarC_Jarani.xml	SRP19132	Ћоровић, Светозар 	Јарани : приповетка : ELTeC издање	1875	1919	viaf:136335	1913		српски	47623	M	short	low	T4
-SRP19140_MilutinU_CedomirIlic.xml	SRP19140	Ускоковић, Милутин 	Чедомир Илић : роман : ELTeC издање	1884	1915	viaf:14831361	1914	viaf:177891853	српски	53474	M	medium	high	T4
-SRP19141_MladenDj_KadSumeTalasi.xml	SRP19141	Ђуричић, Младен Ст. 	Кад шуме таласи : ELTeC издање	1889	1987	viaf:38235595	1914		српски	10399	M	short	low	T4
-SRP19180_MilicaJ_PreSrece.xml	SRP19180	Јанковић, Милица 	Пре среће : ELTeC edition	1881	1939	viaf:41876311	1918		српски	32555	F	short	low	T4
-SRP19190_IsidoraS_Djakon.xml	SRP19190	Секулић, Исидора 	Ђакон Богородичине цркве : ELTeC издање	1877	1958	viaf:4943681	1919		српски	51973	F	medium	high	T4
-SRP19192_SvetozarC_Ucelijama.xml	SRP19192	Ћоровић, Светозар 	У ћелијама : ELTeC издање	1875	1919	viaf:136335	1919		српски	38705	M	short	low	T4
-SRP19200_DragomirS_JedanOd.xml	SRP19200	Шишковић, Драгомир 	Један од многих : роман из престоничког живота : ELTeC издање	????	????		1920		српски	17942	M	short	low	T4
-SRP19201_BranislavN_1915.xml	SRP19201	Нушић, Бранислав 	Деветсто петнаеста : трагедија једног народа : ELTeC издање	1864	1938	viaf:73889774	1920	viaf:316307701	српски	155059	M	long	high	T4
-SRP19203_KamenkoS_LegijaSmrti.xml	SRP19203	Суботић, Каменко 	Легија смрти : роман из Балканског рата 1912/1913. (написао Бранислав Јуришић) : ELTeC издање	1870	1932	viaf:184145541835596601348	1920		српски	156268	M	long	low	T4
+SRP19090_IvoC_Pauci.xml	SRP19090	Ћипико, Иво 	Пауци : ELTeC издање	1869	1923	viaf:22935492 	1909	viaf:8035151656335508400003 	српски	42271	M	short	high	T4
+SRP19091_SretenD_Preporodjaj.xml	SRP19091	Динић, Сретен 	Препорођај : ELTeC издање	1875	1949	viaf:55248036 	1909		српски	34074	M	short	low	T4
+SRP19100_MilutinU_Dosljaci.xml	SRP19100	Ускоковић, Милутин 	Дошљаци : роман : ELTeC издање	1884	1915	viaf:14831361 	1910	viaf:2270156374127807710006 	српски	81827	M	medium	high	T4
+SRP19101_BorisavS_NecistaKrv.xml	SRP19101	Станковић, Борисав 	Нечиста крв : ELTeC издање	1876	1927	viaf:76323147 	1910	viaf:208715862 	српски	67341	M	medium	high	T4
+SRP19102_JovanM_Radisa.xml	SRP19102	Миодраговић, Јован 	Радиша или какав нам учитељ треба на селу : ELTeC издање	1854	1926	viaf:37838247 	1910		српски	121441	M	long	low	T4
+SRP19120_JelenaD-Nove.xml	SRP19120	Димитријевић, Јелена 	Нове : роман : ELTeC издање	1862	1945	viaf:70015495 	1912		српски	94927	F	medium	low	T4
+SRP19121_VeljkoM_Bespuce.xml	SRP19121	Милићевић, Вељко М. 	Беспуће : ELTeC издање	1886	1929	viaf:81151776825018012654 	1912	viaf:182747317 	српски	21144	M	short	high	T4
+SRP19130_StojanN_KaludjerHajduk.xml	SRP19130	Новаковић, Стојан 	Калуђер и хајдук : приповетка о последњим данима Србије у XV веку : ELTeC издање	1842	1915	viaf:64052399 	1913		српски	60464	M	medium	high	T4
+SRP19131_VladanDj_UFront.xml	SRP19131	Ђорђевић, Владан 	У фронт : приповетка из живота једног бившег краља : ELTeC издање	1844	1930	viaf:106964101 	1913		српски	29543	M	short	low	T4
+SRP19132_SvetozarC_Jarani.xml	SRP19132	Ћоровић, Светозар 	Јарани : приповетка : ELTeC издање	1875	1919	viaf:136335 	1913		српски	47623	M	short	low	T4
+SRP19140_MilutinU_CedomirIlic.xml	SRP19140	Ускоковић, Милутин 	Чедомир Илић : роман : ELTeC издање	1884	1915	viaf:14831361 	1914	viaf:177891853 	српски	53474	M	medium	high	T4
+SRP19141_MladenDj_KadSumeTalasi.xml	SRP19141	Ђуричић, Младен Ст. 	Кад шуме таласи : ELTeC издање	1889	1987	viaf:38235595 	1914		српски	10399	M	short	low	T4
+SRP19180_MilicaJ_PreSrece.xml	SRP19180	Јанковић, Милица 	Пре среће : ELTeC издање	1881	1939	viaf:41876311 	1918		српски	32555	F	short	low	T4
+SRP19181_DragomirSP_VojnikStojan.xml	SRP19181	Петровић, Драгомир С.	Војник Стојан : недовршен ратни роман : ELTeC издање			viaf:1585145856998122920810 	1918		српски	52913	M	medium	low	T4
+SRP19190_IsidoraS_Djakon.xml	SRP19190	Секулић, Исидора 	Ђакон Богородичине цркве : ELTeC издање	1877	1958	viaf:4943681 	1919		српски	51973	F	medium	high	T4
+SRP19192_SvetozarC_Ucelijama.xml	SRP19192	Ћоровић, Светозар 	У ћелијама : ELTeC издање	1875	1919	viaf:136335 	1919		српски	38705	M	short	low	T4
+SRP19200_DragomirS_JedanOd.xml	SRP19200	Шишковић, Драгомир 	Један од многих : роман из престоничког живота : ELTeC издање	????	?	Q108983656	1920		српски	17942	M	short	low	T4
+SRP19201_BranislavN_1915.xml	SRP19201	Нушић, Бранислав 	Деветсто петнаеста : трагедија једног народа : ELTeC издање	1864	1938	viaf:73889774 	1920	viaf:316307701 	српски	155059	M	long	high	T4
+SRP19203_KamenkoS_LegijaSmrti.xml	SRP19203	Суботић, Каменко 	Легија смрти : роман из Балканског рата 1912/1913. (написао Бранислав Јуришић) : ELTeC издање	1870	1932	viaf:184145541835596601348 	1920		српски	156268	M	long	low	T4
+														
+											8	55	62	2
+											92	39	38	18
+												6		40
+														40
+														
+														
