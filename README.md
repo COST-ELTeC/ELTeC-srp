@@ -17,9 +17,23 @@ General information about ELTeC releases is available at https://github.com/COS
 
 * Collection editor: Cvetana Krstev
 * Contributors: Ranka Stanković, Aleksandra Trtovac, Vasilije Milnović, volunteers of Jerteh (Society for Language Resources and Technologies - http://jerteh.rs/),the most active Duško Vitas and Ivan Obradović;
-* Sources: University Library “Svetozar Marković”, National Library of Serbia, "Matica srpska" Library, Library of SASA, Library of Serbian Literature Department at Faculty of Philology UB, private library Cvetana Krstev & Duško Vitas
+* Sources: University Library “Svetozar Marković”, National Library of Serbia, "Matica srpska" Library, Library of SASA, Library of Serbian Literature Department at the Faculty of Philology UB, private library Cvetana Krstev & Duško Vitas
 
 ### Citation suggestions
+
+Trtovac, A., Milnović, V., & Krstev, C. (2022). The Serbian Part of the ELTeC - from the Empty List to the 100 Novels Collection. Infotheca - Journal For Digital Humanities, 21(2), 7-25. doi:10.18485/infotheca.2021.21.2.1
+
+@article{IJDH,
+	author = {Aleksandra Trtovac and Vasilije Milnović and Cvetana Krstev},
+	title = {The Serbian Part of the ELTeC - from the Empty List to the 100 Novels Collection},
+	journal = {Infotheca - Journal for Digital Humanities},
+	volume = {21},
+	number = {2},
+	year = {2022},
+  doi = {10.18485/infotheca.2021.21.2.1},
+	url = {https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.1_en}
+}
+
 
 ## Licence
 
